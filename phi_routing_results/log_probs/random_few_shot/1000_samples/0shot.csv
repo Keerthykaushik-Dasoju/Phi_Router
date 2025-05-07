@@ -1,0 +1,1027 @@
+sample_id,phi_prediction,phi_response,oracle_model_to_route
+mmlu-high-school-macroeconomics.val.127,claude-v2,claude-v2,mistralai/mixtral-8x7b-chat
+mmlu-formal-logic.val.82,WizardLM/WizardLM-13B-V1.2,D,claude-instant-v1
+hellaswag.val.7968,claude-v2,B,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.4037,meta/llama-2-70b-chat,meta/llama-2-70b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-global-facts.val.6,claude-v2,claude-v2,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.1409,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mistral-7b-chat
+mmlu-high-school-microeconomics.val.133,claude-v2,claude-v2,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.3926,meta/llama-2-70b-chat,meta/llama-2-70b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-moral-scenarios.val.389,meta/llama-2-70b-chat,"C) Wrong, Not wrong",WizardLM/WizardLM-13B-V1.2
+hellaswag.val.3378,claude-v2,C,zero-one-ai/Yi-34B-Chat
+winogrande.dev.647,claude-v2,claude-v2,WizardLM/WizardLM-13B-V1.2
+mmlu-security-studies.val.180,claude-v2,B,mistralai/mixtral-8x7b-chat
+arc-challenge.test.959,WizardLM/WizardLM-13B-V1.2,Model D,mistralai/mistral-7b-chat
+mmlu-professional-law.val.558,claude-v2,claude-v2,gpt-4-1106-preview
+mmlu-high-school-psychology.val.109,claude-v2,D) Mania,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.5826,meta/llama-2-70b-chat,meta/llama-2-70b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-psychology.val.206,claude-v2,B,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.763,claude-v2,C,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.6880,claude-v2,A,zero-one-ai/Yi-34B-Chat
+hellaswag.val.6222,claude-v2,B,zero-one-ai/Yi-34B-Chat
+mmlu-high-school-microeconomics.val.49,claude-v2,claude-v2,mistralai/mistral-7b-chat
+arc-challenge.test.59,WizardLM/WizardLM-13B-V1.2,Model A (WizardLM/WizardLM-13B-V1.2),mistralai/mistral-7b-chat
+mmlu-high-school-psychology.val.532,claude-v2,Model C,WizardLM/WizardLM-13B-V1.2
+mmlu-electrical-engineering.val.72,claude-v2,B) LED,mistralai/mixtral-8x7b-chat
+arc-challenge.val.125,claude-v2,Model B (claude-v2),mistralai/mixtral-8x7b-chat
+mmlu-professional-psychology.val.581,claude-v2,Model C,claude-instant-v1
+hellaswag.val.9534,claude-v2,C,WizardLM/WizardLM-13B-V1.2
+mmlu-human-aging.val.140,claude-v2,Model D,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.3972,meta/llama-2-70b-chat,meta/llama-2-70b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.1172,claude-v2,B,claude-instant-v1
+grade-school-math.dev.1844,meta/llama-2-70b-chat,meta/llama-2-70b-chat,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.2702,claude-v2,Model A,mistralai/mistral-7b-chat
+grade-school-math.dev.6893,meta/llama-2-70b-chat,meta/llama-2-70b-chat,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.2730,claude-v2,D,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.4709,meta/llama-2-70b-chat,meta/llama-2-70b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-elementary-mathematics.val.360,claude-v2,claude-v2,mistralai/mistral-7b-chat
+mmlu-human-sexuality.val.63,claude-v2,B,WizardLM/WizardLM-13B-V1.2
+mmlu-college-medicine.val.154,WizardLM/WizardLM-13B-V1.2,Model C,mistralai/mistral-7b-chat
+grade-school-math.dev.6302,meta/llama-2-70b-chat,meta/llama-2-70b-chat,meta/llama-2-70b-chat
+grade-school-math.dev.2020,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mistral-7b-chat
+mmlu-high-school-world-history.val.163,claude-v2,claude-v2,mistralai/mistral-7b-chat
+mmlu-econometrics.val.76,claude-v2,B) claude-instant-v1,WizardLM/WizardLM-13B-V1.2
+consensus_summary.dev.13,claude-v2,Model C,claude-v1
+hellaswag.val.10012,claude-v2,A,mistralai/mistral-7b-chat
+arc-challenge.val.282,claude-v2,claude-v2,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.93,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mixtral-8x7b-chat
+mmlu-world-religions.val.11,WizardLM/WizardLM-13B-V1.2,D) Soto Zen,mistralai/mixtral-8x7b-chat
+winogrande.dev.742,claude-v2,claude-v2,mistralai/mistral-7b-chat
+mmlu-electrical-engineering.val.135,claude-v2,claude-v2,zero-one-ai/Yi-34B-Chat
+mmlu-elementary-mathematics.val.233,claude-v2,claude-v2,no_model_correct
+mmlu-world-religions.val.44,claude-v2,claude-v2,mistralai/mixtral-8x7b-chat
+consensus_summary.dev.292,meta/llama-2-70b-chat,meta/llama-2-70b-chat,claude-instant-v1
+mmlu-clinical-knowledge.val.142,WizardLM/WizardLM-13B-V1.2,D) meta/llama-2-70b-chat,mistralai/mixtral-8x7b-chat
+mmlu-high-school-geography.val.73,meta/llama-2-70b-chat,D) meta/llama-2-70b-chat,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.5893,claude-v2,C,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.1110,claude-v2,claude-v2,no_model_correct
+mmlu-business-ethics.val.77,claude-v2,C) Human rights,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-accounting.val.138,claude-v2,claude-v2,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.4374,meta/llama-2-70b-chat,meta/llama-2-70b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1169,claude-v2,D) claude-v2,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.278,claude-v2,claude-v2,claude-instant-v1
+mmlu-high-school-psychology.val.475,WizardLM/WizardLM-13B-V1.2,B,WizardLM/WizardLM-13B-V1.2
+bias_detection.dev.62,claude-v2,"Model C — correctness: 1, cost: 0.3  
+Reasoning: The prompt requires classification of a sentence from a news article into specific categories like fact, opinion, claim, data, quote, narrative, sens",mistralai/mixtral-8x7b-chat
+arc-challenge.test.667,claude-v2,Model D,mistralai/mistral-7b-chat
+accounting_audit.dev.6,claude-v2,claude-v2,claude-instant-v1
+hellaswag.val.7030,claude-v2,B,zero-one-ai/Yi-34B-Chat
+hellaswag.val.8370,claude-v2,C,mistralai/mistral-7b-chat
+mmlu-international-law.val.119,claude-v2,B,WizardLM/WizardLM-13B-V1.2
+arc-challenge.test.602,claude-v2,claude-v2,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.498,meta/llama-2-70b-chat,D,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.1023,claude-v2,claude-v2,zero-one-ai/Yi-34B-Chat
+hellaswag.val.3857,claude-v2,B,claude-instant-v1
+hellaswag.val.1881,claude-v2,C,mistralai/mixtral-8x7b-chat
+mmlu-college-chemistry.val.80,WizardLM/WizardLM-13B-V1.2,Model C - Ti3+,no_model_correct
+hellaswag.val.325,claude-v2,C,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1113,claude-v2,D) claude-v2,mistralai/mistral-7b-chat
+mmlu-prehistory.val.36,claude-v2,B,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.2065,meta/llama-2-70b-chat,meta/llama-2-70b-chat,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.7399,meta/llama-2-70b-chat,meta/llama-2-70b-chat,gpt-3.5-turbo-1106
+mmlu-high-school-us-history.val.104,claude-v2,claude-v2,mistralai/mistral-7b-chat
+mmlu-nutrition.val.45,claude-v2,C,mistralai/mixtral-8x7b-chat
+arc-challenge.test.986,gpt-4-1106-preview,D,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.846,claude-v2,claude-v2,no_model_correct
+mmlu-anatomy.val.29,WizardLM/WizardLM-13B-V1.2,Model C,claude-v2
+mmlu-professional-law.val.1523,claude-v2,claude-v2,WizardLM/WizardLM-13B-V1.2
+mmlu-moral-scenarios.val.785,claude-v2,"D) Wrong, Not wrong",zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.2940,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mistral-7b-chat
+hellaswag.val.3806,claude-v2,B,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.192,claude-v2,claude-v2,mistralai/mixtral-8x7b-chat
+mmlu-management.val.57,claude-v2,C) meta/llama-2-70b-chat,gpt-3.5-turbo-1106
+mmlu-human-sexuality.val.62,claude-v2,claude-v2,zero-one-ai/Yi-34B-Chat
+mmlu-high-school-psychology.val.444,claude-v2,claude-v2,mistralai/mixtral-8x7b-chat
+mmlu-moral-scenarios.val.362,claude-v2,"C) Wrong, Not wrong",gpt-4-1106-preview
+mmlu-professional-law.val.997,meta/llama-2-70b-chat,claude-v2,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.7413,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mistral-7b-chat
+hellaswag.val.7488,claude-v2,C,claude-instant-v1
+grade-school-math.dev.4320,meta/llama-2-70b-chat,meta/llama-2-70b-chat,meta/llama-2-70b-chat
+mmlu-philosophy.val.96,claude-v2,claude-v2,claude-instant-v1
+grade-school-math.dev.1249,meta/llama-2-70b-chat,meta/llama-2-70b-chat,claude-instant-v1
+mmlu-miscellaneous.val.515,WizardLM/WizardLM-13B-V1.2,Model A,mistralai/mistral-7b-chat
+hellaswag.val.3235,claude-v2,A,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1344,claude-v2,claude-v2,mistralai/mistral-7b-chat
+arc-challenge.val.249,claude-v2,claude-v2,mistralai/mistral-7b-chat
+grade-school-math.dev.5107,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mistral-7b-chat
+hellaswag.val.9635,claude-v2,claude-v2,mistralai/mistral-7b-chat
+mmlu-econometrics.val.62,WizardLM/WizardLM-13B-V1.2,"C) (i), (ii), (iii), and (iv) only",mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.618,claude-v2,claude-v2,WizardLM/WizardLM-13B-V1.2
+mmlu-moral-scenarios.val.674,WizardLM/WizardLM-13B-V1.2,"D) Wrong, Not wrong",gpt-4-1106-preview
+mmlu-professional-law.val.708,claude-v2,claude-v2,claude-instant-v1
+hellaswag.val.7853,claude-v2,B,zero-one-ai/Yi-34B-Chat
+mmlu-security-studies.val.98,WizardLM/WizardLM-13B-V1.2,D,mistralai/mixtral-8x7b-chat
+hellaswag.val.9812,claude-v2,C,mistralai/mixtral-8x7b-chat
+mmlu-clinical-knowledge.val.137,claude-v2,claude-v2,mistralai/mistral-7b-chat
+grade-school-math.dev.4419,meta/llama-2-70b-chat,meta/llama-2-70b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-microeconomics.val.171,claude-v2,claude-v2,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.564,meta/llama-2-70b-chat,meta/llama-2-70b-chat,meta/code-llama-instruct-34b-chat
+hellaswag.val.7887,claude-v2,C,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.1526,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mistral-7b-chat
+hellaswag.val.278,claude-v2,Model D,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.2210,meta/llama-2-70b-chat,meta/llama-2-70b-chat,WizardLM/WizardLM-13B-V1.2
+mbpp.dev.175,meta/llama-2-70b-chat,claude-v2,meta/code-llama-instruct-34b-chat
+grade-school-math.dev.3037,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mistral-7b-chat
+hellaswag.val.4522,claude-v2,A,mistralai/mistral-7b-chat
+hellaswag.val.7739,claude-v2,D),zero-one-ai/Yi-34B-Chat
+mmlu-anatomy.val.26,WizardLM/WizardLM-13B-V1.2,D) Nephrolithiasis,mistralai/mistral-7b-chat
+mmlu-professional-law.val.406,claude-v2,D,mistralai/mistral-7b-chat
+mmlu-professional-accounting.val.45,claude-v2,claude-v2,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.1740,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mistral-7b-chat
+grade-school-math.dev.416,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mistral-7b-chat
+mmlu-abstract-algebra.val.48,claude-v2,D) WizardLM/WizardLM-13B-V1.2,claude-v1
+mmlu-professional-law.val.107,claude-v2,claude-v2,mistralai/mixtral-8x7b-chat
+mmlu-high-school-macroeconomics.val.109,meta/llama-2-70b-chat,D) meta/llama-2-70b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-moral-scenarios.val.27,claude-v2,"C) Not wrong, Wrong",zero-one-ai/Yi-34B-Chat
+mmlu-astronomy.val.17,claude-v2,Model C,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.7261,meta/llama-2-70b-chat,meta/llama-2-70b-chat,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.4133,meta/llama-2-70b-chat,meta/llama-2-70b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.335,claude-v2,claude-v2,claude-instant-v1
+grade-school-math.dev.1202,meta/llama-2-70b-chat,meta/llama-2-70b-chat,claude-v2
+hellaswag.val.5461,claude-v2,D,zero-one-ai/Yi-34B-Chat
+hellaswag.val.4468,claude-v2,C,gpt-3.5-turbo-1106
+consensus_summary.dev.189,meta/llama-2-70b-chat,N-A,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.883,claude-v2,claude-v2,zero-one-ai/Yi-34B-Chat
+mmlu-high-school-chemistry.val.171,claude-v2,claude-v2,no_model_correct
+arc-challenge.val.72,claude-v2,D,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.3385,claude-v2,B,zero-one-ai/Yi-34B-Chat
+hellaswag.val.293,claude-v2,claude-v2,mistralai/mistral-7b-chat
+mbpp.dev.110,claude-v2,claude-v2,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.1374,claude-v2,"C) rinses the soap off from his face in the sink.
+
+Model: claude-v2
+
+Reasoning: The claude-v2 model is chosen because it is designed for understanding and generating human-like",WizardLM/WizardLM-13B-V1.2
+mmlu-machine-learning.val.66,claude-v2,claude-v2,mistralai/mixtral-8x7b-chat
+mmlu-elementary-mathematics.val.292,claude-v2,B,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.6867,claude-v2,C) meta/llama-2-70b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-european-history.val.63,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,zero-one-ai/Yi-34B-Chat
+hellaswag.val.907,claude-v2,B,WizardLM/WizardLM-13B-V1.2
+arc-challenge.test.1064,claude-v2,claude-v2,mistralai/mixtral-8x7b-chat
+arc-challenge.test.989,claude-v2,C,mistralai/mistral-7b-chat
+hellaswag.val.1289,claude-v2,B,WizardLM/WizardLM-13B-V1.2
+mmlu-miscellaneous.val.139,claude-v2,Model C,claude-instant-v1
+grade-school-math.dev.5011,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mistral-7b-chat
+grade-school-math.dev.71,meta/llama-2-70b-chat,meta/llama-2-70b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-chemistry.val.57,WizardLM/WizardLM-13B-V1.2,Model C,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.8945,claude-v2,B,zero-one-ai/Yi-34B-Chat
+arc-challenge.test.1065,WizardLM/WizardLM-13B-V1.2,Model C,WizardLM/WizardLM-13B-V1.2
+mmlu-astronomy.val.100,claude-v2,Model B,mistralai/mistral-7b-chat
+hellaswag.val.7804,claude-v2,B,no_model_correct
+mmlu-high-school-mathematics.val.171,claude-v2,claude-v2,gpt-3.5-turbo-1106
+hellaswag.val.2593,claude-v2,B,mistralai/mixtral-8x7b-chat
+hellaswag.val.7573,claude-v2,B,zero-one-ai/Yi-34B-Chat
+mmlu-high-school-macroeconomics.val.329,claude-v2,Model C,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.1927,meta/llama-2-70b-chat,meta/llama-2-70b-chat,meta/llama-2-70b-chat
+grade-school-math.dev.1531,meta/llama-2-70b-chat,meta/llama-2-70b-chat,gpt-4-1106-preview
+mmlu-high-school-psychology.val.358,claude-v2,claude-v2,mistralai/mistral-7b-chat
+winogrande.dev.1241,claude-v2,A) Michael,mistralai/mistral-7b-chat
+grade-school-math.dev.2865,meta/llama-2-70b-chat,meta/llama-2-70b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-college-medicine.val.100,WizardLM/WizardLM-13B-V1.2,Model A,mistralai/mistral-7b-chat
+winogrande.dev.446,claude-v2,claude-v2,mistralai/mistral-7b-chat
+mmlu-high-school-biology.val.29,claude-v2,claude-v2,mistralai/mistral-7b-chat
+hellaswag.val.3025,claude-v2,claude-v2,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.5081,WizardLM/WizardLM-13B-V1.2,D,zero-one-ai/Yi-34B-Chat
+arc-challenge.test.604,claude-v2,claude-v2,zero-one-ai/Yi-34B-Chat
+mmlu-high-school-computer-science.val.94,claude-v2,Model C,claude-v2
+winogrande.dev.235,claude-v2,claude-v2,meta/llama-2-70b-chat
+grade-school-math.dev.3864,meta/llama-2-70b-chat,meta/llama-2-70b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-accounting.val.229,claude-v2,D) claude-v2,claude-v2
+mmlu-high-school-macroeconomics.val.6,WizardLM/WizardLM-13B-V1.2,A,mistralai/mistral-7b-chat
+grade-school-math.dev.915,meta/llama-2-70b-chat,meta/llama-2-70b-chat,claude-instant-v1
+hellaswag.val.3802,claude-v2,C,gpt-3.5-turbo-1106
+winogrande.dev.1234,claude-v2,claude-v2,mistralai/mistral-7b-chat
+grade-school-math.dev.7039,meta/llama-2-70b-chat,meta/llama-2-70b-chat,claude-instant-v1
+mmlu-professional-law.val.1026,claude-v2,B,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1294,claude-v2,claude-v2,WizardLM/WizardLM-13B-V1.2
+arc-challenge.test.436,claude-v2,claude-v2,mistralai/mixtral-8x7b-chat
+consensus_summary.dev.32,meta/llama-2-70b-chat,Meta/llama-2-70b-chat,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.8261,WizardLM/WizardLM-13B-V1.2,A,mistralai/mistral-7b-chat
+mmlu-clinical-knowledge.val.140,claude-v2,Model C,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.6364,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mixtral-8x7b-chat
+mmlu-jurisprudence.val.19,claude-v2,claude-v2,WizardLM/WizardLM-13B-V1.2
+consensus_summary.dev.241,meta/llama-2-70b-chat,Model C,claude-instant-v1
+grade-school-math.dev.6960,meta/llama-2-70b-chat,meta/llama-2-70b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-statistics.val.193,WizardLM/WizardLM-13B-V1.2,B,no_model_correct
+mmlu-medical-genetics.val.94,claude-v2,Model C,mistralai/mixtral-8x7b-chat
+mmlu-high-school-macroeconomics.val.298,claude-v2,claude-v2,zero-one-ai/Yi-34B-Chat
+mmlu-international-law.val.60,claude-v2,A) WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+hellaswag.val.4368,claude-v2,B,zero-one-ai/Yi-34B-Chat
+hellaswag.val.742,claude-v2,D) claude-v2,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-biology.val.62,claude-v2,Model C,mistralai/mistral-7b-chat
+mmlu-virology.val.77,claude-v2,B,mistralai/mistral-7b-chat
+hellaswag.val.2072,claude-v2,claude-v2,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-macroeconomics.val.378,claude-v2,claude-v2,mistralai/mistral-7b-chat
+grade-school-math.dev.1022,meta/llama-2-70b-chat,meta/llama-2-70b-chat,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.6258,claude-v2,C,zero-one-ai/Yi-34B-Chat
+mmlu-high-school-psychology.val.66,claude-v2,claude-v2,zero-one-ai/Yi-34B-Chat
+hellaswag.val.3292,claude-v2,C,mistralai/mistral-7b-chat
+grade-school-math.dev.4377,meta/llama-2-70b-chat,meta/llama-2-70b-chat,claude-instant-v1
+mmlu-professional-law.val.735,claude-v2,B,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.5658,claude-v2,C,mistralai/mistral-7b-chat
+hellaswag.val.7557,claude-v2,D,zero-one-ai/Yi-34B-Chat
+mmlu-international-law.val.102,claude-v2,claude-v2,mistralai/mistral-7b-chat
+hellaswag.val.6108,WizardLM/WizardLM-13B-V1.2,D,zero-one-ai/Yi-34B-Chat
+hellaswag.val.4426,WizardLM/WizardLM-13B-V1.2,D,zero-one-ai/Yi-34B-Chat
+hellaswag.val.3043,claude-v2,D) claude-v2,mistralai/mistral-7b-chat
+grade-school-math.dev.704,meta/llama-2-70b-chat,meta/llama-2-70b-chat,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.6244,claude-v2,B,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.2021,meta/llama-2-70b-chat,meta/llama-2-70b-chat,meta/code-llama-instruct-34b-chat
+hellaswag.val.2798,claude-v2,B,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.927,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mixtral-8x7b-chat
+mmlu-formal-logic.val.96,claude-v2,claude-v2,claude-instant-v1
+mmlu-human-aging.val.180,claude-v2,B,mistralai/mixtral-8x7b-chat
+hellaswag.val.1955,claude-v2,C,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.1614,claude-v2,C,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.5958,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mistral-7b-chat
+hellaswag.val.1554,claude-v2,A,mistralai/mistral-7b-chat
+hellaswag.val.128,claude-v2,B,zero-one-ai/Yi-34B-Chat
+consensus_summary.dev.105,meta/llama-2-70b-chat,Meta/llama-2-70b-chat,claude-instant-v1
+hellaswag.val.6255,claude-v2,B,zero-one-ai/Yi-34B-Chat
+hellaswag.val.335,claude-v2,B,mistralai/mixtral-8x7b-chat
+mmlu-computer-security.val.58,claude-v2,claude-v2,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.1258,claude-v2,claude-v2,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1226,claude-v2,claude-v2,mistralai/mistral-7b-chat
+hellaswag.val.1535,claude-v2,C,mistralai/mistral-7b-chat
+mmlu-professional-law.val.590,claude-v2,claude-v2,no_model_correct
+grade-school-math.dev.6105,meta/llama-2-70b-chat,meta/llama-2-70b-chat,meta/llama-2-70b-chat
+mmlu-management.val.93,claude-v2,Model C,mistralai/mistral-7b-chat
+hellaswag.val.978,claude-v2,B,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-psychology.val.276,claude-v2,claude-v2,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-accounting.val.101,claude-v2,C,WizardLM/WizardLM-13B-V1.2
+mmlu-moral-scenarios.val.460,claude-v2,"C) Wrong, Not wrong",mistralai/mixtral-8x7b-chat
+grade-school-math.dev.3331,meta/llama-2-70b-chat,meta/llama-2-70b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-medicine.val.137,claude-v2,claude-v2,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1183,claude-v2,C,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1326,claude-v2,B,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.4090,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mistral-7b-chat
+mmlu-human-aging.val.104,WizardLM/WizardLM-13B-V1.2,D,WizardLM/WizardLM-13B-V1.2
+mmlu-security-studies.val.219,claude-v2,B,mistralai/mixtral-8x7b-chat
+hellaswag.val.9743,claude-v2,B,mistralai/mistral-7b-chat
+mmlu-prehistory.val.75,claude-v2,C) atlatl,mistralai/mistral-7b-chat
+mmlu-high-school-biology.val.290,claude-v2,Model C (plasmolysis),WizardLM/WizardLM-13B-V1.2
+hellaswag.val.3889,WizardLM/WizardLM-13B-V1.2,A,no_model_correct
+hellaswag.val.3173,claude-v2,claude-v2,mistralai/mistral-7b-chat
+mmlu-moral-scenarios.val.35,claude-v2,"C) Wrong, Not wrong
+
+Model: meta/llama-2-70b-chat
+
+Reasoning: The meta/llama-2-70b-chat model is chosen because it has been trained",mistralai/mixtral-8x7b-chat
+mmlu-clinical-knowledge.val.193,claude-v2,Model C,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.2319,claude-v2,C,mistralai/mixtral-8x7b-chat
+hellaswag.val.5933,claude-v2,A,mistralai/mistral-7b-chat
+hellaswag.val.6724,claude-v2,C,mistralai/mistral-7b-chat
+grade-school-math.dev.6764,meta/llama-2-70b-chat,meta/llama-2-70b-chat,gpt-3.5-turbo-1106
+grade-school-math.dev.391,meta/llama-2-70b-chat,meta/llama-2-70b-chat,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.9660,claude-v2,A,mistralai/mistral-7b-chat
+abstract2title.test.100,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mistral-7b-chat
+mmlu-moral-scenarios.val.636,claude-v2,"B) Wrong, Not wrong",gpt-4-1106-preview
+mbpp.dev.241,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+mmlu-human-sexuality.val.127,claude-v2,claude-v2,mistralai/mistral-7b-chat
+hellaswag.val.6672,claude-v2,D,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.873,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mistral-7b-chat
+hellaswag.val.4415,claude-v2,C,mistralai/mixtral-8x7b-chat
+consensus_summary.dev.305,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mistral-7b-chat
+hellaswag.val.1429,claude-v2,claude-v2,mistralai/mixtral-8x7b-chat
+winogrande.dev.454,claude-v2,claude-v2,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1469,claude-v2,A) Negligence and battery.,zero-one-ai/Yi-34B-Chat
+mmlu-management.val.92,claude-v2,claude-v2,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.4509,meta/llama-2-70b-chat,meta/llama-2-70b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.36,claude-v2,claude-v2,mistralai/mistral-7b-chat
+mmlu-professional-law.val.302,claude-v2,claude-v2,no_model_correct
+hellaswag.val.5413,WizardLM/WizardLM-13B-V1.2,D,zero-one-ai/Yi-34B-Chat
+mmlu-clinical-knowledge.val.46,claude-v2,B,mistralai/mixtral-8x7b-chat
+mmlu-miscellaneous.val.723,WizardLM/WizardLM-13B-V1.2,A,mistralai/mistral-7b-chat
+mmlu-college-biology.val.63,claude-v2,claude-v2,mistralai/mistral-7b-chat
+hellaswag.val.1509,WizardLM/WizardLM-13B-V1.2,D) gpt-4-1106-preview,mistralai/mistral-7b-chat
+hellaswag.val.4033,WizardLM/WizardLM-13B-V1.2,D,zero-one-ai/Yi-34B-Chat
+mmlu-high-school-physics.val.100,WizardLM/WizardLM-13B-V1.2,Model D,mistralai/mistral-7b-chat
+mmlu-professional-psychology.val.446,claude-v2,C,no_model_correct
+hellaswag.val.4102,WizardLM/WizardLM-13B-V1.2,A,mistralai/mistral-7b-chat
+hellaswag.val.7289,claude-v2,D,zero-one-ai/Yi-34B-Chat
+hellaswag.val.9705,claude-v2,B,claude-instant-v1
+mmlu-philosophy.val.289,claude-v2,claude-v2,mistralai/mistral-7b-chat
+grade-school-math.dev.1359,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mixtral-8x7b-chat
+mmlu-miscellaneous.val.285,claude-v2,Model B,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.4461,meta/llama-2-70b-chat,meta/llama-2-70b-chat,claude-instant-v1
+mmlu-logical-fallacies.val.98,claude-v2,D) common person appeal,mistralai/mixtral-8x7b-chat
+arc-challenge.val.203,WizardLM/WizardLM-13B-V1.2,B,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-world-history.val.4,meta/llama-2-70b-chat,meta/llama-2-70b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.950,claude-v2,claude-v2,no_model_correct
+winogrande.dev.172,claude-v2,A,mistralai/mistral-7b-chat
+mmlu-moral-scenarios.val.769,claude-v2,"C) Wrong, Not wrong",mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.837,claude-v2,claude-v2,mistralai/mistral-7b-chat
+hellaswag.val.9978,claude-v2,C,zero-one-ai/Yi-34B-Chat
+abstract2title.test.74,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mistral-7b-chat
+mmlu-high-school-statistics.val.53,claude-v2,B,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.597,claude-v2,claude-v2,mistralai/mixtral-8x7b-chat
+mmlu-machine-learning.val.103,claude-v2,D,claude-instant-v1
+mmlu-professional-law.val.1430,claude-v2,claude-v2,WizardLM/WizardLM-13B-V1.2
+mmlu-jurisprudence.val.33,claude-v2,claude-v2,mistralai/mixtral-8x7b-chat
+mmlu-prehistory.val.37,claude-v2,D,mistralai/mixtral-8x7b-chat
+mmlu-high-school-world-history.val.146,claude-v2,claude-v2,mistralai/mistral-7b-chat
+hellaswag.val.4260,claude-v2,B,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.4167,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.2125,meta/llama-2-70b-chat,meta/llama-2-70b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-philosophy.val.105,claude-v2,claude-v2,claude-instant-v1
+mmlu-high-school-microeconomics.val.4,claude-v2,Model C,mistralai/mixtral-8x7b-chat
+mmlu-high-school-macroeconomics.val.36,claude-v2,Model C,mistralai/mistral-7b-chat
+arc-challenge.test.289,claude-v2,Model C,mistralai/mixtral-8x7b-chat
+mmlu-security-studies.val.8,claude-v2,C,WizardLM/WizardLM-13B-V1.2
+mmlu-security-studies.val.100,WizardLM/WizardLM-13B-V1.2,D,WizardLM/WizardLM-13B-V1.2
+mmlu-virology.val.13,claude-v2,D,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1069,claude-v2,claude-v2,no_model_correct
+grade-school-math.dev.5990,meta/llama-2-70b-chat,meta/llama-2-70b-chat,meta/llama-2-70b-chat
+grade-school-math.dev.6941,meta/llama-2-70b-chat,meta/llama-2-70b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.714,claude-v2,B,WizardLM/WizardLM-13B-V1.2
+mmlu-conceptual-physics.val.142,claude-v2,Model C,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.6826,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mistral-7b-chat
+mmlu-marketing.val.47,claude-v2,B,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.2795,claude-v2,Model C,WizardLM/WizardLM-13B-V1.2
+mmlu-prehistory.val.79,claude-v2,claude-v2,no_model_correct
+mmlu-logical-fallacies.val.105,claude-v2,Model C,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.7041,claude-v2,D,zero-one-ai/Yi-34B-Chat
+mmlu-sociology.val.134,claude-v2,claude-v2,mistralai/mistral-7b-chat
+grade-school-math.dev.3902,meta/llama-2-70b-chat,meta/llama-2-70b-chat,claude-v1
+hellaswag.val.9991,WizardLM/WizardLM-13B-V1.2,D,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.641,meta/llama-2-70b-chat,meta/llama-2-70b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-jurisprudence.val.54,claude-v2,claude-v2,mistralai/mistral-7b-chat
+hellaswag.val.9361,claude-v2,D,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1394,claude-v2,claude-v2,mistralai/mistral-7b-chat
+hellaswag.val.6078,claude-v2,B,mistralai/mistral-7b-chat
+mmlu-high-school-european-history.val.2,claude-v2,claude-v2,mistralai/mixtral-8x7b-chat
+mmlu-high-school-psychology.val.456,claude-v2,Model A,mistralai/mistral-7b-chat
+winogrande.dev.1049,claude-v2,claude-v2,mistralai/mistral-7b-chat
+hellaswag.val.8239,WizardLM/WizardLM-13B-V1.2,D,gpt-3.5-turbo-1106
+mmlu-global-facts.val.38,claude-v2,claude-v2,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.4324,meta/llama-2-70b-chat,meta/llama-2-70b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-human-aging.val.105,claude-v2,Model C,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.611,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.1010,claude-v2,C,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-psychology.val.218,claude-v2,claude-v2,mistralai/mixtral-8x7b-chat
+hellaswag.val.3579,claude-v2,C,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.4543,meta/llama-2-70b-chat,meta/llama-2-70b-chat,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.7054,meta/llama-2-70b-chat,meta/llama-2-70b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-psychology.val.184,claude-v2,claude-v2,claude-v2
+mmlu-high-school-chemistry.val.140,claude-v2,claude-v2,mistralai/mixtral-8x7b-chat
+hellaswag.val.8898,claude-v2,D,mistralai/mixtral-8x7b-chat
+mmlu-professional-psychology.val.584,claude-v2,claude-v2,no_model_correct
+grade-school-math.dev.919,meta/llama-2-70b-chat,meta/llama-2-70b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-college-biology.val.50,WizardLM/WizardLM-13B-V1.2,claude-v2,mistralai/mistral-7b-chat
+mmlu-moral-scenarios.val.756,claude-v2,"C) Wrong, Not wrong",mistralai/mixtral-8x7b-chat
+mmlu-high-school-macroeconomics.val.222,claude-v2,claude-v2,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.1234,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mixtral-8x7b-chat
+hellaswag.val.143,claude-v2,B,gpt-4-1106-preview
+mmlu-professional-law.val.424,claude-v2,claude-v2,mistralai/mistral-7b-chat
+mmlu-philosophy.val.290,WizardLM/WizardLM-13B-V1.2,D,WizardLM/WizardLM-13B-V1.2
+mmlu-electrical-engineering.val.17,claude-v2,B) General Array Logic,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-microeconomics.val.218,claude-v2,Model C,mistralai/mistral-7b-chat
+mmlu-clinical-knowledge.val.236,claude-v2,B,WizardLM/WizardLM-13B-V1.2
+mmlu-conceptual-physics.val.46,claude-v2,B,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.2592,meta/llama-2-70b-chat,meta/llama-2-70b-chat,meta/llama-2-70b-chat
+mmlu-professional-law.val.388,claude-v2,B,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.1332,claude-v2,claude-v2,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-biology.val.121,claude-v2,claude-v2,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.2598,claude-v2,claude-v2,gpt-4-1106-preview
+hellaswag.val.8132,WizardLM/WizardLM-13B-V1.2,C),zero-one-ai/Yi-34B-Chat
+hellaswag.val.9655,WizardLM/WizardLM-13B-V1.2,D,mistralai/mixtral-8x7b-chat
+mmlu-econometrics.val.96,claude-v2,claude-v2,mistralai/mistral-7b-chat
+mmlu-conceptual-physics.val.105,claude-v2,Model C (claude-v2),claude-v1
+hellaswag.val.2437,claude-v2,claude-v2,no_model_correct
+mmlu-college-mathematics.val.60,claude-v2,claude-v2,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.6052,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mixtral-8x7b-chat
+mmlu-formal-logic.val.22,claude-v2,claude-v2,claude-instant-v1
+mmlu-high-school-world-history.val.129,claude-v2,claude-v2,mistralai/mistral-7b-chat
+grade-school-math.dev.3189,meta/llama-2-70b-chat,meta/llama-2-70b-chat,meta/llama-2-70b-chat
+mmlu-professional-law.val.1056,claude-v2,claude-v2,zero-one-ai/Yi-34B-Chat
+arc-challenge.test.701,claude-v2,C) meters,WizardLM/WizardLM-13B-V1.2
+mmlu-security-studies.val.218,claude-v2,C,mistralai/mixtral-8x7b-chat
+hellaswag.val.814,claude-v2,B,claude-instant-v1
+arc-challenge.test.826,claude-v2,Model B (hydropower),claude-instant-v1
+mmlu-philosophy.val.91,meta/llama-2-70b-chat,Model C,mistralai/mixtral-8x7b-chat
+arc-challenge.test.854,claude-v2,claude-v2,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.6543,meta/llama-2-70b-chat,meta/llama-2-70b-chat,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.2112,meta/llama-2-70b-chat,meta/llama-2-70b-chat,meta/llama-2-70b-chat
+arc-challenge.test.767,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+hellaswag.val.2919,WizardLM/WizardLM-13B-V1.2,A,claude-instant-v1
+mmlu-moral-scenarios.val.650,claude-v2,"C) Not wrong, Wrong",gpt-3.5-turbo-1106
+mmlu-professional-law.val.267,claude-v2,"C) Yes, because they were trade fixtures.",WizardLM/WizardLM-13B-V1.2
+mmlu-professional-accounting.val.239,claude-v2,C,gpt-4-1106-preview
+mmlu-professional-law.val.1124,claude-v2,C) 10 separate contracts,gpt-3.5-turbo-1106
+grade-school-math.dev.2573,meta/llama-2-70b-chat,meta/llama-2-70b-chat,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.3100,claude-v2,C,zero-one-ai/Yi-34B-Chat
+mmlu-professional-psychology.val.538,claude-v2,Model B,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.1567,meta/llama-2-70b-chat,meta/llama-2-70b-chat,gpt-3.5-turbo-1106
+grade-school-math.dev.1638,meta/llama-2-70b-chat,meta/llama-2-70b-chat,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.9236,WizardLM/WizardLM-13B-V1.2,C,gpt-3.5-turbo-1106
+mmlu-abstract-algebra.val.46,meta/llama-2-70b-chat,C) meta/llama-2-70b-chat,gpt-4-1106-preview
+arc-challenge.test.534,claude-v2,B,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.1703,meta/llama-2-70b-chat,meta/llama-2-70b-chat,meta/llama-2-70b-chat
+mbpp.dev.68,claude-v2,claude-v2,mistralai/mistral-7b-chat
+mmlu-miscellaneous.val.557,claude-v2,C,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.1092,WizardLM/WizardLM-13B-V1.2,B,gpt-3.5-turbo-1106
+mmlu-professional-law.val.1129,claude-v2,claude-v2,mistralai/mistral-7b-chat
+mbpp.dev.60,meta/llama-2-70b-chat,meta/llama-2-70b-chat,meta/code-llama-instruct-34b-chat
+grade-school-math.dev.179,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mixtral-8x7b-chat
+winogrande.dev.1155,claude-v2,claude-v2,mistralai/mistral-7b-chat
+mmlu-moral-disputes.val.187,claude-v2,claude-v2,mistralai/mixtral-8x7b-chat
+mmlu-miscellaneous.val.266,claude-v2,B) Datek Online,mistralai/mixtral-8x7b-chat
+mmlu-professional-medicine.val.133,claude-v2,claude-v2,mistralai/mixtral-8x7b-chat
+hellaswag.val.2065,claude-v2,claude-v2,gpt-4-1106-preview
+grade-school-math.dev.1915,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1401,claude-v2,claude-v2,mistralai/mistral-7b-chat
+arc-challenge.test.281,claude-v2,claude-v2,zero-one-ai/Yi-34B-Chat
+winogrande.dev.1151,claude-v2,Model A (WizardLM/WizardLM-13B-V1.2),mistralai/mistral-7b-chat
+grade-school-math.dev.3420,meta/llama-2-70b-chat,meta/llama-2-70b-chat,WizardLM/WizardLM-13B-V1.2
+winogrande.dev.479,claude-v2,B) Instrument,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.3134,claude-v2,C,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.309,gpt-4-1106-preview,gpt-4-1106-preview,mistralai/mistral-7b-chat
+hellaswag.val.9164,claude-v2,D,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1328,claude-v2,claude-v2,mistralai/mistral-7b-chat
+hellaswag.val.1303,claude-v2,B,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1207,claude-v2,claude-v2,no_model_correct
+winogrande.dev.533,WizardLM/WizardLM-13B-V1.2,Model B,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.8992,claude-v2,C) claude-v2,mistralai/mixtral-8x7b-chat
+mmlu-moral-scenarios.val.672,claude-v2,"C) Wrong, Wrong",WizardLM/WizardLM-13B-V1.2
+consensus_summary.dev.78,claude-v2,Model C,claude-instant-v1
+mmlu-prehistory.val.22,claude-v2,C) trowels,WizardLM/WizardLM-13B-V1.2
+consensus_summary.dev.187,meta/llama-2-70b-chat,Model C,claude-v1
+mmlu-professional-psychology.val.410,claude-v2,claude-v2,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.3476,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mistral-7b-chat
+mmlu-prehistory.val.179,claude-v2,C) megafauna,mistralai/mistral-7b-chat
+mmlu-business-ethics.val.64,WizardLM/WizardLM-13B-V1.2,D,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.211,meta/llama-2-70b-chat,meta/llama-2-70b-chat,claude-instant-v1
+mmlu-high-school-mathematics.val.34,claude-v2,claude-v2,gpt-3.5-turbo-1106
+mmlu-high-school-us-history.val.133,meta/llama-2-70b-chat,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat
+arc-challenge.test.687,WizardLM/WizardLM-13B-V1.2,D) claude-v2,mistralai/mistral-7b-chat
+mmlu-machine-learning.val.63,claude-v2,B,claude-instant-v1
+winogrande.dev.825,claude-v2,A) monogram,mistralai/mistral-7b-chat
+mmlu-professional-law.val.594,claude-v2,D,mistralai/mixtral-8x7b-chat
+mmlu-high-school-macroeconomics.val.154,claude-v2,claude-v2,mistralai/mistral-7b-chat
+mmlu-high-school-government-and-politics.val.140,claude-v2,D,mistralai/mistral-7b-chat
+grade-school-math.dev.6902,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.372,claude-v2,claude-v2,mistralai/mixtral-8x7b-chat
+mmlu-professional-medicine.val.90,claude-v2,claude-v2,mistralai/mixtral-8x7b-chat
+mbpp.dev.276,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mistral-7b-chat
+hellaswag.val.4538,WizardLM/WizardLM-13B-V1.2,B,mistralai/mixtral-8x7b-chat
+mmlu-sociology.val.120,claude-v2,claude-v2,mistralai/mistral-7b-chat
+consensus_summary.dev.266,claude-v2,Model C,mistralai/mistral-7b-chat
+hellaswag.val.6634,claude-v2,B,zero-one-ai/Yi-34B-Chat
+hellaswag.val.4809,claude-v2,A,mistralai/mistral-7b-chat
+bias_detection.dev.191,meta/llama-2-70b-chat,"Model C — correctness: 1, cost: 0.3  
+Reasoning: The prompt requires classification of a sentence into predefined categories based on its content. Model C, being a language model, is capable of understanding and",mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.1159,claude-v2,claude-v2,WizardLM/WizardLM-13B-V1.2
+mmlu-miscellaneous.val.391,claude-v2,claude-v2,no_model_correct
+mmlu-professional-law.val.798,claude-v2,claude-v2,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.4979,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.417,claude-v2,B,WizardLM/WizardLM-13B-V1.2
+mmlu-sociology.val.85,claude-v2,A,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.185,claude-v2,claude-v2,gpt-4-1106-preview
+grade-school-math.dev.3263,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mistral-7b-chat
+hellaswag.val.9260,claude-v2,C,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.1076,claude-v2,B,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-psychology.val.489,claude-v2,claude-v2,mistralai/mistral-7b-chat
+mmlu-computer-security.val.48,claude-v2,B,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-european-history.val.151,claude-v2,claude-v2,mistralai/mistral-7b-chat
+hellaswag.val.3327,claude-v2,D,zero-one-ai/Yi-34B-Chat
+arc-challenge.test.1012,claude-v2,B,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.8506,claude-v2,C,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.2904,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.5860,meta/llama-2-70b-chat,meta/llama-2-70b-chat,claude-v1
+hellaswag.val.7221,WizardLM/WizardLM-13B-V1.2,D,zero-one-ai/Yi-34B-Chat
+mmlu-marketing.val.163,claude-v2,claude-v2,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.148,claude-v2,claude-v2,mistralai/mistral-7b-chat
+mmlu-professional-law.val.80,claude-v2,claude-v2,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.3954,claude-v2,C,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.65,claude-v2,claude-v2,mistralai/mistral-7b-chat
+hellaswag.val.4906,claude-v2,B,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.2799,meta/llama-2-70b-chat,meta/llama-2-70b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-marketing.val.134,claude-v2,claude-v2,mistralai/mixtral-8x7b-chat
+hellaswag.val.9497,claude-v2,D,zero-one-ai/Yi-34B-Chat
+hellaswag.val.8171,claude-v2,claude-v2,mistralai/mistral-7b-chat
+mmlu-nutrition.val.225,claude-v2,A,mistralai/mistral-7b-chat
+grade-school-math.dev.1805,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mixtral-8x7b-chat
+hellaswag.val.5381,claude-v2,C,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.1016,claude-v2,claude-v2,mistralai/mixtral-8x7b-chat
+hellaswag.val.1363,claude-v2,D) gpt-4-1106-preview,claude-instant-v1
+grade-school-math.dev.5413,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mistral-7b-chat
+hellaswag.val.8950,claude-v2,C,meta/llama-2-70b-chat
+hellaswag.val.8835,claude-v2,B,claude-instant-v1
+mmlu-prehistory.val.134,claude-v2,claude-v2,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.5353,meta/llama-2-70b-chat,meta/llama-2-70b-chat,meta/code-llama-instruct-34b-chat
+hellaswag.val.6666,claude-v2,C,meta/llama-2-70b-chat
+mbpp.dev.63,meta/llama-2-70b-chat,meta/llama-2-70b-chat,gpt-3.5-turbo-1106
+grade-school-math.dev.3322,meta/llama-2-70b-chat,meta/llama-2-70b-chat,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.4060,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mistral-7b-chat
+mmlu-high-school-biology.val.153,claude-v2,claude-v2,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.3275,meta/llama-2-70b-chat,meta/llama-2-70b-chat,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.1767,meta/llama-2-70b-chat,meta/llama-2-70b-chat,meta/llama-2-70b-chat
+accounting_audit.dev.25,claude-v2,claude-v2,claude-instant-v1
+hellaswag.val.2325,claude-v2,B,WizardLM/WizardLM-13B-V1.2
+winogrande.dev.1092,claude-v2,B) Erin,mistralai/mistral-7b-chat
+mmlu-security-studies.val.113,claude-v2,D,WizardLM/WizardLM-13B-V1.2
+mmlu-miscellaneous.val.538,claude-v2,B,mistralai/mixtral-8x7b-chat
+hellaswag.val.4707,claude-v2,C,zero-one-ai/Yi-34B-Chat
+hellaswag.val.2271,claude-v2,claude-v2,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.15,claude-v2,B,mistralai/mixtral-8x7b-chat
+mmlu-moral-scenarios.val.720,WizardLM/WizardLM-13B-V1.2,"D) Not wrong, Wrong",mistralai/mixtral-8x7b-chat
+hellaswag.val.3092,claude-v2,Model C,mistralai/mistral-7b-chat
+mmlu-high-school-statistics.val.104,claude-v2,B,WizardLM/WizardLM-13B-V1.2
+mmlu-nutrition.val.130,claude-v2,claude-v2,mistralai/mistral-7b-chat
+mmlu-professional-psychology.val.276,claude-v2,B,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.3818,claude-v2,B,mistralai/mixtral-8x7b-chat
+mmlu-international-law.val.27,claude-v2,C,mistralai/mixtral-8x7b-chat
+mmlu-moral-disputes.val.6,claude-v2,claude-v2,WizardLM/WizardLM-13B-V1.2
+mmlu-prehistory.val.307,claude-v2,D,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.254,claude-v2,B,mistralai/mistral-7b-chat
+grade-school-math.dev.3124,meta/llama-2-70b-chat,meta/llama-2-70b-chat,meta/llama-2-70b-chat
+consensus_summary.dev.216,WizardLM/WizardLM-13B-V1.2,Meta/llama-2-70b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.744,claude-v2,claude-v2,mistralai/mistral-7b-chat
+grade-school-math.dev.5577,meta/llama-2-70b-chat,meta/llama-2-70b-chat,claude-v2
+hellaswag.val.9039,claude-v2,C,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.2482,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mistral-7b-chat
+consensus_summary.dev.179,WizardLM/WizardLM-13B-V1.2,Model C,claude-v1
+winogrande.dev.528,claude-v2,Model A (Laura),mistralai/mistral-7b-chat
+grade-school-math.dev.4571,meta/llama-2-70b-chat,meta/llama-2-70b-chat,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.8600,claude-v2,C,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.281,claude-v2,D) A duty to warn of any known dangerous conditions on the premises.,mistralai/mixtral-8x7b-chat
+hellaswag.val.7893,claude-v2,C,zero-one-ai/Yi-34B-Chat
+hellaswag.val.2763,WizardLM/WizardLM-13B-V1.2,Model A,meta/llama-2-70b-chat
+grade-school-math.dev.6413,meta/llama-2-70b-chat,meta/llama-2-70b-chat,meta/code-llama-instruct-34b-chat
+mmlu-us-foreign-policy.val.7,claude-v2,claude-v2,claude-v1
+grade-school-math.dev.5824,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mistral-7b-chat
+winogrande.dev.82,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-miscellaneous.val.476,claude-v2,Model C,gpt-3.5-turbo-1106
+grade-school-math.dev.5041,meta/llama-2-70b-chat,meta/llama-2-70b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-high-school-us-history.val.28,claude-v2,claude-v2,mistralai/mistral-7b-chat
+grade-school-math.dev.6754,meta/llama-2-70b-chat,meta/llama-2-70b-chat,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.7190,WizardLM/WizardLM-13B-V1.2,D,mistralai/mistral-7b-chat
+mmlu-nutrition.val.222,claude-v2,claude-v2,no_model_correct
+mmlu-miscellaneous.val.70,claude-v2,claude-v2,WizardLM/WizardLM-13B-V1.2
+consensus_summary.dev.225,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-psychology.val.234,claude-v2,claude-v2,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.7707,claude-v2,A),mistralai/mistral-7b-chat
+hellaswag.val.6260,claude-v2,C,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.4389,meta/llama-2-70b-chat,meta/llama-2-70b-chat,meta/llama-2-70b-chat
+mmlu-elementary-mathematics.val.7,claude-v2,"Model A — correctness: 1, cost: 0.8  
+Model B — correctness: 0, cost: 0.2  
+Model C — correctness: 1, cost: 0.9",claude-instant-v1
+mmlu-miscellaneous.val.742,gpt-4-1106-preview,D) electric guitar,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1170,claude-v2,B,WizardLM/WizardLM-13B-V1.2
+mmlu-moral-scenarios.val.760,claude-v2,"C) Not wrong, Wrong",WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.2701,meta/llama-2-70b-chat,meta/llama-2-70b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1486,claude-v2,claude-v2,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.565,claude-v2,claude-v2,mistralai/mixtral-8x7b-chat
+hellaswag.val.650,claude-v2,B,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.6352,meta/llama-2-70b-chat,meta/llama-2-70b-chat,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.375,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mistral-7b-chat
+hellaswag.val.8001,claude-v2,C,mistralai/mistral-7b-chat
+grade-school-math.dev.7042,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mistral-7b-chat
+mmlu-professional-medicine.val.218,claude-v2,B) Amygdala,mistralai/mistral-7b-chat
+mmlu-security-studies.val.6,claude-v2,B,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.9903,claude-v2,B,WizardLM/WizardLM-13B-V1.2
+mtbench-math.dev.17,meta/llama-2-70b-chat,meta/llama-2-70b-chat,meta/code-llama-instruct-34b-chat
+consensus_summary.dev.4,meta/llama-2-70b-chat,meta/llama-2-70b-chat,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.2764,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mistral-7b-chat
+mmlu-high-school-chemistry.val.120,claude-v2,Model C (proton),gpt-4-1106-preview
+winogrande.dev.569,claude-v2,claude-v2,mistralai/mistral-7b-chat
+grade-school-math.dev.4207,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mixtral-8x7b-chat
+mmlu-college-physics.val.70,claude-v2,Model C,gpt-3.5-turbo-1106
+hellaswag.val.9251,claude-v2,B,claude-instant-v1
+hellaswag.val.1324,claude-v2,B,mistralai/mistral-7b-chat
+arc-challenge.val.4,claude-v2,D) code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+mmlu-professional-medicine.val.156,claude-v2,claude-v2,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.9051,claude-v2,Model C,no_model_correct
+mmlu-elementary-mathematics.val.252,WizardLM/WizardLM-13B-V1.2,C) 4(x – 22),WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1118,claude-v2,claude-v2,mistralai/mistral-7b-chat
+hellaswag.val.2979,claude-v2,B,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.6403,meta/llama-2-70b-chat,meta/llama-2-70b-chat,gpt-3.5-turbo-1106
+grade-school-math.dev.4083,meta/llama-2-70b-chat,meta/llama-2-70b-chat,claude-v2
+mmlu-high-school-mathematics.val.25,claude-v2,claude-v2,gpt-4-1106-preview
+mmlu-professional-law.val.373,claude-v2,claude-v2,no_model_correct
+mbpp.dev.329,meta/llama-2-70b-chat,meta/llama-2-70b-chat,meta/code-llama-instruct-34b-chat
+mtbench.dev.11,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mixtral-8x7b-chat
+mmlu-nutrition.val.74,claude-v2,claude-v2,gpt-3.5-turbo-1106
+mmlu-professional-law.val.135,claude-v2,D,mistralai/mistral-7b-chat
+mmlu-nutrition.val.6,claude-v2,B,mistralai/mistral-7b-chat
+mmlu-professional-law.val.536,claude-v2,D,WizardLM/WizardLM-13B-V1.2
+mmlu-nutrition.val.293,claude-v2,Model C,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.7036,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mistral-7b-chat
+hellaswag.val.8764,WizardLM/WizardLM-13B-V1.2,D,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.7434,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mistral-7b-chat
+hellaswag.val.6211,WizardLM/WizardLM-13B-V1.2,D,zero-one-ai/Yi-34B-Chat
+mmlu-high-school-european-history.val.5,claude-v2,claude-v2,mistralai/mistral-7b-chat
+hellaswag.val.5883,claude-v2,B,zero-one-ai/Yi-34B-Chat
+mmlu-high-school-statistics.val.156,claude-v2,D) gpt-4-1106-preview,mistralai/mixtral-8x7b-chat
+arc-challenge.val.147,claude-v2,claude-v2,WizardLM/WizardLM-13B-V1.2
+mmlu-electrical-engineering.val.48,claude-v2,A,gpt-3.5-turbo-1106
+mmlu-jurisprudence.val.72,claude-v2,B,mistralai/mixtral-8x7b-chat
+hellaswag.val.263,WizardLM/WizardLM-13B-V1.2,D,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.6188,claude-v2,C,mistralai/mistral-7b-chat
+mmlu-professional-law.val.463,claude-v2,D,mistralai/mistral-7b-chat
+grade-school-math.dev.5044,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mistral-7b-chat
+grade-school-math.dev.1935,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.6199,meta/llama-2-70b-chat,meta/llama-2-70b-chat,gpt-3.5-turbo-1106
+mmlu-human-sexuality.val.52,claude-v2,D,mistralai/mixtral-8x7b-chat
+hellaswag.val.1188,claude-v2,Model C,mistralai/mixtral-8x7b-chat
+mmlu-high-school-microeconomics.val.63,claude-v2,B,mistralai/mistral-7b-chat
+mmlu-prehistory.val.309,claude-v2,C,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.7184,meta/llama-2-70b-chat,meta/llama-2-70b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-business-ethics.val.6,claude-v2,claude-v2,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.790,claude-v2,C) claude-v2,mistralai/mistral-7b-chat
+winogrande.dev.14,claude-v2,Model A (WizardLM/WizardLM-13B-V1.2),mistralai/mistral-7b-chat
+hellaswag.val.4973,claude-v2,B,mistralai/mistral-7b-chat
+arc-challenge.val.286,claude-v2,Model D,WizardLM/WizardLM-13B-V1.2
+arc-challenge.val.229,claude-v2,D,mistralai/mistral-7b-chat
+hellaswag.val.5617,claude-v2,B,gpt-3.5-turbo-1106
+grade-school-math.dev.2309,meta/llama-2-70b-chat,meta/llama-2-70b-chat,gpt-3.5-turbo-1106
+hellaswag.val.2550,claude-v2,B,zero-one-ai/Yi-34B-Chat
+mmlu-marketing.val.6,claude-v2,B) Gatekeepers,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.5231,claude-v2,C,zero-one-ai/Yi-34B-Chat
+mmlu-high-school-microeconomics.val.173,claude-v2,claude-v2,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.1081,claude-v2,B,WizardLM/WizardLM-13B-V1.2
+arc-challenge.test.923,claude-v2,claude-v2,mistralai/mistral-7b-chat
+hellaswag.val.2275,claude-v2,claude-v2,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.1847,claude-v2,C,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.3933,meta/llama-2-70b-chat,meta/llama-2-70b-chat,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.4666,meta/llama-2-70b-chat,meta/llama-2-70b-chat,WizardLM/WizardLM-13B-V1.2
+arc-challenge.test.75,meta/llama-2-70b-chat,D,WizardLM/WizardLM-13B-V1.2
+mbpp.dev.259,meta/llama-2-70b-chat,llama-2-70b-chat,no_model_correct
+hellaswag.val.8816,claude-v2,A,mistralai/mistral-7b-chat
+mmlu-electrical-engineering.val.10,WizardLM/WizardLM-13B-V1.2,B,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.863,claude-v2,claude-v2,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.3733,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mistral-7b-chat
+mmlu-miscellaneous.val.523,claude-v2,C) Claude-v2,mistralai/mistral-7b-chat
+arc-challenge.val.37,meta/llama-2-70b-chat,D) prey habitat area,mistralai/mixtral-8x7b-chat
+hellaswag.val.7254,claude-v2,C,claude-instant-v1
+grade-school-math.dev.4043,meta/llama-2-70b-chat,meta/llama-2-70b-chat,meta/llama-2-70b-chat
+hellaswag.val.9382,claude-v2,A,mistralai/mistral-7b-chat
+hellaswag.val.7332,claude-v2,B,zero-one-ai/Yi-34B-Chat
+hellaswag.val.8211,claude-v2,D,mistralai/mixtral-8x7b-chat
+mmlu-high-school-psychology.val.212,claude-v2,claude-v2,mistralai/mistral-7b-chat
+grade-school-math.dev.216,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1203,claude-v2,claude-v2,zero-one-ai/Yi-34B-Chat
+mmlu-moral-disputes.val.252,claude-v2,Model C,gpt-4-1106-preview
+hellaswag.val.3480,claude-v2,C,no_model_correct
+mmlu-college-biology.val.8,claude-v2,D,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.972,meta/llama-2-70b-chat,meta/llama-2-70b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-chemistry.val.59,WizardLM/WizardLM-13B-V1.2,claude-v2,mistralai/mistral-7b-chat
+grade-school-math.dev.3228,meta/llama-2-70b-chat,meta/llama-2-70b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-machine-learning.val.50,claude-v2,B,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-medicine.val.154,WizardLM/WizardLM-13B-V1.2,A) fine-needle aspiration of the nodule,mistralai/mistral-7b-chat
+mmlu-moral-scenarios.val.66,meta/llama-2-70b-chat,"D) Wrong, Not wrong",no_model_correct
+mmlu-high-school-government-and-politics.val.59,claude-v2,claude-v2,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.1113,meta/llama-2-70b-chat,meta/llama-2-70b-chat,claude-v1
+grade-school-math.dev.4814,meta/llama-2-70b-chat,meta/llama-2-70b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-clinical-knowledge.val.65,claude-v2,Model C,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.653,claude-v2,claude-v2,mistralai/mistral-7b-chat
+mbpp.dev.122,claude-v2,claude-v2,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.6276,claude-v2,claude-v2,mistralai/mistral-7b-chat
+grade-school-math.dev.5657,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mistral-7b-chat
+hellaswag.val.3013,claude-v2,Model D,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.496,claude-v2,claude-v2,mistralai/mixtral-8x7b-chat
+mmlu-miscellaneous.val.777,claude-v2,claude-v2,zero-one-ai/Yi-34B-Chat
+hellaswag.val.1740,claude-v2,claude-v2,meta/llama-2-70b-chat
+hellaswag.val.6582,claude-v2,D,zero-one-ai/Yi-34B-Chat
+hellaswag.val.2211,claude-v2,A,no_model_correct
+hellaswag.val.2767,claude-v2,C,no_model_correct
+hellaswag.val.4667,claude-v2,B,zero-one-ai/Yi-34B-Chat
+mmlu-high-school-world-history.val.105,claude-v2,claude-v2,mistralai/mistral-7b-chat
+mmlu-security-studies.val.133,claude-v2,claude-v2,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.3392,claude-v2,B,zero-one-ai/Yi-34B-Chat
+mmlu-astronomy.val.82,claude-v2,B,mistralai/mistral-7b-chat
+hellaswag.val.9435,claude-v2,B,zero-one-ai/Yi-34B-Chat
+hellaswag.val.7064,claude-v2,C,mistralai/mistral-7b-chat
+hellaswag.val.3232,claude-v2,B,gpt-3.5-turbo-1106
+mmlu-high-school-geography.val.81,claude-v2,claude-v2,mistralai/mistral-7b-chat
+hellaswag.val.4450,claude-v2,B,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.798,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mixtral-8x7b-chat
+mmlu-elementary-mathematics.val.222,claude-v2,Model C,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.1316,claude-v2,D) claude-v2,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.1491,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mistral-7b-chat
+mmlu-medical-genetics.val.61,claude-v2,A,mistralai/mistral-7b-chat
+hellaswag.val.8426,claude-v2,B,claude-instant-v1
+mmlu-high-school-chemistry.val.54,claude-v2,Model C,no_model_correct
+mmlu-prehistory.val.90,claude-v2,claude-v2,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.2688,meta/llama-2-70b-chat,meta/llama-2-70b-chat,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.5533,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.5776,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mistral-7b-chat
+hellaswag.val.6632,claude-v2,C,mistralai/mistral-7b-chat
+mmlu-miscellaneous.val.86,claude-v2,A) WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-professional-law.val.481,claude-v2,D,claude-instant-v1
+grade-school-math.dev.5160,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mistral-7b-chat
+mmlu-clinical-knowledge.val.49,claude-v2,A,mistralai/mistral-7b-chat
+grade-school-math.dev.1842,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mixtral-8x7b-chat
+mmlu-high-school-physics.val.67,claude-v2,C) meta/llama-2-70b-chat,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.5193,meta/llama-2-70b-chat,meta/llama-2-70b-chat,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.8699,claude-v2,B,no_model_correct
+hellaswag.val.5211,claude-v2,B,claude-instant-v1
+grade-school-math.dev.1009,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-accounting.val.59,claude-v2,Model C,mistralai/mixtral-8x7b-chat
+mmlu-moral-disputes.val.153,claude-v2,claude-v2,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-psychology.val.144,claude-v2,D) claude-v2,WizardLM/WizardLM-13B-V1.2
+abstract2title.test.104,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mistral-7b-chat
+hellaswag.val.8980,claude-v2,B,zero-one-ai/Yi-34B-Chat
+mmlu-public-relations.val.85,claude-v2,B) reactive,WizardLM/WizardLM-13B-V1.2
+mmlu-medical-genetics.val.52,claude-v2,B,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-government-and-politics.val.11,meta/llama-2-70b-chat,claude-v2,mistralai/mixtral-8x7b-chat
+bias_detection.dev.284,meta/llama-2-70b-chat,"Model C — correctness: 1, cost: 0.3  
+Reasoning: The prompt requires classification of a sentence based on its content type, which is a factual task. Model C has been correctly classified in the",claude-v1
+bias_detection.dev.161,meta/llama-2-70b-chat,"Model C — correctness: 1, cost: 0.3  
+Reasoning: The prompt requires classification of a sentence into specific categories related to news analysis. Model C, being a more specialized language model, is likely trained",WizardLM/WizardLM-13B-V1.2
+hellaswag.val.10010,claude-v2,A or B,mistralai/mistral-7b-chat
+grade-school-math.dev.4245,meta/llama-2-70b-chat,meta/llama-2-70b-chat,claude-instant-v1
+hellaswag.val.2557,claude-v2,claude-v2,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-psychology.val.186,claude-v2,claude-v2,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.6509,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mistral-7b-chat
+mmlu-jurisprudence.val.107,claude-v2,claude-v2,mistralai/mistral-7b-chat
+mmlu-high-school-european-history.val.11,meta/llama-2-70b-chat,meta/llama-2-70b-chat,claude-v2
+hellaswag.val.7994,WizardLM/WizardLM-13B-V1.2,D,gpt-3.5-turbo-1106
+mbpp.dev.384,meta/llama-2-70b-chat,meta/llama-2-70b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1272,claude-v2,D) meta/llama-2-70b-chat,mistralai/mixtral-8x7b-chat
+mmlu-international-law.val.12,claude-v2,B,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.403,claude-v2,D,mistralai/mixtral-8x7b-chat
+hellaswag.val.489,WizardLM/WizardLM-13B-V1.2,D,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.234,meta/llama-2-70b-chat,claude-v2,mistralai/mixtral-8x7b-chat
+hellaswag.val.4466,claude-v2,B,zero-one-ai/Yi-34B-Chat
+mmlu-high-school-macroeconomics.val.316,claude-v2,B,mistralai/mixtral-8x7b-chat
+bias_detection.dev.27,meta/llama-2-70b-chat,"Model C — correctness: 1, cost: 0.3  
+Reasoning: The prompt requires classification of a sentence from a news article into specific categories. Model C, being a language model, is capable of understanding and class",no_model_correct
+mmlu-moral-scenarios.val.391,claude-v2,"D) Wrong, Not wrong",zero-one-ai/Yi-34B-Chat
+mmlu-professional-psychology.val.123,claude-v2,claude-v2,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.390,claude-v2,claude-v2,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.6830,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mistral-7b-chat
+mmlu-us-foreign-policy.val.62,WizardLM/WizardLM-13B-V1.2,"D) I, II, and III",mistralai/mixtral-8x7b-chat
+winogrande.dev.95,claude-v2,claude-v2,claude-instant-v1
+grade-school-math.dev.3870,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mixtral-8x7b-chat
+hellaswag.val.870,claude-v2,B,WizardLM/WizardLM-13B-V1.2
+mmlu-clinical-knowledge.val.8,claude-v2,C,mistralai/mistral-7b-chat
+mmlu-high-school-geography.val.98,claude-v2,claude-v2,mistralai/mistral-7b-chat
+bias_detection.dev.140,claude-v2,"Model C — correctness: 1, cost: 0.3  
+
+Reasoning: The prompt requires classification of a sentence from a news article into specific categories such as fact, opinion, claim, data, quote, narrative",WizardLM/WizardLM-13B-V1.2
+hellaswag.val.9123,claude-v2,B,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.24,meta/llama-2-70b-chat,meta/llama-2-70b-chat,claude-instant-v1
+mmlu-high-school-us-history.val.54,claude-v2,claude-v2,mistralai/mistral-7b-chat
+mmlu-miscellaneous.val.551,claude-v2,Model D) Value proposition,mistralai/mistral-7b-chat
+mmlu-formal-logic.val.61,claude-v2,C) claude-v2,mistralai/mixtral-8x7b-chat
+mmlu-management.val.48,claude-v2,B,WizardLM/WizardLM-13B-V1.2
+abstract2title.test.133,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mistral-7b-chat
+hellaswag.val.857,claude-v2,claude-v2,mistralai/mistral-7b-chat
+mmlu-logical-fallacies.val.88,claude-v2,C,no_model_correct
+grade-school-math.dev.5394,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mistral-7b-chat
+mmlu-high-school-us-history.val.26,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mistral-7b-chat
+arc-challenge.test.698,claude-v2,Model C,mistralai/mixtral-8x7b-chat
+mmlu-miscellaneous.val.73,claude-v2,Model A (WizardLM/WizardLM-13B-V1.2),WizardLM/WizardLM-13B-V1.2
+mmlu-electrical-engineering.val.105,claude-v2,B,no_model_correct
+mmlu-professional-law.val.1446,claude-v2,claude-v2,mistralai/mistral-7b-chat
+grade-school-math.dev.4297,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mistral-7b-chat
+mmlu-high-school-macroeconomics.val.138,claude-v2,claude-v2,WizardLM/WizardLM-13B-V1.2
+mmlu-human-aging.val.179,claude-v2,claude-v2,mistralai/mixtral-8x7b-chat
+mmlu-moral-scenarios.val.371,meta/llama-2-70b-chat,"D) Wrong, Not wrong",gpt-4-1106-preview
+grade-school-math.dev.155,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mistral-7b-chat
+mmlu-high-school-physics.val.132,claude-v2,claude-v2,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.164,claude-v2,D) claude-v2,WizardLM/WizardLM-13B-V1.2
+bias_detection.dev.209,meta/llama-2-70b-chat,"Model C — correctness: 1, cost: 0.3  
+Reasoning: The prompt requires classification of a sentence from a news article into specific categories. Model C, being a language model, is capable of understanding and class",no_model_correct
+mmlu-professional-law.val.1061,claude-v2,claude-v2,WizardLM/WizardLM-13B-V1.2
+mmlu-college-mathematics.val.52,claude-v2,claude-v2,mistralai/mixtral-8x7b-chat
+mmlu-moral-scenarios.val.444,claude-v2,"C) Wrong, Not wrong",WizardLM/WizardLM-13B-V1.2
+mmlu-miscellaneous.val.105,claude-v2,B,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.923,meta/llama-2-70b-chat,meta/llama-2-70b-chat,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.5486,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mistral-7b-chat
+hellaswag.val.8591,claude-v2,C,mistralai/mistral-7b-chat
+grade-school-math.dev.2128,meta/llama-2-70b-chat,meta/llama-2-70b-chat,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.3783,meta/llama-2-70b-chat,meta/llama-2-70b-chat,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.2924,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mistral-7b-chat
+mtbench.dev.37,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.515,claude-v2,C,mistralai/mistral-7b-chat
+mmlu-jurisprudence.val.95,meta/llama-2-70b-chat,meta/llama-2-70b-chat,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.2467,claude-v2,Model C,mistralai/mixtral-8x7b-chat
+mmlu-miscellaneous.val.446,claude-v2,claude-v2,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.1087,WizardLM/WizardLM-13B-V1.2,D,mistralai/mistral-7b-chat
+mmlu-professional-medicine.val.104,claude-v2,C) Pouch of Douglas,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.5064,meta/llama-2-70b-chat,meta/llama-2-70b-chat,gpt-3.5-turbo-1106
+hellaswag.val.4387,claude-v2,A,zero-one-ai/Yi-34B-Chat
+mmlu-high-school-mathematics.val.46,claude-v2,claude-v2,gpt-4-1106-preview
+arc-challenge.test.598,claude-v2,claude-v2,mistralai/mixtral-8x7b-chat
+hellaswag.val.4724,claude-v2,B,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.7164,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mistral-7b-chat
+grade-school-math.dev.1868,meta/llama-2-70b-chat,meta/llama-2-70b-chat,gpt-3.5-turbo-1106
+mmlu-high-school-european-history.val.13,claude-v2,claude-v2,no_model_correct
+mmlu-computer-security.val.50,claude-v2,claude-v2,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.1377,claude-v2,claude-v2,mistralai/mixtral-8x7b-chat
+hellaswag.val.3481,claude-v2,A),zero-one-ai/Yi-34B-Chat
+mmlu-business-ethics.val.62,claude-v2,B,mistralai/mixtral-8x7b-chat
+hellaswag.val.8999,claude-v2,C,no_model_correct
+arc-challenge.val.48,claude-v2,claude-v2,zero-one-ai/Yi-34B-Chat
+mmlu-professional-medicine.val.161,claude-v2,claude-v2,mistralai/mistral-7b-chat
+mmlu-college-biology.val.97,claude-v2,claude-v2,mistralai/mistral-7b-chat
+grade-school-math.dev.7010,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mistral-7b-chat
+abstract2title.test.28,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mistral-7b-chat
+hellaswag.val.214,claude-v2,C,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.442,claude-v2,claude-v2,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.3284,meta/llama-2-70b-chat,meta/llama-2-70b-chat,meta/code-llama-instruct-34b-chat
+mmlu-moral-scenarios.val.810,meta/llama-2-70b-chat,"B) Not wrong, Wrong",WizardLM/WizardLM-13B-V1.2
+hellaswag.val.1696,claude-v2,claude-v2,mistralai/mistral-7b-chat
+grade-school-math.dev.6477,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mixtral-8x7b-chat
+mmlu-high-school-statistics.val.50,claude-v2,claude-v2,mistralai/mistral-7b-chat
+hellaswag.val.7806,WizardLM/WizardLM-13B-V1.2,A,mistralai/mistral-7b-chat
+grade-school-math.dev.1218,meta/llama-2-70b-chat,meta/llama-2-70b-chat,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.6534,claude-v2,B,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.465,claude-v2,claude-v2,no_model_correct
+hellaswag.val.4161,claude-v2,D,zero-one-ai/Yi-34B-Chat
+mmlu-college-biology.val.40,claude-v2,B,mistralai/mixtral-8x7b-chat
+hellaswag.val.2026,claude-v2,Model C,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1067,claude-v2,claude-v2,no_model_correct
+mmlu-miscellaneous.val.131,claude-v2,B,mistralai/mixtral-8x7b-chat
+hellaswag.val.8944,claude-v2,B,zero-one-ai/Yi-34B-Chat
+hellaswag.val.3283,claude-v2,D,meta/llama-2-70b-chat
+mmlu-professional-law.val.1521,claude-v2,claude-v2,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.2789,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mistral-7b-chat
+hellaswag.val.5947,claude-v2,B,mistralai/mistral-7b-chat
+mmlu-elementary-mathematics.val.298,claude-v2,B,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.4366,meta/llama-2-70b-chat,meta/llama-2-70b-chat,gpt-3.5-turbo-1106
+mmlu-international-law.val.92,WizardLM/WizardLM-13B-V1.2,D,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.5668,WizardLM/WizardLM-13B-V1.2,A,mistralai/mistral-7b-chat
+mmlu-anatomy.val.127,claude-v2,"Model A — correctness: 1, cost: 0.8  
+Model B — correctness: 0, cost: 0.2  
+Model C — correctness: 0, cost: 0.1",mistralai/mistral-7b-chat
+arc-challenge.test.408,claude-v2,claude-v2,mistralai/mistral-7b-chat
+mmlu-anatomy.val.57,WizardLM/WizardLM-13B-V1.2,D) Peristalsis,mistralai/mistral-7b-chat
+mmlu-electrical-engineering.val.23,WizardLM/WizardLM-13B-V1.2,B) lap winding,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-world-history.val.156,claude-v2,claude-v2,mistralai/mistral-7b-chat
+hellaswag.val.807,mistralai/mixtral-8x7b-chat,C) hands an ice cream cone to a client.,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.265,meta/llama-2-70b-chat,meta/llama-2-70b-chat,gpt-4-1106-preview
+mmlu-high-school-macroeconomics.val.285,claude-v2,B,mistralai/mistral-7b-chat
+grade-school-math.dev.1916,meta/llama-2-70b-chat,meta/llama-2-70b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-mathematics.val.133,claude-v2,claude-v2,zero-one-ai/Yi-34B-Chat
+mmlu-international-law.val.81,claude-v2,B,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.1130,claude-v2,claude-v2,mistralai/mistral-7b-chat
+mmlu-machine-learning.val.41,claude-v2,B,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.3784,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mixtral-8x7b-chat
+hellaswag.val.3353,claude-v2,A,mistralai/mistral-7b-chat
+grade-school-math.dev.5036,meta/llama-2-70b-chat,meta/llama-2-70b-chat,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.5183,meta/llama-2-70b-chat,meta/llama-2-70b-chat,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.4728,meta/llama-2-70b-chat,meta/llama-2-70b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-abstract-algebra.val.50,meta/llama-2-70b-chat,C) meta/llama-2-70b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-nutrition.val.288,WizardLM/WizardLM-13B-V1.2,D) Chylomicrons,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.4811,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mistral-7b-chat
+mbpp.dev.43,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mistral-7b-chat
+mmlu-moral-scenarios.val.252,claude-v2,"A) Wrong, Not wrong",zero-one-ai/Yi-34B-Chat
+accounting_audit.dev.5,claude-v2,claude-v2,zero-one-ai/Yi-34B-Chat
+hellaswag.val.1952,claude-v2,D,claude-v1
+grade-school-math.dev.5514,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mistral-7b-chat
+hellaswag.val.4792,claude-v2,C) claude-v2,zero-one-ai/Yi-34B-Chat
+mmlu-high-school-european-history.val.65,claude-v2,claude-v2,mistralai/mixtral-8x7b-chat
+mmlu-high-school-mathematics.val.140,claude-v2,claude-v2,claude-instant-v1
+arc-challenge.test.367,WizardLM/WizardLM-13B-V1.2,"Model A — correctness: 1, cost: 0.8  
+Model B — correctness: 0, cost: 0.2  
+Model C — correctness: 1, cost: 0.5",mistralai/mistral-7b-chat
+mmlu-miscellaneous.val.384,claude-v2,B,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-psychology.val.430,WizardLM/WizardLM-13B-V1.2,Model D,WizardLM/WizardLM-13B-V1.2
+mmlu-marketing.val.180,claude-v2,C) Internet advertising,mistralai/mixtral-8x7b-chat
+mmlu-miscellaneous.val.61,claude-v2,B,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.3744,meta/llama-2-70b-chat,meta/llama-2-70b-chat,gpt-4-1106-preview
+grade-school-math.dev.2702,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mistral-7b-chat
+grade-school-math.dev.3386,meta/llama-2-70b-chat,meta/llama-2-70b-chat,gpt-3.5-turbo-1106
+mmlu-moral-scenarios.val.112,WizardLM/WizardLM-13B-V1.2,"B) Wrong, Wrong",WizardLM/WizardLM-13B-V1.2
+hellaswag.val.9644,claude-v2,C,mistralai/mistral-7b-chat
+winogrande.dev.513,claude-v2,Model B,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1338,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mixtral-8x7b-chat
+mmlu-abstract-algebra.val.58,meta/llama-2-70b-chat,"C) False, True",no_model_correct
+mmlu-professional-psychology.val.437,claude-v2,B) Managerial,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.790,claude-v2,claude-v2,WizardLM/WizardLM-13B-V1.2
+arc-challenge.test.725,claude-v2,Model B,mistralai/mistral-7b-chat
+arc-challenge.test.1081,meta/llama-2-70b-chat,claude-v2,mistralai/mistral-7b-chat
+grade-school-math.dev.2999,meta/llama-2-70b-chat,meta/llama-2-70b-chat,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.2883,meta/llama-2-70b-chat,meta/llama-2-70b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.654,claude-v2,claude-v2,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-world-history.val.83,claude-v2,claude-v2,zero-one-ai/Yi-34B-Chat
+mmlu-world-religions.val.84,claude-v2,B) Correct knowledge,no_model_correct
+consensus_summary.dev.290,meta/llama-2-70b-chat,meta/llama-2-70b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-conceptual-physics.val.83,claude-v2,claude-v2,mistralai/mistral-7b-chat
+hellaswag.val.543,claude-v2,claude-v2,WizardLM/WizardLM-13B-V1.2
+consensus_summary.dev.8,meta/llama-2-70b-chat,meta/llama-2-70b-chat,meta/llama-2-70b-chat
+grade-school-math.dev.3865,meta/llama-2-70b-chat,meta/llama-2-70b-chat,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.7191,meta/llama-2-70b-chat,meta/llama-2-70b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-psychology.val.301,claude-v2,claude-v2,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-medicine.val.236,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+arc-challenge.test.2,claude-v2,Model C,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.5832,WizardLM/WizardLM-13B-V1.2,D) claude-v2,gpt-3.5-turbo-1106
+hellaswag.val.4965,claude-v2,C,zero-one-ai/Yi-34B-Chat
+hellaswag.val.2215,claude-v2,D) claude-v2,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.1244,claude-v2,claude-v2,mistralai/mistral-7b-chat
+grade-school-math.dev.3376,meta/llama-2-70b-chat,meta/llama-2-70b-chat,claude-instant-v1
+mmlu-miscellaneous.val.660,WizardLM/WizardLM-13B-V1.2,Model D) claude-v2,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.6695,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mixtral-8x7b-chat
+mmlu-moral-scenarios.val.845,WizardLM/WizardLM-13B-V1.2,"B) Wrong, Not wrong",mistralai/mixtral-8x7b-chat
+hellaswag.val.5829,claude-v2,B,gpt-3.5-turbo-1106
+mmlu-miscellaneous.val.493,claude-v2,B) hygrometer,WizardLM/WizardLM-13B-V1.2
+mmlu-miscellaneous.val.63,claude-v2,B,WizardLM/WizardLM-13B-V1.2
+mmlu-miscellaneous.val.35,claude-v2,claude-v2,mistralai/mistral-7b-chat
+winogrande.dev.953,claude-v2,claude-v2,mistralai/mistral-7b-chat
+grade-school-math.dev.6584,meta/llama-2-70b-chat,meta/llama-2-70b-chat,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.1937,claude-v2,B,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.8977,claude-v2,C,zero-one-ai/Yi-34B-Chat
+mmlu-philosophy.val.189,claude-v2,claude-v2,mistralai/mistral-7b-chat
+hellaswag.val.6160,WizardLM/WizardLM-13B-V1.2,A,mistralai/mistral-7b-chat
+hellaswag.val.7074,claude-v2,D,WizardLM/WizardLM-13B-V1.2
+mmlu-global-facts.val.77,claude-v2,C,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.7917,WizardLM/WizardLM-13B-V1.2,A,mistralai/mistral-7b-chat
+mmlu-high-school-biology.val.289,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-international-law.val.94,claude-v2,C,WizardLM/WizardLM-13B-V1.2
+winogrande.dev.1014,mistralai/mixtral-8x7b-chat,A) Rachel,mistralai/mistral-7b-chat
+hellaswag.val.6587,claude-v2,D,claude-instant-v1
+hellaswag.val.2461,claude-v2,claude-v2,meta/llama-2-70b-chat
+grade-school-math.dev.6641,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mistral-7b-chat
+grade-school-math.dev.1799,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mixtral-8x7b-chat
+mmlu-high-school-computer-science.val.54,claude-v2,claude-v2,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.3174,meta/llama-2-70b-chat,meta/llama-2-70b-chat,claude-instant-v1
+mmlu-high-school-microeconomics.val.59,WizardLM/WizardLM-13B-V1.2,"B) I, II, and III.",mistralai/mistral-7b-chat
+grade-school-math.dev.5984,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mixtral-8x7b-chat
+hellaswag.val.592,claude-v2,C,WizardLM/WizardLM-13B-V1.2
+mmlu-moral-disputes.val.144,claude-v2,claude-v2,mistralai/mistral-7b-chat
+hellaswag.val.2560,claude-v2,B,mistralai/mixtral-8x7b-chat
+mmlu-high-school-macroeconomics.val.144,claude-v2,C) The GDP deflator,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.3455,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mistral-7b-chat
+grade-school-math.dev.5557,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mistral-7b-chat
+consensus_summary.dev.213,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mistral-7b-chat
+grade-school-math.dev.6989,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.250,claude-v2,D,WizardLM/WizardLM-13B-V1.2
+mmlu-clinical-knowledge.val.104,claude-v2,Model B (Palmitic acid),mistralai/mixtral-8x7b-chat
+grade-school-math.dev.5450,meta/llama-2-70b-chat,meta/llama-2-70b-chat,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.2797,meta/llama-2-70b-chat,meta/llama-2-70b-chat,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.2760,meta/llama-2-70b-chat,meta/llama-2-70b-chat,gpt-4-1106-preview
+grade-school-math.dev.4473,meta/llama-2-70b-chat,meta/llama-2-70b-chat,gpt-4-1106-preview
+hellaswag.val.5949,claude-v2,C,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.188,meta/llama-2-70b-chat,meta/llama-2-70b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-biology.val.252,meta/llama-2-70b-chat,Model D,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.8592,claude-v2,claude-v2,zero-one-ai/Yi-34B-Chat
+mmlu-college-physics.val.94,claude-v2,claude-v2,claude-instant-v1
+grade-school-math.dev.2318,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mistral-7b-chat
+mmlu-global-facts.val.99,claude-v2,Model C,zero-one-ai/Yi-34B-Chat
+hellaswag.val.9608,claude-v2,B,mistralai/mistral-7b-chat
+hellaswag.val.886,claude-v2,C,claude-instant-v1
+grade-school-math.dev.617,meta/llama-2-70b-chat,meta/llama-2-70b-chat,claude-instant-v1
+grade-school-math.dev.1245,meta/llama-2-70b-chat,meta/llama-2-70b-chat,meta/code-llama-instruct-34b-chat
+grade-school-math.dev.136,meta/llama-2-70b-chat,meta/llama-2-70b-chat,meta/code-llama-instruct-34b-chat
+mmlu-college-mathematics.val.50,claude-v2,Model C (meta/llama-2-70b-chat),claude-instant-v1
+arc-challenge.test.506,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+arc-challenge.test.816,claude-v2,Model C,WizardLM/WizardLM-13B-V1.2
+mmlu-prehistory.val.156,claude-v2,claude-v2,mistralai/mixtral-8x7b-chat
+mmlu-nutrition.val.0,claude-v2,claude-v2,mistralai/mixtral-8x7b-chat
+mmlu-high-school-european-history.val.163,claude-v2,claude-v2,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.3702,meta/llama-2-70b-chat,meta/llama-2-70b-chat,zero-one-ai/Yi-34B-Chat
+hellaswag.val.3781,claude-v2,A,mistralai/mixtral-8x7b-chat
+mtbench-reference.dev.2,meta/llama-2-70b-chat,meta/llama-2-70b-chat,gpt-3.5-turbo-1106
+mmlu-high-school-macroeconomics.val.332,claude-v2,claude-v2,mistralai/mixtral-8x7b-chat
+hellaswag.val.5627,claude-v2,A,mistralai/mistral-7b-chat
+grade-school-math.dev.3848,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mixtral-8x7b-chat
+hellaswag.val.5919,claude-v2,C,claude-instant-v1
+grade-school-math.dev.514,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mixtral-8x7b-chat
+mmlu-moral-disputes.val.209,claude-v2,claude-v2,mistralai/mistral-7b-chat
+hellaswag.val.7791,WizardLM/WizardLM-13B-V1.2,D,mistralai/mixtral-8x7b-chat
+mmlu-human-sexuality.val.26,WizardLM/WizardLM-13B-V1.2,A) corpus luteum,mistralai/mistral-7b-chat
+mmlu-nutrition.val.22,claude-v2,B,mistralai/mistral-7b-chat
+hellaswag.val.4039,WizardLM/WizardLM-13B-V1.2,A),claude-instant-v1
+arc-challenge.test.709,claude-v2,"C
+
+Explanation: The model ""C"" (reusable cup) is the best choice as it directly relates to conserving natural resources by being reusable, which aligns with the prompt's focus on the most sustain",WizardLM/WizardLM-13B-V1.2
+hellaswag.val.2905,claude-v2,B,mistralai/mistral-7b-chat
+mmlu-moral-scenarios.val.328,WizardLM/WizardLM-13B-V1.2,"C) Not wrong, Wrong",zero-one-ai/Yi-34B-Chat
+hellaswag.val.8690,claude-v2,C,zero-one-ai/Yi-34B-Chat
+mmlu-jurisprudence.val.44,claude-v2,claude-v2,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.7593,claude-v2,C,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.119,claude-v2,claude-v2,claude-instant-v1
+bias_detection.dev.77,claude-v2,"Model C — correctness: 1, cost: 0.3  
+
+Reasoning: The prompt requires classification of a sentence from a news article into specific categories such as fact, opinion, claim, data, quote, narrative",mistralai/mixtral-8x7b-chat
+arc-challenge.test.635,claude-v2,Model C,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.210,claude-v2,D,mistralai/mixtral-8x7b-chat
+hellaswag.val.3963,WizardLM/WizardLM-13B-V1.2,D,mistralai/mixtral-8x7b-chat
+hellaswag.val.2713,claude-v2,C,mistralai/mistral-7b-chat
+mmlu-high-school-macroeconomics.val.35,claude-v2,B,mistralai/mistral-7b-chat
+mbpp.dev.298,meta/llama-2-70b-chat,meta/llama-2-70b-chat,meta/code-llama-instruct-34b-chat
+grade-school-math.dev.3536,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mixtral-8x7b-chat
+mmlu-college-medicine.val.168,claude-v2,Model C,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.638,claude-v2,claude-v2,mistralai/mixtral-8x7b-chat
+hellaswag.val.5922,claude-v2,C,zero-one-ai/Yi-34B-Chat
+mmlu-nutrition.val.220,claude-v2,Model C,WizardLM/WizardLM-13B-V1.2
+mmlu-human-sexuality.val.33,claude-v2,claude-v2,mistralai/mistral-7b-chat
+winogrande.dev.129,claude-v2,Model A (plant),WizardLM/WizardLM-13B-V1.2
+mmlu-prehistory.val.122,claude-v2,claude-v2,mistralai/mistral-7b-chat
+mmlu-high-school-physics.val.103,claude-v2,claude-v2,mistralai/mixtral-8x7b-chat
+mmlu-nutrition.val.156,claude-v2,claude-v2,mistralai/mixtral-8x7b-chat
+mmlu-moral-scenarios.val.285,claude-v2,"B) Not wrong, Wrong",zero-one-ai/Yi-34B-Chat
+winogrande.dev.361,claude-v2,B,mistralai/mixtral-8x7b-chat
+mmlu-high-school-mathematics.val.229,claude-v2,claude-v2,no_model_correct
+grade-school-math.dev.7065,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mistral-7b-chat
+mmlu-elementary-mathematics.val.218,claude-v2,Model C,mistralai/mixtral-8x7b-chat
+winogrande.dev.1012,claude-v2,B) Justin,mistralai/mistral-7b-chat
+hellaswag.val.8217,claude-v2,B,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.209,claude-v2,claude-v2,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-mathematics.val.142,WizardLM/WizardLM-13B-V1.2,A) WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+grade-school-math.dev.180,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mistral-7b-chat
+mmlu-logical-fallacies.val.100,claude-v2,B) Prejudicial Language,mistralai/mistral-7b-chat
+hellaswag.val.178,claude-v2,B,WizardLM/WizardLM-13B-V1.2

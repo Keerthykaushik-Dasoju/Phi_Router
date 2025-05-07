@@ -1,0 +1,1090 @@
+sample_id,phi_prediction
+hellaswag.val.4102,A)
+winogrande.dev.802,meta/llama-2-70b-chat
+hellaswag.val.5482,B
+mmlu-professional-law.val.1256,claude-v2
+mmlu-elementary-mathematics.val.47,Model C
+mmlu-moral-disputes.val.343,claude-v2
+hellaswag.val.5407,Model C
+grade-school-math.dev.2924,meta/llama-2-70b-chat
+mmlu-high-school-geography.val.86,meta/llama-2-70b-chat
+winogrande.dev.486,meta/llama-2-70b-chat
+grade-school-math.dev.7113,meta/llama-2-70b-chat
+grade-school-math.dev.1433,meta/llama-2-70b-chat
+arc-challenge.test.264,Model C
+hellaswag.val.6367,claude-v2
+mmlu-professional-psychology.val.109,Model C
+chinese-lantern-riddles.dev.12,"Model C — correctness: 1, cost: 0.3
+
+The prompt is asking for the meaning of a Chinese idiom (黯, which is a radical in Chinese characters) and the reasoning behind it. Model C"
+grade-school-math.dev.6467,meta/llama-2-70b-chat
+hellaswag.val.553,B) remove the baking sheet from the oven
+consensus_summary.dev.189,N-A (None of the provided models directly address the question about family environment impacting cardiovascular fitness based on the given claims.)
+mmlu-philosophy.val.105,claude-v2
+grade-school-math.dev.6500,meta/llama-2-70b-chat
+grade-school-math.dev.1491,meta/llama-2-70b-chat
+chinese_zodiac.dev.45,meta/llama-2-70b-chat
+mmlu-medical-genetics.val.52,Model B
+arc-challenge.test.567,Model C
+mmlu-miscellaneous.val.768,"Model A — correctness: 1, cost: 0.8
+Model B — correctness: 0, cost: 0.1
+Model C — correctness: 0, cost: 0.2
+Model D"
+mmlu-professional-law.val.1104,B) claude-v2
+hellaswag.val.2487,Model D
+winogrande.dev.543,meta/llama-2-70b-chat
+winogrande.dev.1173,Model B
+mmlu-professional-accounting.val.137,claude-v2
+mmlu-high-school-us-history.val.120,claude-v2
+hellaswag.val.293,Model C
+mmlu-college-medicine.val.83,Meta/llama-2-70b-chat
+mmlu-business-ethics.val.58,D
+grade-school-math.dev.4117,meta/llama-2-70b-chat
+mmlu-astronomy.val.85,Model B
+consensus_summary.dev.282,Meta/llama-2-70b-chat
+grade-school-math.dev.2701,meta/llama-2-70b-chat
+grade-school-math.dev.4976,meta/llama-2-70b-chat
+mmlu-us-foreign-policy.val.58,Model C
+mmlu-professional-law.val.1359,claude-v2
+mmlu-sociology.val.78,D) Scapegoating
+mmlu-moral-scenarios.val.208,"B) Not wrong, Wrong"
+grade-school-math.dev.5044,meta/llama-2-70b-chat
+grade-school-math.dev.6302,meta/llama-2-70b-chat
+mmlu-high-school-biology.val.65,Model B
+hellaswag.val.470,Model C
+hellaswag.val.4538,B
+arc-challenge.test.1078,Model C
+arc-challenge.test.570,Model C
+mmlu-college-mathematics.val.77,Model C (meta/llama-2-70b-chat)
+mmlu-moral-disputes.val.225,B
+mmlu-jurisprudence.val.72,Model C
+winogrande.dev.604,Model B
+mmlu-high-school-computer-science.val.70,Model C
+grade-school-math.dev.6230,meta/llama-2-70b-chat
+hellaswag.val.4042,D) claude-v2
+winogrande.dev.953,meta/llama-2-70b-chat
+hellaswag.val.8239,D
+hellaswag.val.9774,D) claude-v2
+abstract2title.test.247,meta/llama-2-70b-chat
+mmlu-high-school-world-history.val.9,meta/llama-2-70b-chat
+mmlu-professional-law.val.554,claude-v2
+mmlu-professional-law.val.423,claude-v2
+hellaswag.val.3654,A
+chinese_zodiac.dev.383,meta/llama-2-70b-chat
+arc-challenge.test.408,"Model A — correctness: 1, cost: 0.8
+Model B — correctness: 0, cost: 0.1
+Model C — correctness: 1, cost: 0.6
+Model D"
+mmlu-professional-accounting.val.52,Model C
+grade-school-math.dev.611,meta/llama-2-70b-chat
+grade-school-math.dev.3476,meta/llama-2-70b-chat
+mmlu-professional-law.val.1449,D
+mmlu-world-religions.val.7,B
+hellaswag.val.7887,D) claude-v2
+mmlu-econometrics.val.103,C) claude-v2
+hellaswag.val.4426,D
+hellaswag.val.4339,C)
+hellaswag.val.4793,D
+mmlu-professional-accounting.val.170,Model C
+hellaswag.val.1480,claude-v2
+winogrande.dev.745,meta/llama-2-70b-chat
+mmlu-professional-psychology.val.468,Model D
+chinese_zodiac.dev.134,meta/llama-2-70b-chat
+mmlu-professional-law.val.814,claude-v2
+mtbench.dev.3,"Correct choice: claude-v2
+
+This model is chosen because it is designed to handle complex language tasks, including rephrasing and incorporating literary devices like metaphors and similes. The ""v2"" version suggests an"
+mmlu-miscellaneous.val.781,Model B
+hellaswag.val.3409,claude-v2
+mmlu-high-school-biology.val.298,Meta/llama-2-70b-chat
+grade-school-math.dev.7313,meta/llama-2-70b-chat
+mmlu-high-school-physics.val.147,claude-v2
+grade-school-math.dev.4322,meta/llama-2-70b-chat
+hellaswag.val.2307,Model C
+hellaswag.val.3508,B
+mmlu-abstract-algebra.val.98,Model C
+grade-school-math.dev.2300,meta/llama-2-70b-chat
+hellaswag.val.3270,Model C
+winogrande.dev.594,Model B
+mmlu-jurisprudence.val.56,meta/llama-2-70b-chat
+grade-school-math.dev.5533,meta/llama-2-70b-chat
+hellaswag.val.4438,D
+mbpp.dev.401,meta/llama-2-70b-chat
+winogrande.dev.1148,meta/llama-2-70b-chat
+mmlu-jurisprudence.val.95,meta/llama-2-70b-chat
+grade-school-math.dev.4923,meta/llama-2-70b-chat
+hellaswag.val.1084,B) claude-v2
+hellaswag.val.734,Model D
+grade-school-math.dev.5655,meta/llama-2-70b-chat
+mmlu-high-school-psychology.val.201,A) humanistic
+mmlu-college-biology.val.105,Model C
+mmlu-professional-psychology.val.461,B) Cognitive Assessment System
+mmlu-college-computer-science.val.54,Model C
+mbpp.dev.175,meta/llama-2-70b-chat
+hellaswag.val.4597,A) claude-v2
+hellaswag.val.7788,D
+mmlu-professional-law.val.11,claude-v2
+mmlu-prehistory.val.156,claude-v2
+mmlu-professional-law.val.1172,Model C) claude-v2
+hellaswag.val.4942,B
+hellaswag.val.4474,D
+hellaswag.val.7170,B
+grade-school-math.dev.658,meta/llama-2-70b-chat
+mmlu-high-school-microeconomics.val.235,Model C
+mmlu-high-school-geography.val.31,Model C) claude-v2
+grade-school-math.dev.2234,meta/llama-2-70b-chat
+mmlu-professional-psychology.val.391,Model C
+mmlu-professional-law.val.278,meta/llama-2-70b-chat
+grade-school-math.dev.3135,meta/llama-2-70b-chat
+grade-school-math.dev.1252,meta/llama-2-70b-chat
+mmlu-college-computer-science.val.97,"Model A — correctness: 1, cost: 0.8
+Model B — correctness: 0, cost: 0.2
+Model C — correctness: 1, cost: 0.7
+Model D"
+hellaswag.val.9610,Model B
+abstract2title.test.243,meta/llama-2-70b-chat
+grade-school-math.dev.563,meta/llama-2-70b-chat
+mmlu-nutrition.val.153,D
+hellaswag.val.6632,A
+mmlu-professional-law.val.559,meta/llama-2-70b-chat
+arc-challenge.test.779,"Model A — correctness: 1, cost: 0.8
+Model B — correctness: 0, cost: 0.1
+Model C — correctness: 0, cost: 0.2
+Model D"
+grade-school-math.dev.2424,meta/llama-2-70b-chat
+grade-school-math.dev.3418,meta/llama-2-70b-chat
+grade-school-math.dev.6003,meta/llama-2-70b-chat
+grade-school-math.dev.7387,meta/llama-2-70b-chat
+mmlu-high-school-psychology.val.109,Model D) Mania
+arc-challenge.test.39,Model C
+hellaswag.val.3974,D
+grade-school-math.dev.807,meta/llama-2-70b-chat
+mmlu-philosophy.val.7,Model C
+chinese_idioms.dev.12,llama-2-70b-chat
+mmlu-professional-law.val.914,B
+hellaswag.val.2843,Model C
+hellaswag.val.5896,C) claude-v2
+mmlu-electrical-engineering.val.87,Model B
+mtbench-math.dev.12,meta/llama-2-70b-chat
+arc-challenge.test.978,Model B
+hellaswag.val.8506,C) claude-v2
+grade-school-math.dev.2075,meta/llama-2-70b-chat
+mmlu-high-school-us-history.val.137,meta/llama-2-70b-chat
+mmlu-prehistory.val.48,Model C) meta/llama-2-70b-chat
+mmlu-high-school-microeconomics.val.49,claude-v2
+mmlu-elementary-mathematics.val.366,Model D
+grade-school-math.dev.5500,meta/llama-2-70b-chat
+mmlu-high-school-geography.val.2,Model D
+grade-school-math.dev.2770,meta/llama-2-70b-chat
+hellaswag.val.1826,Model C
+mmlu-high-school-statistics.val.68,C
+grade-school-math.dev.4470,meta/llama-2-70b-chat
+winogrande.dev.571,Model C - claude-v2
+mmlu-anatomy.val.97,Model B
+mmlu-professional-law.val.884,A
+mmlu-management.val.7,Model C) Referent
+mmlu-professional-law.val.1232,D) claude-v2
+hellaswag.val.27,claude-v2
+mmlu-conceptual-physics.val.129,Model D
+grade-school-math.dev.51,meta/llama-2-70b-chat
+hellaswag.val.6993,C
+mmlu-professional-psychology.val.553,claude-v2
+arc-challenge.test.97,C
+grade-school-math.dev.4366,meta/llama-2-70b-chat
+mmlu-anatomy.val.42,Model C - Femur
+grade-school-math.dev.6315,meta/llama-2-70b-chat
+mmlu-professional-law.val.1039,claude-v2
+mbpp.dev.298,meta/llama-2-70b-chat
+grade-school-math.dev.2817,meta/llama-2-70b-chat
+grade-school-math.dev.4728,meta/llama-2-70b-chat
+mmlu-formal-logic.val.34,A) WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.534,claude-v2
+hellaswag.val.2353,D) meta/llama-2-70b-chat
+winogrande.dev.465,Model B
+mmlu-college-physics.val.88,Model C - claude-v2
+mmlu-professional-psychology.val.135,Model C
+hellaswag.val.3462,Model C
+grade-school-math.dev.96,meta/llama-2-70b-chat
+grade-school-math.dev.678,meta/llama-2-70b-chat
+hellaswag.val.1304,Model C
+mmlu-high-school-statistics.val.142,D) gpt-4-1106-preview
+hellaswag.val.460,claude-v2
+arc-challenge.test.626,Model C
+mmlu-security-studies.val.87,B
+mmlu-high-school-mathematics.val.134,Model C - claude-v2
+mmlu-moral-scenarios.val.813,"C) Wrong, Not wrong"
+hellaswag.val.9828,Model C
+hellaswag.val.8423,C
+grade-school-math.dev.2902,meta/llama-2-70b-chat
+abstract2title.test.216,meta/llama-2-70b-chat
+mmlu-high-school-chemistry.val.129,Model C
+mmlu-professional-law.val.109,C) meta/llama-2-70b-chat
+mmlu-moral-disputes.val.305,B) claude-v2
+mmlu-professional-law.val.980,claude-v2
+mmlu-professional-law.val.1362,B
+hellaswag.val.8338,C
+hellaswag.val.5347,B
+hellaswag.val.6754,C) claude-v2
+hellaswag.val.8525,Model C
+mmlu-college-medicine.val.170,Meta/llama-2-70b-chat
+grade-school-math.dev.2835,meta/llama-2-70b-chat
+grade-school-math.dev.5780,meta/llama-2-70b-chat
+grade-school-math.dev.4642,meta/llama-2-70b-chat
+mmlu-virology.val.49,D) Deep pyro sequencing (NGS)
+mmlu-elementary-mathematics.val.74,"Model A — correctness: 1, cost: 0.8
+Model B — correctness: 1, cost: 0.9
+Model C — correctness: 0, cost: 0.2
+Model D"
+mmlu-philosophy.val.61,Model C (meta/llama-2-70b-chat)
+hellaswag.val.5476,B
+hellaswag.val.19,claude-v2
+mmlu-professional-law.val.160,meta/llama-2-70b-chat
+mmlu-moral-scenarios.val.244,D) WizardLM-13B-V1.2
+hellaswag.val.4468,Model D
+hellaswag.val.8495,C) claude-v2
+grade-school-math.dev.5874,meta/llama-2-70b-chat
+hellaswag.val.3984,B
+grade-school-math.dev.2374,meta/llama-2-70b-chat
+mmlu-clinical-knowledge.val.44,"Model A — correctness: 1, cost: 0.8
+Model B — correctness: 0, cost: 0.2
+Model C — correctness: 0, cost: 0.1
+Model D"
+winogrande.dev.432,"Model A — correctness: 1, cost: 0.8
+Model B — correctness: 0, cost: 0.1
+Correct choice: Model A"
+mmlu-professional-law.val.46,claude-v2
+mmlu-high-school-psychology.val.250,claude-v2
+mmlu-prehistory.val.62,C
+grade-school-math.dev.1518,meta/llama-2-70b-chat
+hellaswag.val.1461,claude-v2
+mmlu-jurisprudence.val.83,Model C
+hellaswag.val.7492,C) claude-v2
+chinese_shi_jing.test.25,meta/llama-2-70b-chat
+winogrande.dev.652,Model B
+winogrande.dev.348,Model B
+chinese_zodiac.dev.109,meta/llama-2-70b-chat
+hellaswag.val.3822,Model D
+hellaswag.val.8245,Model B
+mmlu-professional-law.val.1415,meta/llama-2-70b-chat
+hellaswag.val.1965,claude-v2
+hellaswag.val.3410,A
+hellaswag.val.3048,Model C
+arc-challenge.test.367,Model C (2 m/s)
+mmlu-logical-fallacies.val.34,Meta/llama-2-70b-chat
+hellaswag.val.6678,claude-v2
+mmlu-high-school-world-history.val.8,claude-v2
+mmlu-professional-medicine.val.180,D) CT scan of the chest
+grade-school-math.dev.7182,meta/llama-2-70b-chat
+bias_detection.dev.239,"meta/llama-2-70b-chat
+
+Reasoning: This model is best suited because it is designed for understanding and classifying complex information, such as distinguishing between fact, opinion, claim, data, quote"
+grade-school-math.dev.4583,meta/llama-2-70b-chat
+mmlu-conceptual-physics.val.193,Model B
+winogrande.dev.1059,Model B
+mmlu-high-school-physics.val.105,Model C
+mmlu-moral-disputes.val.73,B) consequentialist theory
+mbpp.dev.123,meta/llama-2-70b-chat
+mmlu-miscellaneous.val.64,claude-v2
+mmlu-professional-law.val.101,meta/llama-2-70b-chat
+hellaswag.val.4837,claude-v2
+hellaswag.val.429,claude-v2
+hellaswag.val.9856,B
+hellaswag.val.5030,B
+mmlu-security-studies.val.129,D) meta/llama-2-70b-chat
+hellaswag.val.1447,B
+grade-school-math.dev.3918,meta/llama-2-70b-chat
+arc-challenge.test.948,Model B
+mmlu-philosophy.val.121,Model D
+mmlu-sociology.val.58,Model C
+mbpp.dev.360,meta/llama-2-70b-chat
+mmlu-professional-law.val.288,meta/llama-2-70b-chat
+mmlu-professional-law.val.657,meta/llama-2-70b-chat
+hellaswag.val.1326,B
+hellaswag.val.3344,Model D
+mmlu-conceptual-physics.val.65,Model D
+winogrande.dev.121,Model B
+grade-school-math.dev.1140,meta/llama-2-70b-chat
+grade-school-math.dev.1567,meta/llama-2-70b-chat
+mmlu-professional-law.val.1350,claude-v2
+hellaswag.val.4342,claude-v2
+hellaswag.val.4889,B
+winogrande.dev.706,Model B
+arc-challenge.test.2,Model C
+mmlu-international-law.val.65,claude-v2
+mmlu-security-studies.val.218,C
+mmlu-professional-medicine.val.44,meta/llama-2-70b-chat
+hellaswag.val.1102,claude-v2
+abstract2title.test.62,meta/llama-2-70b-chat
+mmlu-marketing.val.100,C) Pay per click (PPC)
+hellaswag.val.1894,D) meta/llama-2-70b-chat
+grade-school-math.dev.2479,meta/llama-2-70b-chat
+mmlu-professional-law.val.564,claude-v2
+mmlu-moral-scenarios.val.760,"C) Not wrong, Wrong"
+abstract2title.test.105,meta/llama-2-70b-chat
+hellaswag.val.9502,A or B
+mmlu-security-studies.val.156,B
+mmlu-moral-scenarios.val.626,"B) Not wrong, Wrong"
+hellaswag.val.6255,B
+mmlu-high-school-world-history.val.173,meta/llama-2-70b-chat
+mmlu-miscellaneous.val.637,claude-v2
+hellaswag.val.4051,C) claude-v2
+grade-school-math.dev.4084,meta/llama-2-70b-chat
+mmlu-machine-learning.val.27,Model C
+hellaswag.val.7254,Model C
+mmlu-clinical-knowledge.val.119,"Model A - correctness: 1, cost: 0.8"
+mmlu-moral-disputes.val.332,Model C
+mmlu-high-school-government-and-politics.val.24,Meta/llama-2-70b-chat
+hellaswag.val.2290,Model D
+grade-school-math.dev.7422,meta/llama-2-70b-chat
+mmlu-abstract-algebra.val.99,C) meta/llama-2-70b-chat
+mmlu-clinical-knowledge.val.171,Model D - Alcohol
+mmlu-human-sexuality.val.103,Model D
+hellaswag.val.7714,Model C
+hellaswag.val.5396,C) meta/llama-2-70b-chat
+hellaswag.val.3840,C
+mmlu-professional-law.val.1034,meta/llama-2-70b-chat
+grade-school-math.dev.2592,meta/llama-2-70b-chat
+arc-challenge.test.815,Model C
+chinese_zodiac.dev.122,meta/llama-2-70b-chat
+mmlu-high-school-statistics.val.54,Model C
+mmlu-high-school-geography.val.170,B) claude-v2
+mmlu-professional-law.val.328,claude-v2
+mmlu-miscellaneous.val.468,Meta/llama-2-70b-chat
+mmlu-high-school-us-history.val.58,meta/llama-2-70b-chat
+grade-school-math.dev.641,meta/llama-2-70b-chat
+hellaswag.val.4185,D
+hellaswag.val.5494,Model C
+mmlu-international-law.val.107,Model B
+mmlu-high-school-biology.val.122,Model A
+hellaswag.val.4973,B
+grade-school-math.dev.2819,meta/llama-2-70b-chat
+chinese_zodiac.dev.195,meta/llama-2-70b-chat
+hellaswag.val.3986,D) claude-v2
+grade-school-math.dev.3734,meta/llama-2-70b-chat
+grade-school-math.dev.4541,meta/llama-2-70b-chat
+grade-school-math.dev.2309,meta/llama-2-70b-chat
+grade-school-math.dev.5653,meta/llama-2-70b-chat
+grade-school-math.dev.2905,meta/llama-2-70b-chat
+consensus_summary.dev.233,Model C
+mmlu-professional-law.val.1171,claude-v2
+mmlu-college-mathematics.val.64,Model C) meta/llama-2-70b-chat
+mtbench-reference.dev.3,Model C (meta/llama-2-70b-chat)
+chinese_zodiac.dev.373,meta/llama-2-70b-chat
+grade-school-math.dev.2702,meta/llama-2-70b-chat
+mmlu-high-school-microeconomics.val.138,Model C
+mmlu-anatomy.val.6,Meta/llama-2-70b-chat
+mmlu-prehistory.val.36,B
+arc-challenge.val.282,Model C
+grade-school-math.dev.885,meta/llama-2-70b-chat
+hellaswag.val.5934,B
+hellaswag.val.4548,claude-v2
+mmlu-professional-accounting.val.245,Llama-2-70b-chat
+arc-challenge.test.250,"Model A — correctness: 1, cost: 0.8
+Model B — correctness: 0, cost: 0.1
+Model C — correctness: 0, cost: 0.2
+Model D"
+grade-school-math.dev.5595,meta/llama-2-70b-chat
+grade-school-math.dev.6217,meta/llama-2-70b-chat
+hellaswag.val.9121,claude-v2
+mmlu-professional-law.val.1326,B
+grade-school-math.dev.1245,meta/llama-2-70b-chat
+hellaswag.val.3167,claude-v2
+hellaswag.val.1383,C) claude-v2
+mmlu-professional-law.val.407,claude-v2
+mmlu-professional-law.val.344,meta/llama-2-70b-chat
+grade-school-math.dev.7009,meta/llama-2-70b-chat
+mmlu-professional-law.val.1067,claude-v2
+mmlu-professional-law.val.115,claude-v2
+hellaswag.val.2555,claude-v2
+mmlu-professional-law.val.1229,meta/llama-2-70b-chat
+mmlu-global-facts.val.54,Model C
+hellaswag.val.4243,B
+mmlu-elementary-mathematics.val.70,Model C (meta/llama-2-70b-chat)
+mmlu-high-school-government-and-politics.val.176,Model D
+grade-school-math.dev.6163,meta/llama-2-70b-chat
+mmlu-miscellaneous.val.505,Model C
+hellaswag.val.941,B) claude-v2
+mmlu-professional-law.val.269,claude-v2
+winogrande.dev.853,mistralai/mixtral-8x7b-chat
+winogrande.dev.1135,meta/llama-2-70b-chat
+mmlu-human-aging.val.76,Meta/llama-2-70b-chat
+grade-school-math.dev.3693,meta/llama-2-70b-chat
+winogrande.dev.116,Model B
+hellaswag.val.9273,D) claude-v2
+chinese_homonym.dev.17,Model C - claude-v2
+mmlu-business-ethics.val.48,Model C
+hellaswag.val.3058,claude-v2
+grade-school-math.dev.6695,meta/llama-2-70b-chat
+mmlu-professional-law.val.153,meta/llama-2-70b-chat
+mmlu-professional-law.val.1301,Llama-2-70b-chat
+hellaswag.val.4043,C) claude-v2
+hellaswag.val.455,meta/llama-2-70b-chat
+hellaswag.val.9766,A) claude-instant-v1
+hellaswag.val.7561,D)
+mmlu-professional-law.val.520,meta/llama-2-70b-chat
+mmlu-professional-law.val.1520,claude-v2
+mmlu-machine-learning.val.41,B
+mmlu-human-aging.val.49,Model B
+mmlu-high-school-statistics.val.81,Model C
+mmlu-professional-law.val.997,meta/llama-2-70b-chat
+hellaswag.val.8217,B
+mmlu-moral-scenarios.val.410,"C) Not wrong, Wrong"
+hellaswag.val.847,claude-v2
+mmlu-moral-scenarios.val.496,"C) Not wrong, Wrong"
+mmlu-professional-accounting.val.229,Model C
+mmlu-professional-law.val.169,claude-v2
+grade-school-math.dev.7170,meta/llama-2-70b-chat
+grade-school-math.dev.5220,meta/llama-2-70b-chat
+chinese_poem.dev.2,llama-2-70b-chat
+hellaswag.val.6761,B) claude-v2
+mmlu-professional-law.val.468,claude-v2
+mmlu-medical-genetics.val.38,Model C - Von Hippel-Lindau syndrome
+grade-school-math.dev.4238,meta/llama-2-70b-chat
+winogrande.dev.1256,Model C - claude-v2
+grade-school-math.dev.4633,meta/llama-2-70b-chat
+mmlu-professional-law.val.367,C) meta/llama-2-70b-chat
+mmlu-professional-medicine.val.222,Llama-2-70b-chat
+winogrande.dev.54,"Model A — correctness: 1, cost: 0.8
+Model B — correctness: 1, cost: 0.6
+Correct choice: Model B"
+mmlu-high-school-macroeconomics.val.298,claude-v2
+mmlu-professional-law.val.658,Llama-2-70b-chat
+mmlu-professional-law.val.645,B
+hellaswag.val.589,Model B
+grade-school-math.dev.4772,meta/llama-2-70b-chat
+mmlu-professional-law.val.78,claude-v2
+mmlu-business-ethics.val.64,D
+bias_detection.dev.60,"Model C — correctness: 1, cost: 0.3
+
+Reasoning: The prompt requires classification of a sentence based on its content type, which is a task that involves understanding and analyzing the sentence's structure and"
+hellaswag.val.611,Meta/llama-2-70b-chat
+hellaswag.val.3378,claude-v2
+hellaswag.val.9074,B
+grade-school-math.dev.3017,meta/llama-2-70b-chat
+mmlu-electrical-engineering.val.113,Model C
+hellaswag.val.7064,C
+grade-school-math.dev.4972,meta/llama-2-70b-chat
+grade-school-math.dev.7173,meta/llama-2-70b-chat
+mmlu-professional-law.val.874,meta/llama-2-70b-chat
+mmlu-jurisprudence.val.47,C
+grade-school-math.dev.950,meta/llama-2-70b-chat
+mmlu-professional-law.val.862,Llama-2-70b-chat
+mmlu-anatomy.val.19,Model C
+mmlu-professional-law.val.408,B
+hellaswag.val.8078,B
+hellaswag.val.5949,C
+grade-school-math.dev.1663,meta/llama-2-70b-chat
+hellaswag.val.5149,Model C
+grade-school-math.dev.2818,meta/llama-2-70b-chat
+winogrande.dev.370,"Model A — correctness: 1, cost: 0.8
+Model B — correctness: 1, cost: 0.6
+Correct choice: Model B"
+chinese_zodiac.dev.157,meta/llama-2-70b-chat
+hellaswag.val.8207,Model C
+grade-school-math.dev.3870,meta/llama-2-70b-chat
+hellaswag.val.7324,C) claude-v2
+hellaswag.val.1213,claude-v2
+mmlu-elementary-mathematics.val.298,Model C (13)
+hellaswag.val.9644,Model C
+arc-challenge.test.175,Model C
+hellaswag.val.8283,Model C
+hellaswag.val.6174,Meta/llama-2-70b-chat
+mmlu-professional-law.val.348,claude-v2
+hellaswag.val.5708,Model C
+hellaswag.val.4647,Model D
+hellaswag.val.2424,Model C
+grade-school-math.dev.5226,meta/llama-2-70b-chat
+mmlu-elementary-mathematics.val.329,Model B
+grade-school-math.dev.3234,meta/llama-2-70b-chat
+mmlu-professional-law.val.1426,claude-v2
+grade-school-math.dev.4315,meta/llama-2-70b-chat
+arc-challenge.test.729,meta/llama-2-70b-chat
+mmlu-moral-scenarios.val.857,"D) Wrong, Not wrong"
+mmlu-high-school-mathematics.val.22,Meta/llama-2-70b-chat
+mmlu-conceptual-physics.val.170,Model C
+arc-challenge.test.772,Meta/llama-2-70b-chat
+mmlu-high-school-macroeconomics.val.135,Model B
+mmlu-high-school-world-history.val.151,meta/llama-2-70b-chat
+grade-school-math.dev.3831,meta/llama-2-70b-chat
+mmlu-marketing.val.105,B) Advertising
+grade-school-math.dev.3401,meta/llama-2-70b-chat
+mmlu-professional-law.val.740,claude-v2
+mmlu-miscellaneous.val.776,"Model A — correctness: 1, cost: 0.8
+Model B — correctness: 0, cost: 0.1
+Model C — correctness: 0, cost: 0.05
+Model"
+mmlu-philosophy.val.154,meta/llama-2-70b-chat
+mmlu-professional-law.val.695,D) claude-v2
+mmlu-moral-disputes.val.233,claude-v2
+mmlu-professional-law.val.1066,meta/llama-2-70b-chat
+mmlu-prehistory.val.179,Model C
+mmlu-miscellaneous.val.234,D) Portfolio assessment
+mmlu-high-school-world-history.val.87,claude-v2
+grade-school-math.dev.4354,meta/llama-2-70b-chat
+mmlu-marketing.val.151,"Model A — correctness: 1, cost: 0.8
+Model B — correctness: 0, cost: 0.1
+Model C — correctness: 1, cost: 0.7
+Model D"
+mmlu-professional-law.val.981,B
+mmlu-marketing.val.134,Meta/llama-2-70b-chat
+hellaswag.val.4965,C) meta/llama-2-70b-chat
+mmlu-professional-law.val.369,meta/llama-2-70b-chat
+mmlu-prehistory.val.130,meta/llama-2-70b-chat
+hellaswag.val.6671,C) claude-v2
+mmlu-moral-disputes.val.122,claude-v2
+mmlu-nutrition.val.44,B
+mmlu-high-school-biology.val.285,Model C - Cactus
+mmlu-high-school-mathematics.val.25,Model C - meta/llama-2-70b-chat
+hellaswag.val.425,claude-v2
+grade-school-math.dev.71,meta/llama-2-70b-chat
+mmlu-professional-law.val.1211,claude-v2
+mmlu-professional-law.val.158,claude-v2
+grade-school-math.dev.1942,meta/llama-2-70b-chat
+grade-school-math.dev.5101,meta/llama-2-70b-chat
+mmlu-business-ethics.val.38,Model D
+grade-school-math.dev.7391,meta/llama-2-70b-chat
+mmlu-professional-law.val.497,D) meta/llama-2-70b-chat
+hellaswag.val.2220,mistralai/mixtral-8x7b-chat
+mmlu-high-school-physics.val.73,Model C
+mmlu-high-school-european-history.val.32,meta/llama-2-70b-chat
+hellaswag.val.8100,D) meta/llama-2-70b-chat
+mmlu-high-school-biology.val.244,"Model A — correctness: 1, cost: 0.8
+Model B — correctness: 0, cost: 0.2
+Model C — correctness: 0, cost: 0.1
+Model D"
+mmlu-miscellaneous.val.530,Model C
+hellaswag.val.8021,claude-v2
+mmlu-professional-law.val.1480,B
+mbpp.dev.226,llama-2-70b-chat
+mmlu-professional-law.val.962,Llama-2-70b-chat
+hellaswag.val.2947,Model C
+grade-school-math.dev.313,meta/llama-2-70b-chat
+hellaswag.val.9827,Meta/llama-2-70b-chat
+hellaswag.val.3053,Model D
+mmlu-professional-law.val.1266,claude-v2
+grade-school-math.dev.2267,meta/llama-2-70b-chat
+hellaswag.val.9655,D
+hellaswag.val.4583,Model C
+abstract2title.test.100,meta/llama-2-70b-chat
+hellaswag.val.2262,claude-v2
+winogrande.dev.926,Model B
+arc-challenge.test.319,Model B
+arc-challenge.test.103,Model D
+hellaswag.val.8819,claude-v2
+mmlu-anatomy.val.96,Model C
+hellaswag.val.196,C) claude-v2
+grade-school-math.dev.3386,meta/llama-2-70b-chat
+hellaswag.val.8201,Model C
+mmlu-moral-disputes.val.140,Model C
+arc-challenge.test.830,Model B
+grade-school-math.dev.1145,meta/llama-2-70b-chat
+mmlu-philosophy.val.213,Model C
+hellaswag.val.7120,C) claude-v2
+hellaswag.val.3441,B
+mmlu-world-religions.val.77,D) Sri (Lakshmi)
+arc-challenge.test.764,B-model
+mmlu-professional-law.val.1325,claude-v2
+hellaswag.val.3146,claude-v2
+grade-school-math.dev.1692,meta/llama-2-70b-chat
+hellaswag.val.6066,A) or D)
+grade-school-math.dev.3130,meta/llama-2-70b-chat
+grade-school-math.dev.5970,meta/llama-2-70b-chat
+hellaswag.val.6884,B
+hellaswag.val.6534,Model B
+mmlu-professional-law.val.892,claude-v2
+hellaswag.val.8173,AI-Claude-v2
+chinese_zodiac.dev.244,meta/llama-2-70b-chat
+mmlu-high-school-computer-science.val.98,Model C
+grade-school-math.dev.5265,meta/llama-2-70b-chat
+mmlu-elementary-mathematics.val.140,Model C
+grade-school-math.dev.2580,meta/llama-2-70b-chat
+hellaswag.val.3947,D) meta/llama-2-70b-chat
+hellaswag.val.4504,B
+mmlu-professional-law.val.127,claude-v2
+mmlu-security-studies.val.209,A
+bias_detection.dev.46,"Model C — correctness: 1, cost: 0.3
+
+Reasoning: The prompt requires classification of a sentence from a news article into specific categories such as fact, opinion, claim, data, quote, narrative,"
+abstract2title.test.180,meta/llama-2-70b-chat
+abstract2title.test.72,meta/llama-2-70b-chat
+winogrande.dev.165,Model B
+hellaswag.val.8193,C
+hellaswag.val.6258,claude-v2
+grade-school-math.dev.2751,meta/llama-2-70b-chat
+hellaswag.val.5432,claude-v2
+mbpp.dev.305,meta/llama-2-70b-chat
+mmlu-abstract-algebra.val.6,D) meta/llama-2-70b-chat
+winogrande.dev.26,Model B
+hellaswag.val.8083,Model C
+chinese_famous_novel.dev.17,meta/llama-2-70b-chat
+mmlu-professional-law.val.723,claude-v2
+mmlu-electrical-engineering.val.96,"Model A — correctness: 1, cost: 0.8
+Model B — correctness: 0, cost: 0.1
+
+Correct choice: Model A"
+hellaswag.val.2837,claude-v2
+grade-school-math.dev.2124,meta/llama-2-70b-chat
+winogrande.dev.1010,Model B
+grade-school-math.dev.3728,meta/llama-2-70b-chat
+grade-school-math.dev.6052,meta/llama-2-70b-chat
+mmlu-security-studies.val.173,claude-v2
+mmlu-professional-law.val.1294,claude-v2
+hellaswag.val.586,B) claude-v2
+hellaswag.val.6613,claude-v2
+Chinese_character_riddles.dev.62,"Model C — correctness: 1, cost: 0.3
+
+Here's the reasoning: The prompt requires understanding Chinese characters, their formation, pronunciation, meaning, and how they can be combined. Model C, being"
+hellaswag.val.3339,Model C
+hellaswag.val.446,B
+mbpp.dev.339,meta/llama-2-70b-chat
+mmlu-professional-law.val.935,claude-v2
+consensus_summary.dev.110,Meta/llama-2-70b-chat
+grade-school-math.dev.5675,meta/llama-2-70b-chat
+hellaswag.val.8543,A
+mmlu-electrical-engineering.val.48,"Model A — correctness: 1, cost: 0.8
+Model B — correctness: 0, cost: 0.1
+Model C — correctness: 1, cost: 0.7
+Model D"
+hellaswag.val.7667,C
+hellaswag.val.3854,C
+grade-school-math.dev.4618,meta/llama-2-70b-chat
+chinese_shi_jing.test.5,meta/llama-2-70b-chat
+mmlu-sociology.val.180,Model B - claude-v2
+arc-challenge.val.224,Model C
+grade-school-math.dev.6784,meta/llama-2-70b-chat
+mmlu-sociology.val.104,Model C
+mmlu-professional-psychology.val.489,"Model A — correctness: 1, cost: 0.8
+Model B — correctness: 0, cost: 0.2
+Model C — correctness: 0, cost: 0.3
+Model D"
+mmlu-professional-law.val.568,claude-v2
+mmlu-clinical-knowledge.val.138,Meta/llama-2-70b-chat
+mmlu-jurisprudence.val.82,Model D
+hellaswag.val.3285,claude-v2
+hellaswag.val.8901,Model B
+mmlu-professional-psychology.val.234,Model B
+hellaswag.val.2962,Model D
+hellaswag.val.7011,Model C
+grade-school-math.dev.7380,meta/llama-2-70b-chat
+grade-school-math.dev.2491,meta/llama-2-70b-chat
+mmlu-college-mathematics.val.70,Model C
+mmlu-professional-law.val.1220,meta/llama-2-70b-chat
+hellaswag.val.5188,Meta/llama-2-70b-chat
+mmlu-philosophy.val.91,meta/llama-2-70b-chat
+mmlu-college-medicine.val.65,Model B
+mmlu-moral-scenarios.val.784,"B) Wrong, Wrong"
+mmlu-prehistory.val.138,Model D
+grade-school-math.dev.591,meta/llama-2-70b-chat
+hellaswag.val.9941,D
+hellaswag.val.1988,B) claude-v2
+mmlu-professional-law.val.1341,claude-v2
+grade-school-math.dev.6748,meta/llama-2-70b-chat
+winogrande.dev.284,"Model A — correctness: 1, cost: 0.8
+Model B — correctness: 0, cost: 0.2
+Correct choice: Model A"
+grade-school-math.dev.212,meta/llama-2-70b-chat
+hellaswag.val.9812,C) meta/llama-2-70b-chat
+mmlu-electrical-engineering.val.72,claude-v2
+mmlu-world-religions.val.27,Model C
+hellaswag.val.7217,Model C
+grade-school-math.dev.2547,meta/llama-2-70b-chat
+mmlu-professional-law.val.471,meta/llama-2-70b-chat
+mmlu-elementary-mathematics.val.216,Model C
+grade-school-math.dev.1385,meta/llama-2-70b-chat
+hellaswag.val.4329,A) WizardLM/WizardLM-13B-V1.2
+mmlu-miscellaneous.val.208,Model C
+hellaswag.val.1772,Model C
+winogrande.dev.1140,meta/llama-2-70b-chat
+winogrande.dev.1180,meta/llama-2-70b-chat
+mmlu-philosophy.val.239,meta/llama-2-70b-chat
+mmlu-professional-law.val.636,D
+hellaswag.val.1292,Model D
+mmlu-clinical-knowledge.val.137,Model C
+grade-school-math.dev.1224,meta/llama-2-70b-chat
+mmlu-marketing.val.75,"Model A — correctness: 1, cost: 0.8
+Model B — correctness: 0, cost: 0.1
+Model C — correctness: 0, cost: 0.2
+Model D"
+mmlu-elementary-mathematics.val.60,"Model A — correctness: 1, cost: 0.8
+Model B — correctness: 0, cost: 0.1
+Model C — correctness: 0, cost: 0.2
+Model D"
+grade-school-math.dev.7261,meta/llama-2-70b-chat
+mmlu-miscellaneous.val.492,Model D
+mmlu-moral-scenarios.val.7,"C) Not wrong, Wrong"
+mmlu-professional-law.val.261,claude-v2
+mmlu-high-school-government-and-politics.val.45,Meta/llama-2-70b-chat
+hellaswag.val.7332,B
+mmlu-college-computer-science.val.52,meta/llama-2-70b-chat
+hellaswag.val.3361,B
+grade-school-math.dev.6803,meta/llama-2-70b-chat
+mmlu-miscellaneous.val.339,Model C
+winogrande.dev.190,Model B
+winogrande.dev.89,meta/llama-2-70b-chat
+hellaswag.val.3936,Model D
+hellaswag.val.1510,B
+abstract2title.test.170,meta/llama-2-70b-chat
+mmlu-high-school-us-history.val.173,llama-2-70b-chat
+arc-challenge.test.635,Model C
+hellaswag.val.6456,Model C
+grade-school-math.dev.432,meta/llama-2-70b-chat
+hellaswag.val.1496,B) claude-v2
+Chinese_character_riddles.dev.38,"Model C — correctness: 1, cost: 0.3
+
+While the specific models are not detailed in terms of their capabilities, based on the given correctness and cost, Model C is the optimal choice. It has a"
+grade-school-math.dev.66,meta/llama-2-70b-chat
+mmlu-professional-law.val.581,meta/llama-2-70b-chat
+mmlu-college-biology.val.103,Model C
+grade-school-math.dev.6473,meta/llama-2-70b-chat
+mmlu-high-school-physics.val.85,Model B
+hellaswag.val.4335,C)
+mmlu-international-law.val.87,claude-v2
+mmlu-international-law.val.97,Model C
+grade-school-math.dev.1638,meta/llama-2-70b-chat
+grade-school-math.dev.6457,meta/llama-2-70b-chat
+mmlu-miscellaneous.val.252,Model D
+arc-challenge.test.531,C) Heredity of Earlobe Types
+hellaswag.val.7504,B
+hellaswag.val.8000,B) claude-v2
+winogrande.dev.164,"Model A — correctness: 1, cost: 0.8
+Model B — correctness: 0, cost: 0.2
+
+Correct choice: Model A"
+grade-school-math.dev.5900,meta/llama-2-70b-chat
+hellaswag.val.5495,B
+hellaswag.val.6782,D)
+mmlu-professional-law.val.31,B
+mmlu-college-medicine.val.100,"Model A — correctness: 1, cost: 0.8
+Model B — correctness: 0, cost: 0.1
+Model C — correctness: 0, cost: 0.2
+Model D"
+hellaswag.val.7404,D
+mmlu-logical-fallacies.val.59,Model D
+mmlu-professional-law.val.926,meta/llama-2-70b-chat
+mmlu-professional-psychology.val.30,Meta/llama-2-70b-chat
+hellaswag.val.9840,B
+mmlu-professional-law.val.364,claude-v2
+grade-school-math.dev.7103,meta/llama-2-70b-chat
+mmlu-high-school-macroeconomics.val.39,Model C - gpt-4-1106-preview
+mmlu-logical-fallacies.val.27,Model C
+grade-school-math.dev.2814,meta/llama-2-70b-chat
+hellaswag.val.6587,D
+grade-school-math.dev.6135,meta/llama-2-70b-chat
+hellaswag.val.1588,claude-v2
+grade-school-math.dev.7238,meta/llama-2-70b-chat
+hellaswag.val.9242,Model C
+hellaswag.val.6985,A)
+hellaswag.val.4142,C) claude-v2
+mmlu-professional-accounting.val.39,Model C
+grade-school-math.dev.5158,meta/llama-2-70b-chat
+hellaswag.val.12,mistralai/mixtral-8x7b-chat
+chinese_ancient_masterpieces_dynasty.dev.12,meta/llama-2-70b-chat
+hellaswag.val.7529,C
+mmlu-global-facts.val.99,Model C
+mmlu-professional-accounting.val.22,"Model A — correctness: 1, cost: 0.8
+Model B — correctness: 0, cost: 0.2
+Model C — correctness: 0, cost: 0.1
+Model D"
+mmlu-high-school-geography.val.39,Model C
+mmlu-professional-law.val.683,meta/llama-2-70b-chat
+hellaswag.val.6464,Meta/llama-2-70b-chat
+winogrande.dev.341,"Model A — correctness: 1, cost: 0.8
+Model B — correctness: 1, cost: 0.6
+Correct choice: Model B"
+hellaswag.val.8764,D) claude-v2
+mmlu-professional-law.val.17,claude-v2
+winogrande.dev.828,"Model A — correctness: 1, cost: 0.8
+Model B — correctness: 1, cost: 0.6
+Model C — correctness: 0, cost: 0.1
+Model D"
+grade-school-math.dev.2150,meta/llama-2-70b-chat
+grade-school-math.dev.4830,meta/llama-2-70b-chat
+grade-school-math.dev.4922,meta/llama-2-70b-chat
+hellaswag.val.8784,B
+mmlu-high-school-psychology.val.122,Model A
+chinese_zodiac.dev.391,meta/llama-2-70b-chat
+hellaswag.val.6989,claude-v2
+arc-challenge.test.725,Model C
+hellaswag.val.9709,D) meta/llama-2-70b-chat
+grade-school-math.dev.4573,meta/llama-2-70b-chat
+grade-school-math.dev.6941,meta/llama-2-70b-chat
+mmlu-professional-law.val.1076,B
+mbpp.dev.259,Code-llama-instruct-34b-chat
+winogrande.dev.318,B
+hellaswag.val.5124,Model B
+grade-school-math.dev.7054,meta/llama-2-70b-chat
+grade-school-math.dev.3446,meta/llama-2-70b-chat
+mmlu-high-school-macroeconomics.val.46,Model C
+mmlu-high-school-government-and-politics.val.82,Model B
+grade-school-math.dev.5590,meta/llama-2-70b-chat
+mmlu-professional-law.val.202,claude-v2
+mmlu-professional-law.val.361,claude-v2
+grade-school-math.dev.2482,meta/llama-2-70b-chat
+arc-challenge.test.837,Model C
+mmlu-professional-psychology.val.70,Model C
+winogrande.dev.643,claude-v2
+abstract2title.test.142,meta/llama-2-70b-chat
+grade-school-math.dev.5772,meta/llama-2-70b-chat
+mmlu-professional-law.val.550,Llama-2-70b-chat
+arc-challenge.val.76,Model C
+mmlu-high-school-geography.val.137,Model C
+mbpp.dev.134,meta/llama-2-70b-chat
+hellaswag.val.4253,B
+winogrande.dev.96,Model B
+winogrande.dev.734,Model B
+mmlu-jurisprudence.val.102,Model C - claude-v2
+mmlu-high-school-macroeconomics.val.290,Meta/llama-2-70b-chat
+hellaswag.val.3309,D) claude-v2
+arc-challenge.test.393,Model C - claude-v2
+hellaswag.val.3355,Model C
+hellaswag.val.1509,D) gpt-4-1106-preview
+grade-school-math.dev.7208,meta/llama-2-70b-chat
+mbpp.dev.43,Code-llama-instruct-34b-chat
+grade-school-math.dev.4543,meta/llama-2-70b-chat
+grade-school-math.dev.1847,meta/llama-2-70b-chat
+mmlu-jurisprudence.val.43,Model D
+mmlu-high-school-psychology.val.292,Model D
+mmlu-nutrition.val.286,Meta/llama-2-70b-chat
+hellaswag.val.8769,Model C
+hellaswag.val.3473,A) WizardLM/WizardLM-13B-V1.2
+hellaswag.val.2991,claude-v2
+arc-challenge.test.115,Model C
+grade-school-math.dev.4643,meta/llama-2-70b-chat
+hellaswag.val.8081,A) WizardLM/WizardLM-13B-V1.2
+mmlu-medical-genetics.val.99,Model C - Thanatophoric dysplasia
+mmlu-us-foreign-policy.val.6,meta/llama-2-70b-chat
+arc-challenge.test.1034,claude-v2
+hellaswag.val.5771,B
+grade-school-math.dev.2567,meta/llama-2-70b-chat
+mmlu-clinical-knowledge.val.243,claude-v2
+mmlu-moral-scenarios.val.113,"C) Not wrong, Wrong"
+mmlu-sociology.val.50,claude-v2
+mmlu-medical-genetics.val.77,B) claude-v2
+mmlu-professional-law.val.907,claude-v2
+winogrande.dev.984,B) claude-v2
+grade-school-math.dev.4814,meta/llama-2-70b-chat
+mmlu-philosophy.val.127,Model C
+mmlu-high-school-macroeconomics.val.327,Model C
+hellaswag.val.8403,Model C
+mmlu-high-school-microeconomics.val.105,Model B
+hellaswag.val.1181,claude-v2
+mmlu-high-school-macroeconomics.val.316,B
+grade-school-math.dev.4373,meta/llama-2-70b-chat
+grade-school-math.dev.2836,meta/llama-2-70b-chat
+hellaswag.val.5542,Model C
+winogrande.dev.176,Model B
+arc-challenge.val.20,Model C
+arc-challenge.test.693,Model D
+arc-challenge.test.1139,A) meta/llama-2-70b-chat
+mmlu-professional-psychology.val.607,Model C
+hellaswag.val.1134,claude-v2
+hellaswag.val.3510,B
+hellaswag.val.3289,B) claude-v2
+mmlu-high-school-us-history.val.180,meta/llama-2-70b-chat
+hellaswag.val.2612,Model C
+grade-school-math.dev.7045,meta/llama-2-70b-chat
+grade-school-math.dev.6840,meta/llama-2-70b-chat
+mmlu-computer-security.val.46,D) backdoor
+mbpp.dev.35,meta/llama-2-70b-chat
+hellaswag.val.4847,Model C
+mmlu-professional-law.val.900,D) meta/llama-2-70b-chat
+mmlu-international-law.val.114,claude-v2
+hellaswag.val.5148,D) meta/llama-2-70b-chat
+grade-school-math.dev.6255,meta/llama-2-70b-chat
+mmlu-sociology.val.120,Model C
+mmlu-conceptual-physics.val.137,Model C
+hellaswag.val.1742,claude-v2
+mmlu-professional-law.val.591,meta/llama-2-70b-chat
+mmlu-marketing.val.8,Model C) meta/llama-2-70b-chat
+mmlu-professional-law.val.1422,C) claude-v2
+grade-school-math.dev.4568,meta/llama-2-70b-chat
+mmlu-college-computer-science.val.80,D) Model D (D)
+mmlu-international-law.val.111,claude-v2
+mmlu-high-school-macroeconomics.val.285,B-model
+grade-school-math.dev.7195,meta/llama-2-70b-chat
+chinese_zodiac.dev.184,meta/llama-2-70b-chat
+grade-school-math.dev.3674,meta/llama-2-70b-chat
+mmlu-high-school-world-history.val.138,claude-v2
+mmlu-high-school-mathematics.val.198,Meta/llama-2-70b-chat
+grade-school-math.dev.5134,meta/llama-2-70b-chat
+mmlu-high-school-psychology.val.444,Model C) frequency
+grade-school-math.dev.3740,meta/llama-2-70b-chat
+hellaswag.val.9601,B
+hellaswag.val.9041,Model C
+mmlu-professional-law.val.12,claude-v2
+hellaswag.val.2905,B
+mmlu-high-school-world-history.val.100,meta/llama-2-70b-chat
+hellaswag.val.6108,D) gpt-4-1106-preview
+hellaswag.val.516,Model C
+grade-school-math.dev.3587,meta/llama-2-70b-chat
+mmlu-professional-law.val.401,meta/llama-2-70b-chat
+grade-school-math.dev.3689,meta/llama-2-70b-chat
+hellaswag.val.3051,Model C
+mmlu-jurisprudence.val.4,claude-v2
+hellaswag.val.5010,B
+mmlu-professional-law.val.1060,claude-v2
+hellaswag.val.7957,claude-v2
+hellaswag.val.4835,Model C
+mmlu-miscellaneous.val.131,B) 50
+mmlu-public-relations.val.45,Model C
+winogrande.dev.1159,Model A (Logan)
+mmlu-miscellaneous.val.304,Model B
+hellaswag.val.3092,Model C
+hellaswag.val.6586,B
+mmlu-high-school-computer-science.val.48,Model C
+grade-school-math.dev.2624,meta/llama-2-70b-chat
+accounting_audit.dev.6,Meta/llama-2-70b-chat
+mmlu-sociology.val.129,Model C
+mmlu-professional-accounting.val.191,Model C
+mmlu-miscellaneous.val.335,"Model A — correctness: 1, cost: 0.8
+Model B — correctness: 0, cost: 0.2
+
+Correct choice: Model A"
+mmlu-professional-psychology.val.521,Model C
+mmlu-college-biology.val.14,claude-v2
+mmlu-miscellaneous.val.435,Model C
+mmlu-professional-law.val.691,claude-v2
+mmlu-high-school-european-history.val.63,llama-2-70b-chat
+hellaswag.val.8470,B
+mmlu-professional-law.val.675,Meta/llama-2-70b-chat
+grade-school-math.dev.655,meta/llama-2-70b-chat
+mmlu-high-school-world-history.val.105,claude-v2
+arc-challenge.val.285,Model C) claude-v2
+mmlu-elementary-mathematics.val.328,Model C
+winogrande.dev.82,meta/llama-2-70b-chat
+hellaswag.val.8367,C) claude-v2
+mmlu-miscellaneous.val.102,Model C - Copper(II) sulfate hydrate
+hellaswag.val.3759,D
+mmlu-professional-law.val.112,meta/llama-2-70b-chat
+hellaswag.val.7917,Model D
+abstract2title.test.171,meta/llama-2-70b-chat
+grade-school-math.dev.947,meta/llama-2-70b-chat
+hellaswag.val.4317,Model A
+mmlu-professional-psychology.val.226,C) claude-v2
+mmlu-professional-law.val.412,meta/llama-2-70b-chat
+hellaswag.val.7144,Model C
+arc-challenge.test.876,A
+mmlu-high-school-statistics.val.151,claude-v2
+hellaswag.val.9294,D
+mmlu-clinical-knowledge.val.46,Model B
+mmlu-security-studies.val.43,D
+mmlu-college-physics.val.44,Model C - meta/llama-2-70b-chat
+mmlu-high-school-mathematics.val.154,Model A - WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-chemistry.val.83,Model C
+mmlu-professional-law.val.1285,claude-v2
+mmlu-sociology.val.73,Model C
+mmlu-high-school-government-and-politics.val.98,Model D
+hellaswag.val.1801,Model C
+hellaswag.val.2830,claude-v2
+mmlu-miscellaneous.val.183,Meta/llama-2-70b-chat
+mmlu-college-mathematics.val.58,Meta/llama-2-70b-chat
+mmlu-high-school-microeconomics.val.98,Model D
+mmlu-professional-law.val.382,claude-v2
+mmlu-high-school-statistics.val.53,B) gpt-4-1106-preview
+hellaswag.val.8229,B
+grade-school-math.dev.922,meta/llama-2-70b-chat
+hellaswag.val.7511,Model C
+grade-school-math.dev.6434,meta/llama-2-70b-chat
+hellaswag.val.9818,A) WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.942,meta/llama-2-70b-chat
+hellaswag.val.316,D
+mmlu-professional-law.val.1110,claude-v2
+hellaswag.val.1034,B) claude-v2
+mmlu-moral-scenarios.val.712,"B) Not wrong, Wrong"
+grade-school-math.dev.2904,meta/llama-2-70b-chat
+abstract2title.test.209,meta/llama-2-70b-chat
+hellaswag.val.7557,D) meta/llama-2-70b-chat
+grade-school-math.dev.3294,meta/llama-2-70b-chat
+mmlu-professional-law.val.486,Llama-2-70b-chat
+hellaswag.val.7004,Model C
+mmlu-professional-law.val.1108,claude-v2
+mmlu-econometrics.val.25,"Model A — correctness: 1, cost: 0.8
+Model B — correctness: 0, cost: 0.2
+Model C — correctness: 0, cost: 0.5
+Model D"
+winogrande.dev.803,B) Patricia
+grade-school-math.dev.3284,meta/llama-2-70b-chat
+grade-school-math.dev.3258,meta/llama-2-70b-chat
+grade-school-math.dev.2426,meta/llama-2-70b-chat
+grade-school-math.dev.2676,meta/llama-2-70b-chat
+mbpp.dev.22,Code-llama-instruct-34b-chat
+hellaswag.val.3023,Model D
+mmlu-security-studies.val.105,Model C
+chinese_zodiac.dev.266,meta/llama-2-70b-chat
+mmlu-prehistory.val.144,Model C
+chinese_ancient_poetry.dev.5,meta/llama-2-70b-chat
+hellaswag.val.9722,B) claude-v2
+mmlu-professional-psychology.val.137,Meta/llama-2-70b-chat
+hellaswag.val.6591,C
+grade-school-math.dev.2728,meta/llama-2-70b-chat
+arc-challenge.test.273,Model B
+hellaswag.val.9608,B
+grade-school-math.dev.6486,meta/llama-2-70b-chat
+mmlu-high-school-macroeconomics.val.244,Meta/llama-2-70b-chat
+arc-challenge.test.651,Model D
+hellaswag.val.8183,B
+hellaswag.val.4282,Model B
+hellaswag.val.9162,Model D
+mmlu-moral-scenarios.val.371,"D) Wrong, Not wrong"
+hellaswag.val.1878,Model C
+mmlu-security-studies.val.28,claude-v2
+grade-school-math.dev.1733,meta/llama-2-70b-chat
+mmlu-professional-accounting.val.66,meta/llama-2-70b-chat
+mbpp.dev.379,meta/llama-2-70b-chat
+grade-school-math.dev.6547,meta/llama-2-70b-chat
+mmlu-abstract-algebra.val.52,Model B
+grade-school-math.dev.3745,meta/llama-2-70b-chat
+grade-school-math.dev.1351,meta/llama-2-70b-chat
+mmlu-professional-accounting.val.75,Model B - Variable sampling
+grade-school-math.dev.6279,meta/llama-2-70b-chat
+grade-school-math.dev.2022,meta/llama-2-70b-chat
+hellaswag.val.1423,Model C (claude-v2)
+mmlu-prehistory.val.64,claude-v2
+mbpp.dev.68,Code-llama-instruct-34b-chat
+chinese_zodiac.dev.127,meta/llama-2-70b-chat
+grade-school-math.dev.5988,meta/llama-2-70b-chat
+grade-school-math.dev.7240,meta/llama-2-70b-chat
+grade-school-math.dev.717,meta/llama-2-70b-chat
+grade-school-math.dev.4926,meta/llama-2-70b-chat
+mmlu-jurisprudence.val.69,claude-v2
+consensus_summary.dev.259,Meta/llama-2-70b-chat
+hellaswag.val.6994,C
+mmlu-high-school-geography.val.105,A) Latin America
+mmlu-professional-law.val.36,meta/llama-2-70b-chat
+grade-school-math.dev.1814,meta/llama-2-70b-chat
+hellaswag.val.6557,C) claude-v2
+mmlu-miscellaneous.val.61,claude-v2
+mmlu-high-school-macroeconomics.val.372,Model C
+grade-school-math.dev.3286,meta/llama-2-70b-chat
+chinese_zodiac.dev.318,meta/llama-2-70b-chat
+mmlu-prehistory.val.0,meta/llama-2-70b-chat
+grade-school-math.dev.4051,meta/llama-2-70b-chat
+mmlu-professional-law.val.139,claude-v2
+mmlu-professional-psychology.val.138,Model D) alliance
+hellaswag.val.3173,claude-v2
+mmlu-moral-disputes.val.213,claude-v2
+hellaswag.val.3354,Model D
+grade-school-math.dev.5493,meta/llama-2-70b-chat
+grade-school-math.dev.5058,meta/llama-2-70b-chat
+chinese_tang_poetries.dev.28,meta/llama-2-70b-chat
+grade-school-math.dev.2867,meta/llama-2-70b-chat
+grade-school-math.dev.18,meta/llama-2-70b-chat
+mmlu-conceptual-physics.val.179,Model C
+mmlu-moral-scenarios.val.235,"D) Wrong, Not wrong"
+hellaswag.val.6955,C) claude-v2
+hellaswag.val.4326,B
+mmlu-public-relations.val.93,claude-v2
+hellaswag.val.2960,claude-v2
+hellaswag.val.6222,claude-v2
+hellaswag.val.7973,Model C
+winogrande.dev.1241,"Model A — correctness: 1, cost: 0.8
+Model B — correctness: 0, cost: 0.2
+Correct choice: Model A"
+hellaswag.val.3231,Model C
+mmlu-human-sexuality.val.56,claude-v2
+mmlu-clinical-knowledge.val.83,Model B
+grade-school-math.dev.5082,meta/llama-2-70b-chat
+hellaswag.val.5679,A
+hellaswag.val.3105,Model C
+hellaswag.val.9923,B
+mmlu-high-school-chemistry.val.142,Model C

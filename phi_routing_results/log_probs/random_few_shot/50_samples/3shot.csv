@@ -1,0 +1,54 @@
+sample_id,phi_prediction,phi_response,oracle_model_to_route
+hellaswag.val.4102,zero-one-ai/Yi-34B-Chat,A) zero-one-ai/Yi-34B-Chat,mistralai/mistral-7b-chat
+winogrande.dev.802,zero-one-ai/Yi-34B-Chat,zero-one-ai/Yi-34B-Chat,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.5482,zero-one-ai/Yi-34B-Chat,zero-one-ai/Yi-34B-Chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.1256,zero-one-ai/Yi-34B-Chat,zero-one-ai/Yi-34B-Chat,claude-v2
+mmlu-elementary-mathematics.val.47,zero-one-ai/Yi-34B-Chat,zero-one-ai/Yi-34B-Chat,mistralai/mistral-7b-chat
+mmlu-moral-disputes.val.343,zero-one-ai/Yi-34B-Chat,zero-one-ai/Yi-34B-Chat,zero-one-ai/Yi-34B-Chat
+hellaswag.val.5407,zero-one-ai/Yi-34B-Chat,zero-one-ai/Yi-34B-Chat,gpt-3.5-turbo-1106
+grade-school-math.dev.2924,zero-one-ai/Yi-34B-Chat,zero-one-ai/Yi-34B-Chat,mistralai/mistral-7b-chat
+mmlu-high-school-geography.val.86,zero-one-ai/Yi-34B-Chat,zero-one-ai/Yi-34B-Chat,mistralai/mixtral-8x7b-chat
+winogrande.dev.486,zero-one-ai/Yi-34B-Chat,zero-one-ai/Yi-34B-Chat,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.7113,zero-one-ai/Yi-34B-Chat,zero-one-ai/Yi-34B-Chat,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.1433,zero-one-ai/Yi-34B-Chat,zero-one-ai/Yi-34B-Chat,WizardLM/WizardLM-13B-V1.2
+arc-challenge.test.264,zero-one-ai/Yi-34B-Chat,zero-one-ai/Yi-34B-Chat,zero-one-ai/Yi-34B-Chat
+hellaswag.val.6367,zero-one-ai/Yi-34B-Chat,zero-one-ai/Yi-34B-Chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-psychology.val.109,zero-one-ai/Yi-34B-Chat,zero-one-ai/Yi-34B-Chat,mistralai/mistral-7b-chat
+chinese-lantern-riddles.dev.12,zero-one-ai/Yi-34B-Chat,"zero-one-ai/Yi-34B-Chat
+
+推理过程：
+1. 谜语中提供的信息是“黯”，这是一",no_model_correct
+grade-school-math.dev.6467,zero-one-ai/Yi-34B-Chat,zero-one-ai/Yi-34B-Chat,mistralai/mixtral-8x7b-chat
+hellaswag.val.553,zero-one-ai/Yi-34B-Chat,zero-one-ai/Yi-34B-Chat,WizardLM/WizardLM-13B-V1.2
+consensus_summary.dev.189,meta/llama-2-70b-chat,N-A,WizardLM/WizardLM-13B-V1.2
+mmlu-philosophy.val.105,zero-one-ai/Yi-34B-Chat,zero-one-ai/Yi-34B-Chat,claude-instant-v1
+grade-school-math.dev.6500,zero-one-ai/Yi-34B-Chat,zero-one-ai/Yi-34B-Chat,meta/code-llama-instruct-34b-chat
+grade-school-math.dev.1491,zero-one-ai/Yi-34B-Chat,zero-one-ai/Yi-34B-Chat,mistralai/mistral-7b-chat
+chinese_zodiac.dev.45,zero-one-ai/Yi-34B-Chat,zero-one-ai/Yi-34B-Chat,mistralai/mixtral-8x7b-chat
+mmlu-medical-genetics.val.52,zero-one-ai/Yi-34B-Chat,zero-one-ai/Yi-34B-Chat,WizardLM/WizardLM-13B-V1.2
+arc-challenge.test.567,zero-one-ai/Yi-34B-Chat,zero-one-ai/Yi-34B-Chat,WizardLM/WizardLM-13B-V1.2
+mmlu-miscellaneous.val.768,zero-one-ai/Yi-34B-Chat,zero-one-ai/Yi-34B-Chat,no_model_correct
+mmlu-professional-law.val.1104,zero-one-ai/Yi-34B-Chat,"B) Yes, as a statement of an opposing party.",WizardLM/WizardLM-13B-V1.2
+hellaswag.val.2487,zero-one-ai/Yi-34B-Chat,zero-one-ai/Yi-34B-Chat,zero-one-ai/Yi-34B-Chat
+winogrande.dev.543,zero-one-ai/Yi-34B-Chat,zero-one-ai/Yi-34B-Chat,mistralai/mistral-7b-chat
+winogrande.dev.1173,zero-one-ai/Yi-34B-Chat,zero-one-ai/Yi-34B-Chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-accounting.val.137,zero-one-ai/Yi-34B-Chat,zero-one-ai/Yi-34B-Chat,mistralai/mistral-7b-chat
+mmlu-high-school-us-history.val.120,zero-one-ai/Yi-34B-Chat,C) the balanced budget mandate,mistralai/mixtral-8x7b-chat
+hellaswag.val.293,zero-one-ai/Yi-34B-Chat,zero-one-ai/Yi-34B-Chat,mistralai/mistral-7b-chat
+mmlu-college-medicine.val.83,zero-one-ai/Yi-34B-Chat,zero-one-ai/Yi-34B-Chat,WizardLM/WizardLM-13B-V1.2
+mmlu-business-ethics.val.58,zero-one-ai/Yi-34B-Chat,"D) Appeal to higher loyalties, Denial of injury, Metaphor of the ledger",mistralai/mistral-7b-chat
+grade-school-math.dev.4117,zero-one-ai/Yi-34B-Chat,zero-one-ai/Yi-34B-Chat,gpt-3.5-turbo-1106
+mmlu-astronomy.val.85,zero-one-ai/Yi-34B-Chat,B) Distance at which one astronomical unit measures one arcsecond from Earth.,WizardLM/WizardLM-13B-V1.2
+consensus_summary.dev.282,zero-one-ai/Yi-34B-Chat,zero-one-ai/Yi-34B-Chat,mistralai/mistral-7b-chat
+grade-school-math.dev.2701,zero-one-ai/Yi-34B-Chat,zero-one-ai/Yi-34B-Chat,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.4976,zero-one-ai/Yi-34B-Chat,zero-one-ai/Yi-34B-Chat,zero-one-ai/Yi-34B-Chat
+mmlu-us-foreign-policy.val.58,zero-one-ai/Yi-34B-Chat,zero-one-ai/Yi-34B-Chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1359,zero-one-ai/Yi-34B-Chat,zero-one-ai/Yi-34B-Chat,zero-one-ai/Yi-34B-Chat
+mmlu-sociology.val.78,zero-one-ai/Yi-34B-Chat,D) Scapegoating,mistralai/mistral-7b-chat
+mmlu-moral-scenarios.val.208,WizardLM/WizardLM-13B-V1.2,"B) Not wrong, Wrong",mistralai/mixtral-8x7b-chat
+grade-school-math.dev.5044,zero-one-ai/Yi-34B-Chat,zero-one-ai/Yi-34B-Chat,mistralai/mistral-7b-chat
+grade-school-math.dev.6302,zero-one-ai/Yi-34B-Chat,zero-one-ai/Yi-34B-Chat,meta/llama-2-70b-chat
+mmlu-high-school-biology.val.65,zero-one-ai/Yi-34B-Chat,zero-one-ai/Yi-34B-Chat,zero-one-ai/Yi-34B-Chat
+hellaswag.val.470,zero-one-ai/Yi-34B-Chat,zero-one-ai/Yi-34B-Chat,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.4538,zero-one-ai/Yi-34B-Chat,zero-one-ai/Yi-34B-Chat,mistralai/mixtral-8x7b-chat
+arc-challenge.test.1078,zero-one-ai/Yi-34B-Chat,zero-one-ai/Yi-34B-Chat,mistralai/mixtral-8x7b-chat

@@ -1,0 +1,54 @@
+sample_id,phi_prediction,phi_response,oracle_model_to_route
+hellaswag.val.4102,mistralai/mistral-7b-chat,A),mistralai/mistral-7b-chat
+winogrande.dev.802,claude-v1,A) Angela,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.5482,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.1256,claude-v1,"B) Yes, because the company's promise was supported by consideration.",claude-v2
+mmlu-elementary-mathematics.val.47,WizardLM/WizardLM-13B-V1.2,D,mistralai/mistral-7b-chat
+mmlu-moral-disputes.val.343,zero-one-ai/Yi-34B-Chat,zero-one-ai/Yi-34B-Chat,zero-one-ai/Yi-34B-Chat
+hellaswag.val.5407,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,gpt-3.5-turbo-1106
+grade-school-math.dev.2924,zero-one-ai/Yi-34B-Chat,zero-one-ai/Yi-34B-Chat,mistralai/mistral-7b-chat
+mmlu-high-school-geography.val.86,meta/llama-2-70b-chat,C,mistralai/mixtral-8x7b-chat
+winogrande.dev.486,claude-v1,A) Samantha,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.7113,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.1433,zero-one-ai/Yi-34B-Chat,zero-one-ai/Yi-34B-Chat,WizardLM/WizardLM-13B-V1.2
+arc-challenge.test.264,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+hellaswag.val.6367,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-psychology.val.109,zero-one-ai/Yi-34B-Chat,zero-one-ai/Yi-34B-Chat,mistralai/mistral-7b-chat
+chinese-lantern-riddles.dev.12,mistralai/mistral-7b-chat,"mistralai/mistral-7b-chat
+
+推理过程：
+谜语“黯（打一成语）”指的是一个成语，成语通常是",no_model_correct
+grade-school-math.dev.6467,zero-one-ai/Yi-34B-Chat,zero-one-ai/Yi-34B-Chat,mistralai/mixtral-8x7b-chat
+hellaswag.val.553,mistralai/mistral-7b-chat,D) zero-one-ai/Yi-34B-Chat,WizardLM/WizardLM-13B-V1.2
+consensus_summary.dev.189,meta/code-llama-instruct-34b-chat,N-A,WizardLM/WizardLM-13B-V1.2
+mmlu-philosophy.val.105,zero-one-ai/Yi-34B-Chat,zero-one-ai/Yi-34B-Chat,claude-instant-v1
+grade-school-math.dev.6500,zero-one-ai/Yi-34B-Chat,zero-one-ai/Yi-34B-Chat,meta/code-llama-instruct-34b-chat
+grade-school-math.dev.1491,zero-one-ai/Yi-34B-Chat,zero-one-ai/Yi-34B-Chat,mistralai/mistral-7b-chat
+chinese_zodiac.dev.45,zero-one-ai/Yi-34B-Chat,zero-one-ai/Yi-34B-Chat,mistralai/mixtral-8x7b-chat
+mmlu-medical-genetics.val.52,claude-v2,B),WizardLM/WizardLM-13B-V1.2
+arc-challenge.test.567,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-miscellaneous.val.768,meta/llama-2-70b-chat,A,no_model_correct
+mmlu-professional-law.val.1104,claude-v1,"B) Yes, as a statement of an opposing party.",WizardLM/WizardLM-13B-V1.2
+hellaswag.val.2487,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+winogrande.dev.543,claude-v1,B) Benjamin,mistralai/mistral-7b-chat
+winogrande.dev.1173,mistralai/mistral-7b-chat,B) passports,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-accounting.val.137,claude-v1,C,mistralai/mistral-7b-chat
+mmlu-high-school-us-history.val.120,claude-v2,C) the balanced budget mandate,mistralai/mixtral-8x7b-chat
+hellaswag.val.293,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-college-medicine.val.83,WizardLM/WizardLM-13B-V1.2,A),WizardLM/WizardLM-13B-V1.2
+mmlu-business-ethics.val.58,gpt-4-1106-preview,"D) Appeal to higher loyalties, Denial of injury, Metaphor of the ledger",mistralai/mistral-7b-chat
+grade-school-math.dev.4117,zero-one-ai/Yi-34B-Chat,zero-one-ai/Yi-34B-Chat,gpt-3.5-turbo-1106
+mmlu-astronomy.val.85,claude-v2,B) Distance at which one astronomical unit measures one arcsecond from Earth.,WizardLM/WizardLM-13B-V1.2
+consensus_summary.dev.282,zero-one-ai/Yi-34B-Chat,zero-one-ai/Yi-34B-Chat,mistralai/mistral-7b-chat
+grade-school-math.dev.2701,zero-one-ai/Yi-34B-Chat,zero-one-ai/Yi-34B-Chat,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.4976,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-us-foreign-policy.val.58,claude-v1,B) It would have involved compromising opposition to slavery,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1359,claude-v1,"C) No, his belief that she consented in advance was unreasonable and impermissible.",zero-one-ai/Yi-34B-Chat
+mmlu-sociology.val.78,WizardLM/WizardLM-13B-V1.2,D,mistralai/mistral-7b-chat
+mmlu-moral-scenarios.val.208,WizardLM/WizardLM-13B-V1.2,"B) Not wrong, Wrong",mistralai/mixtral-8x7b-chat
+grade-school-math.dev.5044,zero-one-ai/Yi-34B-Chat,zero-one-ai/Yi-34B-Chat,mistralai/mistral-7b-chat
+grade-school-math.dev.6302,zero-one-ai/Yi-34B-Chat,zero-one-ai/Yi-34B-Chat,meta/llama-2-70b-chat
+mmlu-high-school-biology.val.65,zero-one-ai/Yi-34B-Chat,B) hyperpolarization,zero-one-ai/Yi-34B-Chat
+hellaswag.val.470,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.4538,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+arc-challenge.test.1078,zero-one-ai/Yi-34B-Chat,zero-one-ai/Yi-34B-Chat,mistralai/mixtral-8x7b-chat

@@ -1,0 +1,56 @@
+sample_id,phi_prediction,phi_response,oracle_model_to_route
+hellaswag.val.4102,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+winogrande.dev.802,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.5482,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.1256,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,claude-v2
+mmlu-elementary-mathematics.val.47,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-moral-disputes.val.343,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,zero-one-ai/Yi-34B-Chat
+hellaswag.val.5407,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,gpt-3.5-turbo-1106
+grade-school-math.dev.2924,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-high-school-geography.val.86,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+winogrande.dev.486,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.7113,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.1433,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+arc-challenge.test.264,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,zero-one-ai/Yi-34B-Chat
+hellaswag.val.6367,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,zero-one-ai/Yi-34B-Chat
+mmlu-professional-psychology.val.109,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+chinese-lantern-riddles.dev.12,WizardLM/WizardLM-13B-V1.2,"WizardLM/WizardLM-13B-V1.2
+
+推理过程：
+1. 谜语中提供的信息是“黯”，这是",no_model_correct
+grade-school-math.dev.6467,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+hellaswag.val.553,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+consensus_summary.dev.189,meta/llama-2-70b-chat,N-A,WizardLM/WizardLM-13B-V1.2
+mmlu-philosophy.val.105,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,claude-instant-v1
+grade-school-math.dev.6500,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,meta/code-llama-instruct-34b-chat
+grade-school-math.dev.1491,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+chinese_zodiac.dev.45,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+mmlu-medical-genetics.val.52,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+arc-challenge.test.567,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+mmlu-miscellaneous.val.768,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,no_model_correct
+mmlu-professional-law.val.1104,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.2487,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,zero-one-ai/Yi-34B-Chat
+winogrande.dev.543,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+winogrande.dev.1173,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-accounting.val.137,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-high-school-us-history.val.120,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+hellaswag.val.293,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-college-medicine.val.83,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+mmlu-business-ethics.val.58,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+grade-school-math.dev.4117,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,gpt-3.5-turbo-1106
+mmlu-astronomy.val.85,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+consensus_summary.dev.282,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+grade-school-math.dev.2701,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.4976,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,zero-one-ai/Yi-34B-Chat
+mmlu-us-foreign-policy.val.58,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1359,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,zero-one-ai/Yi-34B-Chat
+mmlu-sociology.val.78,gpt-4-1106-preview,D) Scapegoating,mistralai/mistral-7b-chat
+mmlu-moral-scenarios.val.208,WizardLM/WizardLM-13B-V1.2,"B) Not wrong, Wrong
+
+The best-suited model for this prompt would be one that has a high correctness rate and low cost, indicating it can provide accurate moral judgments efficiently. Based on the given data:",mistralai/mixtral-8x7b-chat
+grade-school-math.dev.5044,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+grade-school-math.dev.6302,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,meta/llama-2-70b-chat
+mmlu-high-school-biology.val.65,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,zero-one-ai/Yi-34B-Chat
+hellaswag.val.470,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.4538,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+arc-challenge.test.1078,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat

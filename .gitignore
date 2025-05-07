@@ -1,0 +1,8 @@
+*.log
+*.pyc
+__pycache__/
+phi3.5_env/
+test_env/
+.env
+*.ipynb_checkpoints
+.DS_Store

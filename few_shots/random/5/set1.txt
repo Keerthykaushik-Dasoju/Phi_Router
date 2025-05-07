@@ -1,0 +1,5 @@
+hellaswag.val.2291
+hellaswag.val.2284
+grade-school-math.dev.3049
+grade-school-math.dev.372
+mmlu-high-school-world-history.val.203

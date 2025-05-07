@@ -1,0 +1,1022 @@
+sample_id,phi_prediction
+hellaswag.val.4102,WizardLM/WizardLM-13B-V1.2
+winogrande.dev.802,B) Elena
+hellaswag.val.5482,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1256,WizardLM/WizardLM-13B-V1.2
+mmlu-elementary-mathematics.val.47,WizardLM/WizardLM-13B-V1.2
+mmlu-moral-disputes.val.343,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.5407,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.2924,mistralai/mixtral-8x7b-chat
+mmlu-high-school-geography.val.86,"C) They all occurred in Nazi Germany during World War I.
+
+The correct model for this prompt is not directly related to the content of the question but rather to the general ability to understand and process the question. Since the question is about"
+winogrande.dev.486,A) Samantha
+grade-school-math.dev.7113,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.1433,zero-one-ai/Yi-34B-Chat
+arc-challenge.test.264,A) Debris creates additional habitats for mosquitoes.
+hellaswag.val.6367,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-psychology.val.109,WizardLM/WizardLM-13B-V1.2
+chinese-lantern-riddles.dev.12,"mistralai/mistral-7b-chat
+
+推理过程：
+黯（闭）这个词在形、音、意上都可以与成语有关"
+grade-school-math.dev.6467,zero-one-ai/Yi-34B-Chat
+hellaswag.val.553,mistralai/mistral-7b-chat
+consensus_summary.dev.189,N-A
+mmlu-philosophy.val.105,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.6500,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.1491,mistralai/mixtral-8x7b-chat
+chinese_zodiac.dev.45,zero-one-ai/Yi-34B-Chat
+mmlu-medical-genetics.val.52,WizardLM/WizardLM-13B-V1.2
+arc-challenge.test.567,C) baking soda (pH 8-9)
+mmlu-miscellaneous.val.768,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1104,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.2487,WizardLM/WizardLM-13B-V1.2
+winogrande.dev.543,B) Benjamin
+winogrande.dev.1173,B) passports
+mmlu-professional-accounting.val.137,C) Negligence.
+mmlu-high-school-us-history.val.120,zero-one-ai/Yi-34B-Chat
+hellaswag.val.293,mistralai/mistral-7b-chat
+mmlu-college-medicine.val.83,WizardLM/WizardLM-13B-V1.2
+mmlu-business-ethics.val.58,"D) Appeal to higher loyalties, Denial of injury, Metaphor of the ledger"
+grade-school-math.dev.4117,zero-one-ai/Yi-34B-Chat
+mmlu-astronomy.val.85,WizardLM/WizardLM-13B-V1.2
+consensus_summary.dev.282,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.2701,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.4976,mistralai/mixtral-8x7b-chat
+mmlu-us-foreign-policy.val.58,B) It would have involved compromising opposition to slavery
+mmlu-professional-law.val.1359,WizardLM/WizardLM-13B-V1.2
+mmlu-sociology.val.78,D) Scapegoating
+mmlu-moral-scenarios.val.208,"B) Not wrong, Wrong"
+grade-school-math.dev.5044,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.6302,mistralai/mixtral-8x7b-chat
+mmlu-high-school-biology.val.65,D) repolarization
+hellaswag.val.470,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.4538,WizardLM/WizardLM-13B-V1.2
+arc-challenge.test.1078,WizardLM/WizardLM-13B-V1.2
+arc-challenge.test.570,mistralai/mistral-7b-chat
+mmlu-college-mathematics.val.77,WizardLM/WizardLM-13B-V1.2
+mmlu-moral-disputes.val.225,B) treat disease
+mmlu-jurisprudence.val.72,meta/llama-2-70b-chat
+winogrande.dev.604,B) Sarah
+mmlu-high-school-computer-science.val.70,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.6230,mistralai/mixtral-8x7b-chat
+hellaswag.val.4042,WizardLM/WizardLM-13B-V1.2
+winogrande.dev.953,A) Lindsey
+hellaswag.val.8239,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.9774,WizardLM/WizardLM-13B-V1.2
+abstract2title.test.247,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-world-history.val.9,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.554,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.423,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.3654,WizardLM/WizardLM-13B-V1.2
+chinese_zodiac.dev.383,zero-one-ai/Yi-34B-Chat
+arc-challenge.test.408,A) 1.5 times
+mmlu-professional-accounting.val.52,meta/code-llama-instruct-34b-chat
+grade-school-math.dev.611,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.3476,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.1449,WizardLM/WizardLM-13B-V1.2
+mmlu-world-religions.val.7,B) Muhammad's miraculous ascent to heaven
+hellaswag.val.7887,WizardLM/WizardLM-13B-V1.2
+mmlu-econometrics.val.103,"C) (ii) and (iv) only
+WizardLM/WizardLM-13B-V1.2"
+hellaswag.val.4426,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.4339,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.4793,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-accounting.val.170,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.1480,WizardLM/WizardLM-13B-V1.2
+winogrande.dev.745,B) Angela
+mmlu-professional-psychology.val.468,WizardLM/WizardLM-13B-V1.2
+chinese_zodiac.dev.134,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.814,WizardLM/WizardLM-13B-V1.2
+mtbench.dev.3,WizardLM/WizardLM-13B-V1.2
+mmlu-miscellaneous.val.781,B) Philadelphia
+hellaswag.val.3409,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-biology.val.298,A) Aposomatic coloration
+grade-school-math.dev.7313,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-physics.val.147,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.4322,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.2307,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.3508,WizardLM/WizardLM-13B-V1.2
+mmlu-abstract-algebra.val.98,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.2300,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.3270,WizardLM/WizardLM-13B-V1.2
+winogrande.dev.594,A) food truck
+mmlu-jurisprudence.val.56,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.5533,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.4438,D) WizardLM/WizardLM-13B-V1.2
+mbpp.dev.401,WizardLM/WizardLM-13B-V1.2
+winogrande.dev.1148,B) Betty
+mmlu-jurisprudence.val.95,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.4923,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.1084,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.734,mistralai/mistral-7b-chat
+grade-school-math.dev.5655,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-psychology.val.201,A) humanistic
+mmlu-college-biology.val.105,D) high relative humidity
+mmlu-professional-psychology.val.461,B) Cognitive Assessment System
+mmlu-college-computer-science.val.54,"A) IsEmpty(Push(Stack,Elem)) = true"
+mbpp.dev.175,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.4597,A)
+hellaswag.val.7788,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.11,WizardLM/WizardLM-13B-V1.2
+mmlu-prehistory.val.156,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1172,B) Interstate travel
+hellaswag.val.4942,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.4474,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.7170,B) claude-v1
+grade-school-math.dev.658,zero-one-ai/Yi-34B-Chat
+mmlu-high-school-microeconomics.val.235,"C) The MC curve intersects the ATC curve at the minimum point of the ATC curve.
+
+The best-suited model for answering this prompt would be:
+
+WizardLM/WizardLM-13B-"
+mmlu-high-school-geography.val.31,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.2234,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-psychology.val.391,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.278,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.3135,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.1252,WizardLM/WizardLM-13B-V1.2
+mmlu-college-computer-science.val.97,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.9610,WizardLM/WizardLM-13B-V1.2
+abstract2title.test.243,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.563,zero-one-ai/Yi-34B-Chat
+mmlu-nutrition.val.153,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.6632,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.559,WizardLM/WizardLM-13B-V1.2
+arc-challenge.test.779,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.2424,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.3418,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.6003,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.7387,zero-one-ai/Yi-34B-Chat
+mmlu-high-school-psychology.val.109,D) Mania
+arc-challenge.test.39,A) WizardLM/WizardLM-13B-V1.2
+hellaswag.val.3974,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.807,zero-one-ai/Yi-34B-Chat
+mmlu-philosophy.val.7,WizardLM/WizardLM-13B-V1.2
+chinese_idioms.dev.12,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.914,B) The state must show the age regulation substantially furthers an important government objective and does not impair the fundamental right to vote.
+hellaswag.val.2843,mistralai/mistral-7b-chat
+hellaswag.val.5896,WizardLM/WizardLM-13B-V1.2
+mmlu-electrical-engineering.val.87,WizardLM/WizardLM-13B-V1.2
+mtbench-math.dev.12,WizardLM/WizardLM-13B-V1.2
+arc-challenge.test.978,B) A white dog has a puppy with white fur.
+hellaswag.val.8506,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.2075,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-us-history.val.137,WizardLM/WizardLM-13B-V1.2
+mmlu-prehistory.val.48,zero-one-ai/Yi-34B-Chat
+mmlu-high-school-microeconomics.val.49,"A) The quantity demanded equals the quantity supplied of good X.
+WizardLM/WizardLM-13B-V1.2"
+mmlu-elementary-mathematics.val.366,D) 3 over 5
+grade-school-math.dev.5500,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-geography.val.2,D) distance decay
+grade-school-math.dev.2770,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.1826,mistralai/mistral-7b-chat
+mmlu-high-school-statistics.val.68,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.4470,WizardLM/WizardLM-13B-V1.2
+winogrande.dev.571,WizardLM/WizardLM-13B-V1.2
+mmlu-anatomy.val.97,"B) light pink in colour on both sides of the mucogingival junction.
+
+The best-suited model for this prompt would be one that has a high correctness score for dental or medical-related questions."
+mmlu-professional-law.val.884,WizardLM/WizardLM-13B-V1.2
+mmlu-management.val.7,A) Legitimate
+mmlu-professional-law.val.1232,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.27,WizardLM/WizardLM-13B-V1.2
+mmlu-conceptual-physics.val.129,D) 0 kelvin
+grade-school-math.dev.51,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.6993,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-psychology.val.553,WizardLM/WizardLM-13B-V1.2
+arc-challenge.test.97,"C) cell membrane, nucleus, mitochondrion"
+grade-school-math.dev.4366,zero-one-ai/Yi-34B-Chat
+mmlu-anatomy.val.42,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.6315,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1039,WizardLM/WizardLM-13B-V1.2
+mbpp.dev.298,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.2817,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.4728,zero-one-ai/Yi-34B-Chat
+mmlu-formal-logic.val.34,A) fLh
+mmlu-professional-law.val.534,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.2353,mistralai/mistral-7b-chat
+winogrande.dev.465,claude-v1
+mmlu-college-physics.val.88,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-psychology.val.135,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.3462,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.96,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.678,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.1304,mistralai/mistral-7b-chat
+mmlu-high-school-statistics.val.142,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.460,WizardLM/WizardLM-13B-V1.2
+arc-challenge.test.626,D) WizardLM/WizardLM-13B-V1.2
+mmlu-security-studies.val.87,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-mathematics.val.134,WizardLM/WizardLM-13B-V1.2
+mmlu-moral-scenarios.val.813,"D) Not wrong, Wrong"
+hellaswag.val.9828,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.8423,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.2902,zero-one-ai/Yi-34B-Chat
+abstract2title.test.216,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-chemistry.val.129,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.109,WizardLM/WizardLM-13B-V1.2
+mmlu-moral-disputes.val.305,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.980,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1362,gpt-4-1106-preview
+hellaswag.val.8338,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.5347,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.6754,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.8525,WizardLM/WizardLM-13B-V1.2
+mmlu-college-medicine.val.170,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.2835,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.5780,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.4642,zero-one-ai/Yi-34B-Chat
+mmlu-virology.val.49,D) Deep pyro sequencing (NGS)
+mmlu-elementary-mathematics.val.74,"A) $6,409"
+mmlu-philosophy.val.61,gpt-4-1106-preview
+hellaswag.val.5476,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.19,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.160,gpt-4-1106-preview
+mmlu-moral-scenarios.val.244,"D) Wrong, Not wrong"
+hellaswag.val.4468,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.8495,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.5874,mistralai/mixtral-8x7b-chat
+hellaswag.val.3984,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.2374,zero-one-ai/Yi-34B-Chat
+mmlu-clinical-knowledge.val.44,WizardLM/WizardLM-13B-V1.2
+winogrande.dev.432,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.46,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-psychology.val.250,C) closure
+mmlu-prehistory.val.62,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.1518,mistralai/mixtral-8x7b-chat
+hellaswag.val.1461,WizardLM/WizardLM-13B-V1.2
+mmlu-jurisprudence.val.83,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.7492,WizardLM/WizardLM-13B-V1.2
+chinese_shi_jing.test.25,zero-one-ai/Yi-34B-Chat
+winogrande.dev.652,B) Samantha
+winogrande.dev.348,A) Jennifer
+chinese_zodiac.dev.109,zero-one-ai/Yi-34B-Chat
+hellaswag.val.3822,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.8245,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1415,gpt-4-1106-preview
+hellaswag.val.1965,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.3410,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.3048,WizardLM/WizardLM-13B-V1.2
+arc-challenge.test.367,WizardLM/WizardLM-13B-V1.2
+mmlu-logical-fallacies.val.34,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.6678,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-world-history.val.8,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-medicine.val.180,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.7182,mistralai/mixtral-8x7b-chat
+bias_detection.dev.239,"data [WizardLM/WizardLM-13B-V1.2]
+
+Reasoning: The sentence presents a report of an event, mentioning that ""he is in Minsk"" and refers to ""Belarus"
+grade-school-math.dev.4583,WizardLM/WizardLM-13B-V1.2
+mmlu-conceptual-physics.val.193,B) ejected neutrons
+winogrande.dev.1059,B) pond
+mmlu-high-school-physics.val.105,mistralai/mixtral-8x7b-chat
+mmlu-moral-disputes.val.73,B) consequentialist theory
+mbpp.dev.123,WizardLM/WizardLM-13B-V1.2
+mmlu-miscellaneous.val.64,"The prompt requires specific knowledge about energy waste due to discarded ice in American drinks. None of the provided models inherently possess this information. However, if this is a question from a database or a knowledge base, the correct answer would be found"
+mmlu-professional-law.val.101,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.4837,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.429,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.9856,A)
+hellaswag.val.5030,WizardLM/WizardLM-13B-V1.2
+mmlu-security-studies.val.129,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.1447,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.3918,WizardLM/WizardLM-13B-V1.2
+arc-challenge.test.948,gpt-4-1106-preview
+mmlu-philosophy.val.121,WizardLM/WizardLM-13B-V1.2
+mmlu-sociology.val.58,WizardLM/WizardLM-13B-V1.2
+mbpp.dev.360,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.288,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.657,zero-one-ai/Yi-34B-Chat
+hellaswag.val.1326,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.3344,WizardLM/WizardLM-13B-V1.2
+mmlu-conceptual-physics.val.65,WizardLM/WizardLM-13B-V1.2
+winogrande.dev.121,B) Steven
+grade-school-math.dev.1140,gpt-4-1106-preview
+grade-school-math.dev.1567,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1350,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.4342,A) or B)
+hellaswag.val.4889,WizardLM/WizardLM-13B-V1.2
+winogrande.dev.706,B) Sarah
+arc-challenge.test.2,claude-v1
+mmlu-international-law.val.65,WizardLM/WizardLM-13B-V1.2
+mmlu-security-studies.val.218,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-medicine.val.44,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.1102,WizardLM/WizardLM-13B-V1.2
+abstract2title.test.62,WizardLM/WizardLM-13B-V1.2
+mmlu-marketing.val.100,C) Pay per click (PPC)
+hellaswag.val.1894,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.2479,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.564,WizardLM/WizardLM-13B-V1.2
+mmlu-moral-scenarios.val.760,"D) Wrong, Wrong"
+abstract2title.test.105,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.9502,WizardLM/WizardLM-13B-V1.2
+mmlu-security-studies.val.156,WizardLM/WizardLM-13B-V1.2
+mmlu-moral-scenarios.val.626,"B) Not wrong, Wrong"
+hellaswag.val.6255,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-world-history.val.173,zero-one-ai/Yi-34B-Chat
+mmlu-miscellaneous.val.637,D) red
+hellaswag.val.4051,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.4084,mistralai/mixtral-8x7b-chat
+mmlu-machine-learning.val.27,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.7254,WizardLM/WizardLM-13B-V1.2
+mmlu-clinical-knowledge.val.119,WizardLM/WizardLM-13B-V1.2
+mmlu-moral-disputes.val.332,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-government-and-politics.val.24,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.2290,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.7422,WizardLM/WizardLM-13B-V1.2
+mmlu-abstract-algebra.val.99,"C) True, False
+
+The correct model to answer this prompt would be one that has knowledge of ring theory in abstract algebra. While all the models listed are capable of providing information, none of them inherently possess this specific knowledge. However,"
+mmlu-clinical-knowledge.val.171,gpt-4-1106-preview
+mmlu-human-sexuality.val.103,zero-one-ai/Yi-34B-Chat
+hellaswag.val.7714,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.5396,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.3840,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1034,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.2592,WizardLM/WizardLM-13B-V1.2
+arc-challenge.test.815,D) language
+chinese_zodiac.dev.122,zero-one-ai/Yi-34B-Chat
+mmlu-high-school-statistics.val.54,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-geography.val.170,B) dialects.
+mmlu-professional-law.val.328,WizardLM/WizardLM-13B-V1.2
+mmlu-miscellaneous.val.468,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-us-history.val.58,gpt-4-1106-preview
+grade-school-math.dev.641,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.4185,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.5494,WizardLM/WizardLM-13B-V1.2
+mmlu-international-law.val.107,B) Treaties do not have to assume a particular form or designated as such
+mmlu-high-school-biology.val.122,"A) In one species of rabbit, the ones that evolved in the cold, snowy north are white, while the ones that evolved in the south are brown."
+hellaswag.val.4973,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.2819,mistralai/mixtral-8x7b-chat
+chinese_zodiac.dev.195,zero-one-ai/Yi-34B-Chat
+hellaswag.val.3986,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.3734,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.4541,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.2309,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.5653,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.2905,mistralai/mixtral-8x7b-chat
+consensus_summary.dev.233,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1171,WizardLM/WizardLM-13B-V1.2
+mmlu-college-mathematics.val.64,D) The integers under addition
+mtbench-reference.dev.3,WizardLM/WizardLM-13B-V1.2
+chinese_zodiac.dev.373,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.2702,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-microeconomics.val.138,WizardLM/WizardLM-13B-V1.2
+mmlu-anatomy.val.6,WizardLM/WizardLM-13B-V1.2
+mmlu-prehistory.val.36,B) Aztec; Tenochtitlán.
+arc-challenge.val.282,claude-v2
+grade-school-math.dev.885,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.5934,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.4548,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-accounting.val.245,WizardLM/WizardLM-13B-V1.2
+arc-challenge.test.250,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.5595,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.6217,mistralai/mixtral-8x7b-chat
+hellaswag.val.9121,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1326,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.1245,mistralai/mixtral-8x7b-chat
+hellaswag.val.3167,mistralai/mistral-7b-chat
+hellaswag.val.1383,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.407,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.344,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.7009,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1067,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.115,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.2555,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1229,zero-one-ai/Yi-34B-Chat
+mmlu-global-facts.val.54,zero-one-ai/Yi-34B-Chat
+hellaswag.val.4243,WizardLM/WizardLM-13B-V1.2
+mmlu-elementary-mathematics.val.70,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-government-and-politics.val.176,D) claude-v2
+grade-school-math.dev.6163,mistralai/mixtral-8x7b-chat
+mmlu-miscellaneous.val.505,gpt-3.5-turbo-1106
+hellaswag.val.941,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.269,WizardLM/WizardLM-13B-V1.2
+winogrande.dev.853,B) William
+winogrande.dev.1135,WizardLM/WizardLM-13B-V1.2
+mmlu-human-aging.val.76,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.3693,zero-one-ai/Yi-34B-Chat
+winogrande.dev.116,mistralai/mistral-7b-chat
+hellaswag.val.9273,WizardLM/WizardLM-13B-V1.2
+chinese_homonym.dev.17,WizardLM/WizardLM-13B-V1.2
+mmlu-business-ethics.val.48,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.3058,mistralai/mistral-7b-chat
+grade-school-math.dev.6695,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.153,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1301,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.4043,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.455,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.9766,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.7561,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.520,B) The valid treaty always prevails
+mmlu-professional-law.val.1520,WizardLM/WizardLM-13B-V1.2
+mmlu-machine-learning.val.41,WizardLM/WizardLM-13B-V1.2
+mmlu-human-aging.val.49,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-statistics.val.81,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.997,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.8217,B) gpt-3.5-turbo-1106
+mmlu-moral-scenarios.val.410,"B) Wrong, Not wrong"
+hellaswag.val.847,mistralai/mistral-7b-chat
+mmlu-moral-scenarios.val.496,"A) Wrong, Not wrong"
+mmlu-professional-accounting.val.229,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.169,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.7170,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.5220,WizardLM/WizardLM-13B-V1.2
+chinese_poem.dev.2,zero-one-ai/Yi-34B-Chat
+hellaswag.val.6761,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.468,WizardLM/WizardLM-13B-V1.2
+mmlu-medical-genetics.val.38,A) Waardenburg syndrome
+grade-school-math.dev.4238,zero-one-ai/Yi-34B-Chat
+winogrande.dev.1256,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.4633,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.367,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-medicine.val.222,WizardLM/WizardLM-13B-V1.2
+winogrande.dev.54,A) Jennifer
+mmlu-high-school-macroeconomics.val.298,C) depository institutions decide to hold more excess reserves.
+mmlu-professional-law.val.658,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.645,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.589,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.4772,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.78,WizardLM/WizardLM-13B-V1.2
+mmlu-business-ethics.val.64,"D) Shareholders, Care and Skill, Diligence"
+bias_detection.dev.60,"The sentence provided is a quote that presents information without offering an opinion, claim, data, narrative, or sensationalism. It is a direct statement that seems to be extracted from a larger context, likely illustrating a point or supporting an argument"
+hellaswag.val.611,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.3378,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.9074,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.3017,zero-one-ai/Yi-34B-Chat
+mmlu-electrical-engineering.val.113,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.7064,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.4972,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.7173,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.874,WizardLM/WizardLM-13B-V1.2
+mmlu-jurisprudence.val.47,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.950,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.862,WizardLM/WizardLM-13B-V1.2
+mmlu-anatomy.val.19,C) Trachea
+mmlu-professional-law.val.408,B) The statute is invalid because it violates the First Amendment protection of commercial free speech.
+hellaswag.val.8078,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.5949,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.1663,zero-one-ai/Yi-34B-Chat
+hellaswag.val.5149,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.2818,zero-one-ai/Yi-34B-Chat
+winogrande.dev.370,A) carrots
+chinese_zodiac.dev.157,zero-one-ai/Yi-34B-Chat
+hellaswag.val.8207,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.3870,zero-one-ai/Yi-34B-Chat
+hellaswag.val.7324,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.1213,WizardLM/WizardLM-13B-V1.2
+mmlu-elementary-mathematics.val.298,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.9644,WizardLM/WizardLM-13B-V1.2
+arc-challenge.test.175,C) MgBr_{2}
+hellaswag.val.8283,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.6174,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.348,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.5708,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.4647,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.2424,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.5226,zero-one-ai/Yi-34B-Chat
+mmlu-elementary-mathematics.val.329,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.3234,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.1426,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.4315,WizardLM/WizardLM-13B-V1.2
+arc-challenge.test.729,WizardLM/WizardLM-13B-V1.2
+mmlu-moral-scenarios.val.857,"D) Wrong, Not wrong"
+mmlu-high-school-mathematics.val.22,WizardLM/WizardLM-13B-V1.2
+mmlu-conceptual-physics.val.170,WizardLM/WizardLM-13B-V1.2
+arc-challenge.test.772,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-macroeconomics.val.135,B) mistralai/mistral-7b-chat
+mmlu-high-school-world-history.val.151,meta/llama-2-70b-chat
+grade-school-math.dev.3831,WizardLM/WizardLM-13B-V1.2
+mmlu-marketing.val.105,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.3401,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.740,WizardLM/WizardLM-13B-V1.2
+mmlu-miscellaneous.val.776,WizardLM/WizardLM-13B-V1.2
+mmlu-philosophy.val.154,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.695,WizardLM/WizardLM-13B-V1.2
+mmlu-moral-disputes.val.233,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1066,WizardLM/WizardLM-13B-V1.2
+mmlu-prehistory.val.179,C) megafauna
+mmlu-miscellaneous.val.234,D) Portfolio assessment
+mmlu-high-school-world-history.val.87,meta/llama-2-70b-chat
+grade-school-math.dev.4354,mistralai/mixtral-8x7b-chat
+mmlu-marketing.val.151,C) Accessibility
+mmlu-professional-law.val.981,WizardLM/WizardLM-13B-V1.2
+mmlu-marketing.val.134,zero-one-ai/Yi-34B-Chat
+hellaswag.val.4965,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.369,WizardLM/WizardLM-13B-V1.2
+mmlu-prehistory.val.130,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.6671,WizardLM/WizardLM-13B-V1.2
+mmlu-moral-disputes.val.122,WizardLM/WizardLM-13B-V1.2
+mmlu-nutrition.val.44,gpt-4-1106-preview
+mmlu-high-school-biology.val.285,mistralai/mistral-7b-chat
+mmlu-high-school-mathematics.val.25,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.425,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.71,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1211,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.158,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.1942,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.5101,WizardLM/WizardLM-13B-V1.2
+mmlu-business-ethics.val.38,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.7391,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.497,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.2220,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-physics.val.73,B) v
+mmlu-high-school-european-history.val.32,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.8100,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-biology.val.244,WizardLM/WizardLM-13B-V1.2
+mmlu-miscellaneous.val.530,C) knock on it
+hellaswag.val.8021,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1480,WizardLM/WizardLM-13B-V1.2
+mbpp.dev.226,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.962,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.2947,mistralai/mistral-7b-chat
+grade-school-math.dev.313,zero-one-ai/Yi-34B-Chat
+hellaswag.val.9827,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.3053,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1266,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.2267,zero-one-ai/Yi-34B-Chat
+hellaswag.val.9655,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.4583,"C) [step] Pilling is caused by rubbing during wear and is more apparent around the elbows, under the armpits and on sleeves but can occur anywhere on the sweater. Purchase a hand-held"
+abstract2title.test.100,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.2262,WizardLM/WizardLM-13B-V1.2
+winogrande.dev.926,B) lotions
+arc-challenge.test.319,WizardLM/WizardLM-13B-V1.2
+arc-challenge.test.103,D) breathing masks
+hellaswag.val.8819,WizardLM/WizardLM-13B-V1.2
+mmlu-anatomy.val.96,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.196,mistralai/mistral-7b-chat
+grade-school-math.dev.3386,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.8201,WizardLM/WizardLM-13B-V1.2
+mmlu-moral-disputes.val.140,C) the argument from marginal cases
+arc-challenge.test.830,"B) high runoff, low infiltration, high precipitation"
+grade-school-math.dev.1145,zero-one-ai/Yi-34B-Chat
+mmlu-philosophy.val.213,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.7120,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.3441,WizardLM/WizardLM-13B-V1.2
+mmlu-world-religions.val.77,D) Sri (Lakshmi)
+arc-challenge.test.764,B) heat the solution
+mmlu-professional-law.val.1325,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.3146,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.1692,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.6066,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.3130,gpt-4-1106-preview
+grade-school-math.dev.5970,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.6884,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.6534,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.892,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.8173,WizardLM/WizardLM-13B-V1.2
+chinese_zodiac.dev.244,zero-one-ai/Yi-34B-Chat
+mmlu-high-school-computer-science.val.98,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.5265,WizardLM/WizardLM-13B-V1.2
+mmlu-elementary-mathematics.val.140,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.2580,zero-one-ai/Yi-34B-Chat
+hellaswag.val.3947,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.4504,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.127,WizardLM/WizardLM-13B-V1.2
+mmlu-security-studies.val.209,WizardLM/WizardLM-13B-V1.2
+bias_detection.dev.46,"WizardLM/WizardLM-13B-V1.2 — This sentence is classified as data because it presents specific, verifiable information regarding the legality of owning and buying fully automatic machine guns in certain states,"
+abstract2title.test.180,WizardLM/WizardLM-13B-V1.2
+abstract2title.test.72,WizardLM/WizardLM-13B-V1.2
+winogrande.dev.165,B) cloth
+hellaswag.val.8193,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.6258,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.2751,zero-one-ai/Yi-34B-Chat
+hellaswag.val.5432,A)
+mbpp.dev.305,WizardLM/WizardLM-13B-V1.2
+mmlu-abstract-algebra.val.6,"D) True, True"
+winogrande.dev.26,B) Leslie
+hellaswag.val.8083,WizardLM/WizardLM-13B-V1.2
+chinese_famous_novel.dev.17,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.723,WizardLM/WizardLM-13B-V1.2
+mmlu-electrical-engineering.val.96,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.2837,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.2124,WizardLM/WizardLM-13B-V1.2
+winogrande.dev.1010,B) Jessica
+grade-school-math.dev.3728,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.6052,zero-one-ai/Yi-34B-Chat
+mmlu-security-studies.val.173,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1294,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.586,mistralai/mistral-7b-chat
+hellaswag.val.6613,WizardLM/WizardLM-13B-V1.2
+Chinese_character_riddles.dev.62,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.3339,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.446,"B) , the man performs his routine on the parallel bars."
+mbpp.dev.339,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.935,WizardLM/WizardLM-13B-V1.2
+consensus_summary.dev.110,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.5675,zero-one-ai/Yi-34B-Chat
+hellaswag.val.8543,WizardLM/WizardLM-13B-V1.2
+mmlu-electrical-engineering.val.48,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.7667,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.3854,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.4618,mistralai/mixtral-8x7b-chat
+chinese_shi_jing.test.5,zero-one-ai/Yi-34B-Chat
+mmlu-sociology.val.180,B) freedom of movement for citizens
+arc-challenge.val.224,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.6784,mistralai/mixtral-8x7b-chat
+mmlu-sociology.val.104,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-psychology.val.489,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.568,WizardLM/WizardLM-13B-V1.2
+mmlu-clinical-knowledge.val.138,WizardLM/WizardLM-13B-V1.2
+mmlu-jurisprudence.val.82,zero-one-ai/Yi-34B-Chat
+hellaswag.val.3285,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.8901,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-psychology.val.234,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.2962,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.7011,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.7380,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.2491,WizardLM/WizardLM-13B-V1.2
+mmlu-college-mathematics.val.70,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1220,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.5188,WizardLM/WizardLM-13B-V1.2
+mmlu-philosophy.val.91,WizardLM/WizardLM-13B-V1.2
+mmlu-college-medicine.val.65,B) always 1:1
+mmlu-moral-scenarios.val.784,"A) Wrong, Not wrong"
+mmlu-prehistory.val.138,"D) Valley of Oaxaca; Zapotec.
+
+The best-suited model for this prompt would be one that has knowledge of historical geography and civilizations. While all the models listed are capable of providing information, the"
+grade-school-math.dev.591,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.9941,claude-v2
+hellaswag.val.1988,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1341,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.6748,mistralai/mistral-7b-chat
+winogrande.dev.284,A) clock
+grade-school-math.dev.212,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.9812,WizardLM/WizardLM-13B-V1.2
+mmlu-electrical-engineering.val.72,B) LED
+mmlu-world-religions.val.27,zero-one-ai/Yi-34B-Chat
+hellaswag.val.7217,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.2547,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.471,WizardLM/WizardLM-13B-V1.2
+mmlu-elementary-mathematics.val.216,C) $45
+grade-school-math.dev.1385,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.4329,WizardLM/WizardLM-13B-V1.2
+mmlu-miscellaneous.val.208,D) WizardLM/WizardLM-13B-V1.2
+hellaswag.val.1772,mistralai/mistral-7b-chat
+winogrande.dev.1140,WizardLM/WizardLM-13B-V1.2
+winogrande.dev.1180,A) Derrick
+mmlu-philosophy.val.239,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.636,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.1292,mistralai/mistral-7b-chat
+mmlu-clinical-knowledge.val.137,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.1224,WizardLM/WizardLM-13B-V1.2
+mmlu-marketing.val.75,A) Secondary research.
+mmlu-elementary-mathematics.val.60,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.7261,WizardLM/WizardLM-13B-V1.2
+mmlu-miscellaneous.val.492,D) Global division of labor
+mmlu-moral-scenarios.val.7,"C) Not wrong, Wrong"
+mmlu-professional-law.val.261,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-government-and-politics.val.45,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.7332,WizardLM/WizardLM-13B-V1.2
+mmlu-college-computer-science.val.52,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.3361,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.6803,WizardLM/WizardLM-13B-V1.2
+mmlu-miscellaneous.val.339,C) HTTP
+winogrande.dev.190,A) Emily
+winogrande.dev.89,B) Natalie
+hellaswag.val.3936,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.1510,mistralai/mistral-7b-chat
+abstract2title.test.170,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-us-history.val.173,gpt-4-1106-preview
+arc-challenge.test.635,A) Flowers grow after a summer rain shower.
+hellaswag.val.6456,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.432,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.1496,mistralai/mistral-7b-chat
+Chinese_character_riddles.dev.38,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.66,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.581,WizardLM/WizardLM-13B-V1.2
+mmlu-college-biology.val.103,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.6473,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-physics.val.85,B) Velocity
+hellaswag.val.4335,WizardLM/WizardLM-13B-V1.2
+mmlu-international-law.val.87,WizardLM/WizardLM-13B-V1.2
+mmlu-international-law.val.97,C) WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.1638,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.6457,WizardLM/WizardLM-13B-V1.2
+mmlu-miscellaneous.val.252,WizardLM/WizardLM-13B-V1.2
+arc-challenge.test.531,C) Heredity of Earlobe Types
+hellaswag.val.7504,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.8000,WizardLM/WizardLM-13B-V1.2
+winogrande.dev.164,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.5900,zero-one-ai/Yi-34B-Chat
+hellaswag.val.5495,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.6782,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.31,WizardLM/WizardLM-13B-V1.2
+mmlu-college-medicine.val.100,"A) store of calcium ions.
+WizardLM/WizardLM-13B-V1.2"
+hellaswag.val.7404,WizardLM/WizardLM-13B-V1.2
+mmlu-logical-fallacies.val.59,D) Appeal to ignorance
+mmlu-professional-law.val.926,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-psychology.val.30,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.9840,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.364,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.7103,zero-one-ai/Yi-34B-Chat
+mmlu-high-school-macroeconomics.val.39,WizardLM/WizardLM-13B-V1.2
+mmlu-logical-fallacies.val.27,D) appeal to tradition
+grade-school-math.dev.2814,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.6587,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.6135,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.1588,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.7238,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.9242,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.6985,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.4142,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-accounting.val.39,D) $0 $25000 $0
+grade-school-math.dev.5158,zero-one-ai/Yi-34B-Chat
+hellaswag.val.12,mistralai/mistral-7b-chat
+chinese_ancient_masterpieces_dynasty.dev.12,zero-one-ai/Yi-34B-Chat
+hellaswag.val.7529,WizardLM/WizardLM-13B-V1.2
+mmlu-global-facts.val.99,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-accounting.val.22,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-geography.val.39,B) Good transportation network
+mmlu-professional-law.val.683,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.6464,WizardLM/WizardLM-13B-V1.2
+winogrande.dev.341,A) hotel
+hellaswag.val.8764,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.17,WizardLM/WizardLM-13B-V1.2
+winogrande.dev.828,A) Patricia
+grade-school-math.dev.2150,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.4830,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.4922,zero-one-ai/Yi-34B-Chat
+hellaswag.val.8784,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-psychology.val.122,WizardLM/WizardLM-13B-V1.2
+chinese_zodiac.dev.391,zero-one-ai/Yi-34B-Chat
+hellaswag.val.6989,WizardLM/WizardLM-13B-V1.2
+arc-challenge.test.725,gpt-3.5-turbo-1106
+hellaswag.val.9709,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.4573,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.6941,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.1076,WizardLM/WizardLM-13B-V1.2
+mbpp.dev.259,WizardLM/WizardLM-13B-V1.2
+winogrande.dev.318,B) Adam
+hellaswag.val.5124,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.7054,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.3446,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-macroeconomics.val.46,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-government-and-politics.val.82,B) A member of Congress inserts a provision into a bill to secure funding for a project in his or her district.
+grade-school-math.dev.5590,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.202,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.361,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.2482,WizardLM/WizardLM-13B-V1.2
+arc-challenge.test.837,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-psychology.val.70,WizardLM/WizardLM-13B-V1.2
+winogrande.dev.643,A) Felicia
+abstract2title.test.142,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.5772,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.550,WizardLM/WizardLM-13B-V1.2
+arc-challenge.val.76,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-geography.val.137,gpt-4-1106-preview
+mbpp.dev.134,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.4253,WizardLM/WizardLM-13B-V1.2
+winogrande.dev.96,B) body
+winogrande.dev.734,B) Mary
+mmlu-jurisprudence.val.102,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-macroeconomics.val.290,B) The money (or banking) multiplier
+hellaswag.val.3309,WizardLM/WizardLM-13B-V1.2
+arc-challenge.test.393,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.3355,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.1509,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.7208,zero-one-ai/Yi-34B-Chat
+mbpp.dev.43,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.4543,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.1847,WizardLM/WizardLM-13B-V1.2
+mmlu-jurisprudence.val.43,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-psychology.val.292,D) prefrontal cortex
+mmlu-nutrition.val.286,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.8769,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.3473,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.2991,WizardLM/WizardLM-13B-V1.2
+arc-challenge.test.115,B) deposition of material in the stream
+grade-school-math.dev.4643,zero-one-ai/Yi-34B-Chat
+hellaswag.val.8081,"A) [substeps] Give her a lot of opportunities to move. Engage her in fun games that will prod her to use her neck, chest, arms, and legs."
+mmlu-medical-genetics.val.99,D) Waardenburg syndrome
+mmlu-us-foreign-policy.val.6,WizardLM/WizardLM-13B-V1.2
+arc-challenge.test.1034,B) be in the same group.
+hellaswag.val.5771,B) claude-v1
+grade-school-math.dev.2567,zero-one-ai/Yi-34B-Chat
+mmlu-clinical-knowledge.val.243,WizardLM/WizardLM-13B-V1.2
+mmlu-moral-scenarios.val.113,"B) Wrong, Not wrong"
+mmlu-sociology.val.50,WizardLM/WizardLM-13B-V1.2
+mmlu-medical-genetics.val.77,B) Congenital adrenal hyperplasia
+mmlu-professional-law.val.907,WizardLM/WizardLM-13B-V1.2
+winogrande.dev.984,B) Aaron
+grade-school-math.dev.4814,zero-one-ai/Yi-34B-Chat
+mmlu-philosophy.val.127,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-macroeconomics.val.327,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.8403,A) claude-instant-v1
+mmlu-high-school-microeconomics.val.105,B) claude-v2
+hellaswag.val.1181,mistralai/mistral-7b-chat
+mmlu-high-school-macroeconomics.val.316,B) Your father's firm makes computers and exports them to China.
+grade-school-math.dev.4373,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.2836,mistralai/mixtral-8x7b-chat
+hellaswag.val.5542,WizardLM/WizardLM-13B-V1.2
+winogrande.dev.176,B) Patricia
+arc-challenge.val.20,claude-v1
+arc-challenge.test.693,WizardLM/WizardLM-13B-V1.2
+arc-challenge.test.1139,A) primary succession
+mmlu-professional-psychology.val.607,A) 4 to 6
+hellaswag.val.1134,mistralai/mistral-7b-chat
+hellaswag.val.3510,"B) [title] Observe where the players stand, wait, or offer autographs at games. [step] You may not be able to get the autograph during the game but can try to catch a player after the game, before"
+hellaswag.val.3289,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-us-history.val.180,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.2612,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.7045,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.6840,WizardLM/WizardLM-13B-V1.2
+mmlu-computer-security.val.46,D) backdoor
+mbpp.dev.35,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.4847,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.900,WizardLM/WizardLM-13B-V1.2
+mmlu-international-law.val.114,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.5148,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.6255,WizardLM/WizardLM-13B-V1.2
+mmlu-sociology.val.120,A) leading questions
+mmlu-conceptual-physics.val.137,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.1742,mistralai/mistral-7b-chat
+mmlu-professional-law.val.591,WizardLM/WizardLM-13B-V1.2
+mmlu-marketing.val.8,"D) Target market.
+WizardLM/WizardLM-13B-V1.2"
+mmlu-professional-law.val.1422,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.4568,WizardLM/WizardLM-13B-V1.2
+mmlu-college-computer-science.val.80,WizardLM/WizardLM-13B-V1.2
+mmlu-international-law.val.111,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-macroeconomics.val.285,gpt-4-1106-preview
+grade-school-math.dev.7195,WizardLM/WizardLM-13B-V1.2
+chinese_zodiac.dev.184,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.3674,zero-one-ai/Yi-34B-Chat
+mmlu-high-school-world-history.val.138,zero-one-ai/Yi-34B-Chat
+mmlu-high-school-mathematics.val.198,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.5134,zero-one-ai/Yi-34B-Chat
+mmlu-high-school-psychology.val.444,mistralai/mistral-7b-chat
+grade-school-math.dev.3740,zero-one-ai/Yi-34B-Chat
+hellaswag.val.9601,B) claude-v1
+hellaswag.val.9041,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.12,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.2905,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-world-history.val.100,zero-one-ai/Yi-34B-Chat
+hellaswag.val.6108,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.516,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.3587,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.401,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.3689,mistralai/mixtral-8x7b-chat
+hellaswag.val.3051,WizardLM/WizardLM-13B-V1.2
+mmlu-jurisprudence.val.4,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.5010,"B) You could also tell yourself that if you take good notes through the entire class, you can play your new video game for an hour when you get home."
+mmlu-professional-law.val.1060,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.7957,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.4835,WizardLM/WizardLM-13B-V1.2
+mmlu-miscellaneous.val.131,B) 50
+mmlu-public-relations.val.45,WizardLM/WizardLM-13B-V1.2
+winogrande.dev.1159,A) Logan
+mmlu-miscellaneous.val.304,B) seven
+hellaswag.val.3092,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.6586,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-computer-science.val.48,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.2624,zero-one-ai/Yi-34B-Chat
+accounting_audit.dev.6,B
+mmlu-sociology.val.129,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-accounting.val.191,B) Their payouts (i.e. dividends or coupons) are made before corporation tax has been deducted.
+mmlu-miscellaneous.val.335,A) cancer
+mmlu-professional-psychology.val.521,WizardLM/WizardLM-13B-V1.2
+mmlu-college-biology.val.14,WizardLM/WizardLM-13B-V1.2
+mmlu-miscellaneous.val.435,C) calligraphy
+mmlu-professional-law.val.691,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-european-history.val.63,gpt-4-1106-preview
+hellaswag.val.8470,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.675,A) Compensatory
+grade-school-math.dev.655,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-world-history.val.105,mistralai/mistral-7b-chat
+arc-challenge.val.285,A) potassium
+mmlu-elementary-mathematics.val.328,WizardLM/WizardLM-13B-V1.2
+winogrande.dev.82,Brett
+hellaswag.val.8367,WizardLM/WizardLM-13B-V1.2
+mmlu-miscellaneous.val.102,zero-one-ai/Yi-34B-Chat
+hellaswag.val.3759,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.112,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.7917,WizardLM/WizardLM-13B-V1.2
+abstract2title.test.171,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.947,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.4317,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-psychology.val.226,C) cooperate with other professionals when developing professional and ethical standards for psychological services.
+mmlu-professional-law.val.412,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.7144,WizardLM/WizardLM-13B-V1.2
+arc-challenge.test.876,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-statistics.val.151,gpt-4-1106-preview
+hellaswag.val.9294,WizardLM/WizardLM-13B-V1.2
+mmlu-clinical-knowledge.val.46,D) always 1:1
+mmlu-security-studies.val.43,WizardLM/WizardLM-13B-V1.2
+mmlu-college-physics.val.44,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-mathematics.val.154,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-chemistry.val.83,C) An alkane
+mmlu-professional-law.val.1285,WizardLM/WizardLM-13B-V1.2
+mmlu-sociology.val.73,C) all of the above
+mmlu-high-school-government-and-politics.val.98,gpt-4-1106-preview
+hellaswag.val.1801,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.2830,WizardLM/WizardLM-13B-V1.2
+mmlu-miscellaneous.val.183,WizardLM/WizardLM-13B-V1.2
+mmlu-college-mathematics.val.58,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-microeconomics.val.98,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.382,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-statistics.val.53,B) WizardLM/WizardLM-13B-V1.2
+hellaswag.val.8229,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.922,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.7511,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.6434,zero-one-ai/Yi-34B-Chat
+hellaswag.val.9818,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.942,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.316,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1110,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.1034,WizardLM/WizardLM-13B-V1.2
+mmlu-moral-scenarios.val.712,"B) Not wrong, Wrong"
+grade-school-math.dev.2904,WizardLM/WizardLM-13B-V1.2
+abstract2title.test.209,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.7557,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.3294,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.486,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.7004,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1108,zero-one-ai/Yi-34B-Chat
+mmlu-econometrics.val.25,WizardLM/WizardLM-13B-V1.2
+winogrande.dev.803,B) Patricia
+grade-school-math.dev.3284,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.3258,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.2426,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.2676,zero-one-ai/Yi-34B-Chat
+mbpp.dev.22,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.3023,WizardLM/WizardLM-13B-V1.2
+mmlu-security-studies.val.105,WizardLM/WizardLM-13B-V1.2
+chinese_zodiac.dev.266,zero-one-ai/Yi-34B-Chat
+mmlu-prehistory.val.144,WizardLM/WizardLM-13B-V1.2
+chinese_ancient_poetry.dev.5,zero-one-ai/Yi-34B-Chat
+hellaswag.val.9722,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-psychology.val.137,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.6591,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.2728,WizardLM/WizardLM-13B-V1.2
+arc-challenge.test.273,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.9608,A) claude-instant-v1
+grade-school-math.dev.6486,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-macroeconomics.val.244,C) The Fed sells Treasury securities to commercial banks.
+arc-challenge.test.651,D) use the same equipment and procedures.
+hellaswag.val.8183,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.4282,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.9162,WizardLM/WizardLM-13B-V1.2
+mmlu-moral-scenarios.val.371,"D) Wrong, Not wrong"
+hellaswag.val.1878,mistralai/mistral-7b-chat
+mmlu-security-studies.val.28,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.1733,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-accounting.val.66,WizardLM/WizardLM-13B-V1.2
+mbpp.dev.379,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.6547,mistralai/mixtral-8x7b-chat
+mmlu-abstract-algebra.val.52,B) 2
+grade-school-math.dev.3745,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.1351,zero-one-ai/Yi-34B-Chat
+mmlu-professional-accounting.val.75,B) Variable sampling.
+grade-school-math.dev.6279,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.2022,mistralai/mixtral-8x7b-chat
+hellaswag.val.1423,WizardLM/WizardLM-13B-V1.2
+mmlu-prehistory.val.64,WizardLM/WizardLM-13B-V1.2
+mbpp.dev.68,WizardLM/WizardLM-13B-V1.2
+chinese_zodiac.dev.127,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.5988,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.7240,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.717,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.4926,WizardLM/WizardLM-13B-V1.2
+mmlu-jurisprudence.val.69,WizardLM/WizardLM-13B-V1.2
+consensus_summary.dev.259,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.6994,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-geography.val.105,A) Latin America
+mmlu-professional-law.val.36,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.1814,zero-one-ai/Yi-34B-Chat
+hellaswag.val.6557,C)
+mmlu-miscellaneous.val.61,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-macroeconomics.val.372,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.3286,zero-one-ai/Yi-34B-Chat
+chinese_zodiac.dev.318,zero-one-ai/Yi-34B-Chat
+mmlu-prehistory.val.0,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.4051,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.139,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-psychology.val.138,D) alliance
+hellaswag.val.3173,mistralai/mistral-7b-chat
+mmlu-moral-disputes.val.213,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.3354,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.5493,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.5058,WizardLM/WizardLM-13B-V1.2
+chinese_tang_poetries.dev.28,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.2867,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.18,WizardLM/WizardLM-13B-V1.2
+mmlu-conceptual-physics.val.179,WizardLM/WizardLM-13B-V1.2
+mmlu-moral-scenarios.val.235,"D) Wrong, Not wrong"
+hellaswag.val.6955,A) [title] Also know that you'll need to make sure your family members know about everything. [title] Rule out a bad or suitable explanation of why your child is home alone.
+hellaswag.val.4326,WizardLM/WizardLM-13B-V1.2
+mmlu-public-relations.val.93,C) Evaluation
+hellaswag.val.2960,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.6222,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.7973,WizardLM/WizardLM-13B-V1.2
+winogrande.dev.1241,A) Michael
+hellaswag.val.3231,WizardLM/WizardLM-13B-V1.2
+mmlu-human-sexuality.val.56,WizardLM/WizardLM-13B-V1.2
+mmlu-clinical-knowledge.val.83,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.5082,zero-one-ai/Yi-34B-Chat
+hellaswag.val.5679,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.3105,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.9923,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-chemistry.val.142,WizardLM/WizardLM-13B-V1.2

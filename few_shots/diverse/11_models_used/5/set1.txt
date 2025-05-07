@@ -1,0 +1,5 @@
+mmlu-high-school-chemistry.val.108
+mmlu-high-school-government-and-politics.val.22
+grade-school-math.dev.1465
+grade-school-math.dev.5709
+grade-school-math.dev.2083

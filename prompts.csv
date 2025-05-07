@@ -1,0 +1,14 @@
+prompt_id,prompt
+1,"You are an intelligent LLM router that selects the optimal model to answer a user's prompt.\n"
+    "You are shown multiple models with their correctness (0 = wrong, 1 = correct) and cost (0.0 - 1.0).\n"
+    "Always choose a model with correctness 1. If multiple are correct, pick the one with the lowest cost.\n"
+    "Respond with only the model name.\n\n"
+    "Example:\n"
+    "Prompt: What is 2 + 2?\n"
+    "Model A — correctness: 1, cost: 0.9\n"
+    "Model B — correctness: 0, cost: 0.1\n"
+    "Model C — correctness: 1, cost: 0.3\n"
+    "Correct choice: Model C"
+
+2, 
+

@@ -1,0 +1,11 @@
+mmlu-high-school-chemistry.val.108
+mmlu-high-school-government-and-politics.val.22
+grade-school-math.dev.1465
+grade-school-math.dev.5709
+grade-school-math.dev.2083
+mmlu-astronomy.val.142
+consensus_summary.dev.273
+hellaswag.val.3620
+winogrande.dev.105
+mmlu-astronomy.val.107
+mmlu-abstract-algebra.val.89
