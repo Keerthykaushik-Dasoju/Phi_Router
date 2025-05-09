@@ -1,0 +1,55 @@
+sample_id,phi_prediction,phi_response,oracle_model_to_route
+mmlu-professional-law.val.1247,WizardLM/WizardLM-13B-V1.2,B) The skier,WizardLM/WizardLM-13B-V1.2
+mmlu-international-law.val.89,mistralai/mistral-7b-chat,D,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.4617,WizardLM/WizardLM-13B-V1.2,C,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.5357,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,meta/llama-2-70b-chat
+hellaswag.val.2731,WizardLM/WizardLM-13B-V1.2,C) mistralai/mixtral-8x7b-chat,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.9797,WizardLM/WizardLM-13B-V1.2,D,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.570,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,zero-one-ai/Yi-34B-Chat
+hellaswag.val.1836,meta/code-llama-instruct-34b-chat,"B) lifts up a weight above his head and drops it, then a boy enters lifting it above his neck.
+
+(Note: The model name is not provided as per the instruction. The choice is based on the context of",WizardLM/WizardLM-13B-V1.2
+hellaswag.val.2769,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.485,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,claude-instant-v1
+hellaswag.val.2850,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-business-ethics.val.54,meta/code-llama-instruct-34b-chat,B,WizardLM/WizardLM-13B-V1.2
+bias_detection.dev.265,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,no_model_correct
+consensus_summary.dev.5,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,claude-v1
+hellaswag.val.3051,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,meta/llama-2-70b-chat
+hellaswag.val.5313,mistralai/mixtral-8x7b-chat,C,WizardLM/WizardLM-13B-V1.2
+mmlu-miscellaneous.val.737,WizardLM/WizardLM-13B-V1.2,B,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.3702,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,zero-one-ai/Yi-34B-Chat
+hellaswag.val.6662,mistralai/mistral-7b-chat,A,mistralai/mistral-7b-chat
+grade-school-math.dev.5353,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat
+grade-school-math.dev.7313,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat
+mmlu-high-school-biology.val.90,WizardLM/WizardLM-13B-V1.2,C,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.73,WizardLM/WizardLM-13B-V1.2,C,mistralai/mixtral-8x7b-chat
+mmlu-business-ethics.val.77,meta/code-llama-instruct-34b-chat,B) Commercial performance,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.7889,mistralai/mistral-7b-chat,C,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.715,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-jurisprudence.val.67,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+hellaswag.val.2580,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,gpt-4-1106-preview
+grade-school-math.dev.5091,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+grade-school-math.dev.7398,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.8841,mistralai/mistral-7b-chat,C,zero-one-ai/Yi-34B-Chat
+mmlu-college-mathematics.val.52,mistralai/mistral-7b-chat,B) WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.1513,meta/code-llama-instruct-34b-chat,D) meta/code-llama-instruct-34b-chat,no_model_correct
+hellaswag.val.6403,WizardLM/WizardLM-13B-V1.2,D,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.1515,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.8810,mistralai/mixtral-8x7b-chat,A,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1365,mistralai/mistral-7b-chat,C,mistralai/mistral-7b-chat
+hellaswag.val.9743,WizardLM/WizardLM-13B-V1.2,B,mistralai/mistral-7b-chat
+hellaswag.val.4227,mistralai/mistral-7b-chat,D,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.3650,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,meta/llama-2-70b-chat
+grade-school-math.dev.7183,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.2573,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.1662,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+mmlu-miscellaneous.val.235,WizardLM/WizardLM-13B-V1.2,D) through a human body,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.2161,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,claude-instant-v1
+hellaswag.val.5410,mistralai/mistral-7b-chat,B,mistralai/mistral-7b-chat
+hellaswag.val.551,meta/code-llama-instruct-34b-chat,B,mistralai/mixtral-8x7b-chat
+mmlu-high-school-geography.val.58,mistralai/mistral-7b-chat,B,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1203,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,zero-one-ai/Yi-34B-Chat
+hellaswag.val.867,mistralai/mistral-7b-chat,"D) rolls down the lawn mowing path making turns and turns around.
+
+Model: mistralai/mistral-7b-chat",zero-one-ai/Yi-34B-Chat

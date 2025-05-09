@@ -13,7 +13,7 @@ torch.cuda.empty_cache()
 gc.collect()
 
 CHECKPOINT_EVERY = 5
-output_file = "phi_routing_results_log_probs_5shot.csv"
+output_file = "phi_routing_results_log_probs_0shot.csv"
 
 parser = argparse.ArgumentParser(description="LLM Router Configuration")
 
@@ -75,19 +75,16 @@ system_message_few_shot = {
 # Build few-shot message history
 messages = [system_message_few_shot]
 
-candidate_models_set = {"WizardLM/WizardLM-13B-V1.2", "claude-instant-v1", "claude-v1", "claude-v2",
-    "gpt-3.5-turbo-1106", "gpt-4-1106-preview", "meta/code-llama-instruct-34b-chat",
-    "meta/llama-2-70b-chat", "mistralai/mistral-7b-chat",
-    "mistralai/mixtral-8x7b-chat", "zero-one-ai/Yi-34B-Chat"}
+candidate_models = [
+    "mistralai/mistral-7b-chat",
+    "WizardLM/WizardLM-13B-V1.2",
+    "mistralai/mixtral-8x7b-chat",
+    'meta/code-llama-instruct-34b-chat',
+    "gpt-4-1106-preview",
+]
 
-file_path = "/work/pi_wenlongzhao_umass_edu/25/kdasoju/Phi3.5_Router/previous_shots/11/set1.txt"
+candidate_models_set = set(candidate_models)
 
-previous_shots_used = set()
-
-if os.path.exists(file_path):
-    with open(file_path, "r") as f:
-        lines = [line.strip() for line in f if line.strip()]
-        previous_shots_used = set(lines)
 
 curr_num_of_shots = 0
 # Use the parsed arguments
@@ -100,32 +97,20 @@ print(f"Number of shots: {required_num_of_shots}")
 
 # Add few-shot examples
 for _, row in few_shot_data.iterrows():
-    sample_id = row['sample_id']
     prompt = row['prompt']
+    sample_id = row['sample_id']
     oracle_model = row['oracle_model_to_route_to']
     if curr_num_of_shots == required_num_of_shots:
         break
-    if oracle_model in candidate_models_set and sample_id not in previous_shots_used:
+    if oracle_model in candidate_models_set:
         model_stats = [
-            f"WizardLM/WizardLM-13B-V1.2 — correctness: {row['WizardLM/WizardLM-13B-V1.2']}, cost: {row['WizardLM/WizardLM-13B-V1.2|total_cost']}",
-            f"claude-instant-v1 — correctness: {row['claude-instant-v1']}, cost: {row['claude-instant-v1|total_cost']}",
-            f"claude-v1 — correctness: {row['claude-v1']}, cost: {row['claude-v1|total_cost']}",
-            f"claude-v2 — correctness: {row['claude-v2']}, cost: {row['claude-v2|total_cost']}",
-            f"gpt-3.5-turbo-1106 — correctness: {row['gpt-3.5-turbo-1106']}, cost: {row['gpt-3.5-turbo-1106|total_cost']}",
-            f"gpt-4-1106-preview — correctness: {row['gpt-4-1106-preview']}, cost: {row['gpt-4-1106-preview|total_cost']}",
-            f"meta/code-llama-instruct-34b-chat — correctness: {row['meta/code-llama-instruct-34b-chat']}, cost: {row['meta/code-llama-instruct-34b-chat|total_cost']}",
-            f"meta/llama-2-70b-chat — correctness: {row['meta/llama-2-70b-chat']}, cost: {row['meta/llama-2-70b-chat|total_cost']}",
-            f"mistralai/mistral-7b-chat — correctness: {row['mistralai/mistral-7b-chat']}, cost: {row['mistralai/mistral-7b-chat|total_cost']}",
-            f"mistralai/mixtral-8x7b-chat — correctness: {row['mistralai/mixtral-8x7b-chat']}, cost: {row['mistralai/mixtral-8x7b-chat|total_cost']}",
-            f"zero-one-ai/Yi-34B-Chat — correctness: {row['zero-one-ai/Yi-34B-Chat']}, cost: {row['zero-one-ai/Yi-34B-Chat|total_cost']}"
+            f"{model} — correctness: {row[model]}, cost: {row[f'{model}|total_cost']}"
+            for model in candidate_models
         ]
         messages.append({"role": "user", "content": f"Prompt: {prompt}\n" + "\n".join(model_stats)})
         messages.append({"role": "assistant", "content": row['oracle_model_to_route_to']})
         curr_num_of_shots += 1
         print(sample_id)
-        # print(prompt)
-        # print(oracle_model)
-        # print()
         if pick_diverse_prompts:
             candidate_models_set.remove(oracle_model)
 
@@ -220,13 +205,7 @@ else:
 # Run evaluation
 all_outputs = []
 
-test_data = test_data.sample(n=1000, random_state=42)
-candidate_models = [
-    "WizardLM/WizardLM-13B-V1.2", "claude-instant-v1", "claude-v1", "claude-v2",
-    "gpt-3.5-turbo-1106", "gpt-4-1106-preview", "meta/code-llama-instruct-34b-chat",
-    "meta/llama-2-70b-chat", "mistralai/mistral-7b-chat",
-    "mistralai/mixtral-8x7b-chat", "zero-one-ai/Yi-34B-Chat"
-]
+# test_data = test_data.sample(n=1000, random_state=42)
 count = 0
 for _, row in test_data.iterrows():
     count += 1

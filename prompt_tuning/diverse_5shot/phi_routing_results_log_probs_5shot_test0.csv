@@ -1,0 +1,53 @@
+sample_id,phi_prediction,phi_response,oracle_model_to_route
+mmlu-professional-law.val.1247,gpt-4-1106-preview,"B) The skier, because the neighbor had already obtained an easement by prescription.",WizardLM/WizardLM-13B-V1.2
+mmlu-international-law.val.89,gpt-4-1106-preview,D) gpt-4-1106-preview,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.4617,mistralai/mixtral-8x7b-chat,C) Resist the urge to interrupt what they're saying. [substeps] Let them get their entire message across before giving your response.,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.5357,gpt-4-1106-preview,gpt-4-1106-preview,meta/llama-2-70b-chat
+hellaswag.val.2731,mistralai/mixtral-8x7b-chat,C),WizardLM/WizardLM-13B-V1.2
+hellaswag.val.9797,mistralai/mixtral-8x7b-chat,D,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.570,gpt-4-1106-preview,gpt-4-1106-preview,zero-one-ai/Yi-34B-Chat
+hellaswag.val.1836,gpt-4-1106-preview,gpt-4-1106-preview,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.2769,gpt-4-1106-preview,gpt-4-1106-preview,mistralai/mistral-7b-chat
+mmlu-professional-law.val.485,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,claude-instant-v1
+hellaswag.val.2850,gpt-4-1106-preview,gpt-4-1106-preview,WizardLM/WizardLM-13B-V1.2
+mmlu-business-ethics.val.54,gpt-4-1106-preview,"B) Ethics of duty, Ethics of rights and justice, Principle",WizardLM/WizardLM-13B-V1.2
+bias_detection.dev.265,gpt-4-1106-preview,"gpt-4-1106-preview
+
+Reasoning: The sentence presents a direct quote from Marat Gabidullin, a former Wagner commander, expressing his doubt about the group's existence without Prigoz",no_model_correct
+consensus_summary.dev.5,gpt-4-1106-preview,gpt-4-1106-preview,claude-v1
+hellaswag.val.3051,gpt-4-1106-preview,gpt-4-1106-preview,meta/llama-2-70b-chat
+hellaswag.val.5313,meta/code-llama-instruct-34b-chat,C),WizardLM/WizardLM-13B-V1.2
+mmlu-miscellaneous.val.737,gpt-4-1106-preview,gpt-4-1106-preview,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.3702,gpt-4-1106-preview,gpt-4-1106-preview,zero-one-ai/Yi-34B-Chat
+hellaswag.val.6662,mistralai/mixtral-8x7b-chat,A),mistralai/mistral-7b-chat
+grade-school-math.dev.5353,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat
+grade-school-math.dev.7313,gpt-4-1106-preview,gpt-4-1106-preview,meta/code-llama-instruct-34b-chat
+mmlu-high-school-biology.val.90,gpt-4-1106-preview,gpt-4-1106-preview,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.73,meta/code-llama-instruct-34b-chat,"D) not prevail, unless the boy was negligent.",mistralai/mixtral-8x7b-chat
+mmlu-business-ethics.val.77,meta/code-llama-instruct-34b-chat,B) Commercial performance,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.7889,mistralai/mixtral-8x7b-chat,C) meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.715,gpt-4-1106-preview,gpt-4-1106-preview,mistralai/mistral-7b-chat
+mmlu-jurisprudence.val.67,gpt-4-1106-preview,gpt-4-1106-preview,mistralai/mistral-7b-chat
+hellaswag.val.2580,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,gpt-4-1106-preview
+grade-school-math.dev.5091,gpt-4-1106-preview,gpt-4-1106-preview,mistralai/mistral-7b-chat
+grade-school-math.dev.7398,gpt-4-1106-preview,gpt-4-1106-preview,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.8841,meta/code-llama-instruct-34b-chat,B),zero-one-ai/Yi-34B-Chat
+mmlu-college-mathematics.val.52,gpt-4-1106-preview,D) f is continuous,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.1513,meta/code-llama-instruct-34b-chat,"B) Yes, because due process precludes requiring a criminal defendant to bear the burden on an issue that would make an act lawful.",no_model_correct
+hellaswag.val.6403,gpt-4-1106-preview,D,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.1515,gpt-4-1106-preview,gpt-4-1106-preview,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.8810,mistralai/mixtral-8x7b-chat,A),mistralai/mistral-7b-chat
+mmlu-professional-law.val.1365,gpt-4-1106-preview,gpt-4-1106-preview,mistralai/mistral-7b-chat
+hellaswag.val.9743,mistralai/mixtral-8x7b-chat,A) Begin by identifying the reason you don't have a job or why you don't make enough to pay child support : [substeps] Medical illness disability layoff imprisonment other reason,mistralai/mistral-7b-chat
+hellaswag.val.4227,mistralai/mixtral-8x7b-chat,D) meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.3650,gpt-4-1106-preview,gpt-4-1106-preview,meta/llama-2-70b-chat
+grade-school-math.dev.7183,gpt-4-1106-preview,gpt-4-1106-preview,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.2573,gpt-4-1106-preview,gpt-4-1106-preview,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.1662,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-miscellaneous.val.235,gpt-4-1106-preview,gpt-4-1106-preview,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.2161,gpt-4-1106-preview,gpt-4-1106-preview,claude-instant-v1
+hellaswag.val.5410,mistralai/mixtral-8x7b-chat,B) mistralai/mixtral-8x7b-chat,mistralai/mistral-7b-chat
+hellaswag.val.551,mistralai/mixtral-8x7b-chat,C) place the baking sheet in an oven.,mistralai/mixtral-8x7b-chat
+mmlu-high-school-geography.val.58,gpt-4-1106-preview,gpt-4-1106-preview,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1203,gpt-4-1106-preview,gpt-4-1106-preview,zero-one-ai/Yi-34B-Chat
+hellaswag.val.867,gpt-4-1106-preview,D) gpt-4-1106-preview,zero-one-ai/Yi-34B-Chat

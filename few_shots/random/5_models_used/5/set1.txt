@@ -1,0 +1,5 @@
+mmlu-high-school-chemistry.val.108
+mmlu-high-school-biology.val.16
+mmlu-high-school-government-and-politics.val.22
+mmlu-high-school-chemistry.val.144
+winogrande.dev.180

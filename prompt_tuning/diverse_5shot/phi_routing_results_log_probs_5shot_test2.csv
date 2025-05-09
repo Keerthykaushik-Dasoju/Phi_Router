@@ -1,0 +1,53 @@
+sample_id,phi_prediction,phi_response,oracle_model_to_route
+mmlu-professional-law.val.1247,gpt-4-1106-preview,gpt-4-1106-preview,WizardLM/WizardLM-13B-V1.2
+mmlu-international-law.val.89,gpt-4-1106-preview,gpt-4-1106-preview,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.4617,gpt-4-1106-preview,gpt-4-1106-preview,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.5357,gpt-4-1106-preview,gpt-4-1106-preview,meta/llama-2-70b-chat
+hellaswag.val.2731,gpt-4-1106-preview,gpt-4-1106-preview,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.9797,gpt-4-1106-preview,gpt-4-1106-preview,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.570,gpt-4-1106-preview,gpt-4-1106-preview,zero-one-ai/Yi-34B-Chat
+hellaswag.val.1836,gpt-4-1106-preview,gpt-4-1106-preview,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.2769,gpt-4-1106-preview,gpt-4-1106-preview,mistralai/mistral-7b-chat
+mmlu-professional-law.val.485,gpt-4-1106-preview,gpt-4-1106-preview,claude-instant-v1
+hellaswag.val.2850,gpt-4-1106-preview,gpt-4-1106-preview,WizardLM/WizardLM-13B-V1.2
+mmlu-business-ethics.val.54,gpt-4-1106-preview,gpt-4-1106-preview,WizardLM/WizardLM-13B-V1.2
+bias_detection.dev.265,gpt-4-1106-preview,"gpt-4-1106-preview
+
+Reasoning: The sentence provided is a direct quote from a person, Marat Gabidullin, expressing his doubt about the group's existence without Prigozhin",no_model_correct
+consensus_summary.dev.5,gpt-4-1106-preview,gpt-4-1106-preview,claude-v1
+hellaswag.val.3051,gpt-4-1106-preview,gpt-4-1106-preview,meta/llama-2-70b-chat
+hellaswag.val.5313,mistralai/mixtral-8x7b-chat,C,WizardLM/WizardLM-13B-V1.2
+mmlu-miscellaneous.val.737,gpt-4-1106-preview,gpt-4-1106-preview,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.3702,gpt-4-1106-preview,gpt-4-1106-preview,zero-one-ai/Yi-34B-Chat
+hellaswag.val.6662,mistralai/mixtral-8x7b-chat,A) Spray the solution all over your tub and scrub with a long handled bathtub cleaning tool which you can buy almost anywhere cleaning supplies are sold. Here are some other items you might want to help you clean.,mistralai/mistral-7b-chat
+grade-school-math.dev.5353,gpt-4-1106-preview,gpt-4-1106-preview,meta/code-llama-instruct-34b-chat
+grade-school-math.dev.7313,gpt-4-1106-preview,gpt-4-1106-preview,meta/code-llama-instruct-34b-chat
+mmlu-high-school-biology.val.90,gpt-4-1106-preview,gpt-4-1106-preview,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.73,gpt-4-1106-preview,gpt-4-1106-preview,mistralai/mixtral-8x7b-chat
+mmlu-business-ethics.val.77,gpt-4-1106-preview,B) Commercial performance,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.7889,mistralai/mixtral-8x7b-chat,C) [step] Take a clean saucepan and fill the saucepan with room temperature water to at least half of the pan. [title] Place the saucepan on the stove.,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.715,gpt-4-1106-preview,gpt-4-1106-preview,mistralai/mistral-7b-chat
+mmlu-jurisprudence.val.67,gpt-4-1106-preview,gpt-4-1106-preview,mistralai/mistral-7b-chat
+hellaswag.val.2580,gpt-4-1106-preview,gpt-4-1106-preview,gpt-4-1106-preview
+grade-school-math.dev.5091,gpt-4-1106-preview,gpt-4-1106-preview,mistralai/mistral-7b-chat
+grade-school-math.dev.7398,gpt-4-1106-preview,gpt-4-1106-preview,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.8841,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-college-mathematics.val.52,gpt-4-1106-preview,gpt-4-1106-preview,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.1513,gpt-4-1106-preview,gpt-4-1106-preview,no_model_correct
+hellaswag.val.6403,gpt-4-1106-preview,D,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.1515,gpt-4-1106-preview,gpt-4-1106-preview,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.8810,mistralai/mixtral-8x7b-chat,"A) [substeps] Some good sources can include wrapping paper, old magazines, old books, comics, and crossword puzzles. If you are unable to find anything you like in print, you can also find images you like",mistralai/mistral-7b-chat
+mmlu-professional-law.val.1365,gpt-4-1106-preview,gpt-4-1106-preview,mistralai/mistral-7b-chat
+hellaswag.val.9743,WizardLM/WizardLM-13B-V1.2,A) Begin by identifying the reason you don't have a job or why you don't make enough to pay child support : [substeps] Medical illness disability layoff imprisonment other reason [title] Get medical records.,mistralai/mistral-7b-chat
+hellaswag.val.4227,gpt-4-1106-preview,gpt-4-1106-preview,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.3650,gpt-4-1106-preview,gpt-4-1106-preview,meta/llama-2-70b-chat
+grade-school-math.dev.7183,gpt-4-1106-preview,gpt-4-1106-preview,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.2573,gpt-4-1106-preview,gpt-4-1106-preview,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.1662,gpt-4-1106-preview,gpt-4-1106-preview,WizardLM/WizardLM-13B-V1.2
+mmlu-miscellaneous.val.235,gpt-4-1106-preview,D) through a human body,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.2161,gpt-4-1106-preview,gpt-4-1106-preview,claude-instant-v1
+hellaswag.val.5410,WizardLM/WizardLM-13B-V1.2,B) WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+hellaswag.val.551,gpt-4-1106-preview,gpt-4-1106-preview,mistralai/mixtral-8x7b-chat
+mmlu-high-school-geography.val.58,gpt-4-1106-preview,gpt-4-1106-preview,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1203,gpt-4-1106-preview,gpt-4-1106-preview,zero-one-ai/Yi-34B-Chat
+hellaswag.val.867,gpt-4-1106-preview,D) rolls down the lawn mowing path making turns and turns around.,zero-one-ai/Yi-34B-Chat

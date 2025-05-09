@@ -1,0 +1,1014 @@
+sample_id,phi_prediction,phi_response,oracle_model_to_route
+mmlu-high-school-macroeconomics.val.127,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+mmlu-formal-logic.val.82,WizardLM/WizardLM-13B-V1.2,D,claude-instant-v1
+hellaswag.val.7968,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.4037,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-global-facts.val.6,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.1409,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+mmlu-high-school-microeconomics.val.133,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.3926,claude-v2,claude-v2,WizardLM/WizardLM-13B-V1.2
+mmlu-moral-scenarios.val.389,claude-v1,"B) Not wrong, Wrong",WizardLM/WizardLM-13B-V1.2
+hellaswag.val.3378,claude-v1,claude-v1,zero-one-ai/Yi-34B-Chat
+winogrande.dev.647,claude-v1,claude-v1,WizardLM/WizardLM-13B-V1.2
+mmlu-security-studies.val.180,meta/code-llama-instruct-34b-chat,B) All of these options,mistralai/mixtral-8x7b-chat
+arc-challenge.test.959,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.558,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,gpt-4-1106-preview
+mmlu-high-school-psychology.val.109,gpt-4-1106-preview,D,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.5826,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-psychology.val.206,gpt-4-1106-preview,gpt-4-1106-preview,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.763,claude-v1,C) authenticating witness,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.6880,claude-v1,"A) [title] Decorate the rooms with fun things to include (or a video game to play), colorful balloons, silly people writing random things to remember, and maybe some chocolate chip boosters.",zero-one-ai/Yi-34B-Chat
+hellaswag.val.6222,claude-v2,claude-v2,zero-one-ai/Yi-34B-Chat
+mmlu-high-school-microeconomics.val.49,WizardLM/WizardLM-13B-V1.2,A),mistralai/mistral-7b-chat
+arc-challenge.test.59,WizardLM/WizardLM-13B-V1.2,A) NaCl + H_{2}O,mistralai/mistral-7b-chat
+mmlu-high-school-psychology.val.532,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-electrical-engineering.val.72,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+arc-challenge.val.125,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-psychology.val.581,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,claude-instant-v1
+hellaswag.val.9534,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-human-aging.val.140,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.3972,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.1172,claude-v2,B) Interstate travel,claude-instant-v1
+grade-school-math.dev.1844,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.2702,claude-v2,claude-v2,mistralai/mistral-7b-chat
+grade-school-math.dev.6893,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.2730,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.4709,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-elementary-mathematics.val.360,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+mmlu-human-sexuality.val.63,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-college-medicine.val.154,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+grade-school-math.dev.6302,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,meta/llama-2-70b-chat
+grade-school-math.dev.2020,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+mmlu-high-school-world-history.val.163,gpt-4-1106-preview,gpt-4-1106-preview,mistralai/mistral-7b-chat
+mmlu-econometrics.val.76,WizardLM/WizardLM-13B-V1.2,B) (ii) and (iv) only,WizardLM/WizardLM-13B-V1.2
+consensus_summary.dev.13,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,claude-v1
+hellaswag.val.10012,claude-v1,"A) [title] Present the soccer ball to your child on a special day, maybe their birthday. [step] This will help your child to associate it with a fun occasion, seeing it as a gift and an opportunity to learn",mistralai/mistral-7b-chat
+arc-challenge.val.282,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.93,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+mmlu-world-religions.val.11,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+winogrande.dev.742,claude-v1,claude-v1,mistralai/mistral-7b-chat
+mmlu-electrical-engineering.val.135,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-elementary-mathematics.val.233,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,no_model_correct
+mmlu-world-religions.val.44,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mixtral-8x7b-chat
+consensus_summary.dev.292,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,claude-instant-v1
+mmlu-clinical-knowledge.val.142,meta/code-llama-instruct-34b-chat,D) meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+mmlu-high-school-geography.val.73,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.5893,claude-v1,"A) [substeps] Once you\'ve noticed the bad mood coming on, consider whether your changes in mood have caused it (and what similar events have affected you in the past). The common causes of bad moods in most",zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.1110,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,no_model_correct
+mmlu-business-ethics.val.77,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-accounting.val.138,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.4374,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1169,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.278,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,claude-instant-v1
+mmlu-high-school-psychology.val.475,WizardLM/WizardLM-13B-V1.2,B) DSM-5,WizardLM/WizardLM-13B-V1.2
+bias_detection.dev.62,meta/code-llama-instruct-34b-chat,"meta/code-llama-instruct-34b-chat
+
+Reasoning: The sentence provided is a direct quote from President Biden, which classifies it as a quote. The sentence does not contain any personal view,",mistralai/mixtral-8x7b-chat
+arc-challenge.test.667,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+accounting_audit.dev.6,gpt-4-1106-preview,gpt-4-1106-preview,claude-instant-v1
+hellaswag.val.7030,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+hellaswag.val.8370,meta/code-llama-instruct-34b-chat,A) Choose the type and size of machines that best meet your location needs.,mistralai/mistral-7b-chat
+mmlu-international-law.val.119,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+arc-challenge.test.602,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.498,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.1023,claude-v1,claude-v1,zero-one-ai/Yi-34B-Chat
+hellaswag.val.3857,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,claude-instant-v1
+hellaswag.val.1881,zero-one-ai/Yi-34B-Chat,zero-one-ai/Yi-34B-Chat,mistralai/mixtral-8x7b-chat
+mmlu-college-chemistry.val.80,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,no_model_correct
+hellaswag.val.325,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1113,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-prehistory.val.36,claude-v1,B) Aztec; Tenochtitlán.,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.2065,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.7399,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,gpt-3.5-turbo-1106
+mmlu-high-school-us-history.val.104,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+mmlu-nutrition.val.45,meta/code-llama-instruct-34b-chat,A) WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+arc-challenge.test.986,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.846,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,no_model_correct
+mmlu-anatomy.val.29,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,claude-v2
+mmlu-professional-law.val.1523,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-moral-scenarios.val.785,WizardLM/WizardLM-13B-V1.2,"D) Wrong, Not wrong",zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.2940,gpt-4-1106-preview,gpt-4-1106-preview,mistralai/mistral-7b-chat
+hellaswag.val.3806,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.192,claude-v2,"C) The cousin, based on necessity",mistralai/mixtral-8x7b-chat
+mmlu-management.val.57,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,gpt-3.5-turbo-1106
+mmlu-human-sexuality.val.62,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,zero-one-ai/Yi-34B-Chat
+mmlu-high-school-psychology.val.444,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+mmlu-moral-scenarios.val.362,claude-v1,"C) Wrong, Not wrong",gpt-4-1106-preview
+mmlu-professional-law.val.997,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.7413,gpt-4-1106-preview,gpt-4-1106-preview,mistralai/mistral-7b-chat
+hellaswag.val.7488,claude-v2,claude-v2,claude-instant-v1
+grade-school-math.dev.4320,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,meta/llama-2-70b-chat
+mmlu-philosophy.val.96,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,claude-instant-v1
+grade-school-math.dev.1249,gpt-4-1106-preview,gpt-4-1106-preview,claude-instant-v1
+mmlu-miscellaneous.val.515,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+hellaswag.val.3235,meta/code-llama-instruct-34b-chat,claude-v1,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1344,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+arc-challenge.val.249,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+grade-school-math.dev.5107,meta/code-llama-instruct-34b-chat,gpt-3.5-turbo-1106,mistralai/mistral-7b-chat
+hellaswag.val.9635,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-econometrics.val.62,WizardLM/WizardLM-13B-V1.2,"C) (i), (ii), (iii), and (iv)",mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.618,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-moral-scenarios.val.674,claude-v1,"D) Wrong, Not wrong",gpt-4-1106-preview
+mmlu-professional-law.val.708,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,claude-instant-v1
+hellaswag.val.7853,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-security-studies.val.98,gpt-4-1106-preview,gpt-4-1106-preview,mistralai/mixtral-8x7b-chat
+hellaswag.val.9812,meta/code-llama-instruct-34b-chat,B) meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+mmlu-clinical-knowledge.val.137,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+grade-school-math.dev.4419,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-microeconomics.val.171,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.564,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat
+hellaswag.val.7887,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.1526,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+hellaswag.val.278,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.2210,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+mbpp.dev.175,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat
+grade-school-math.dev.3037,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+hellaswag.val.4522,claude-v1,"A) """,mistralai/mistral-7b-chat
+hellaswag.val.7739,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-anatomy.val.26,meta/code-llama-instruct-34b-chat,D) Nephrolithiasis,mistralai/mistral-7b-chat
+mmlu-professional-law.val.406,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+mmlu-professional-accounting.val.45,meta/code-llama-instruct-34b-chat,B) One,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.1740,gpt-4-1106-preview,gpt-4-1106-preview,mistralai/mistral-7b-chat
+grade-school-math.dev.416,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+mmlu-abstract-algebra.val.48,WizardLM/WizardLM-13B-V1.2,"D) True, True",claude-v1
+mmlu-professional-law.val.107,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+mmlu-high-school-macroeconomics.val.109,WizardLM/WizardLM-13B-V1.2,D) meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-moral-scenarios.val.27,claude-v1,"C) Not wrong, Wrong",zero-one-ai/Yi-34B-Chat
+mmlu-astronomy.val.17,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.7261,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.4133,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.335,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,claude-instant-v1
+grade-school-math.dev.1202,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,claude-v2
+hellaswag.val.5461,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+hellaswag.val.4468,claude-v2,C) [substeps] Locate an area of your feet that is a little dirty or rough. Soak your feet in the juice for as long as the suggested amount of time if any areas of dry skin remain.,gpt-3.5-turbo-1106
+consensus_summary.dev.189,meta/code-llama-instruct-34b-chat,N-A,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.883,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-high-school-chemistry.val.171,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,no_model_correct
+arc-challenge.val.72,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.3385,claude-v1,claude-v1,zero-one-ai/Yi-34B-Chat
+hellaswag.val.293,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+mbpp.dev.110,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.1374,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-machine-learning.val.66,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+mmlu-elementary-mathematics.val.292,WizardLM/WizardLM-13B-V1.2,B) gpt-3.5-turbo-1106,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.6867,claude-v2,claude-v2,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-european-history.val.63,gpt-4-1106-preview,gpt-4-1106-preview,zero-one-ai/Yi-34B-Chat
+hellaswag.val.907,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+arc-challenge.test.1064,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+arc-challenge.test.989,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+hellaswag.val.1289,gpt-4-1106-preview,gpt-4-1106-preview,WizardLM/WizardLM-13B-V1.2
+mmlu-miscellaneous.val.139,meta/llama-2-70b-chat,meta/llama-2-70b-chat,claude-instant-v1
+grade-school-math.dev.5011,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+grade-school-math.dev.71,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-chemistry.val.57,gpt-4-1106-preview,gpt-4-1106-preview,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.8945,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+arc-challenge.test.1065,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-astronomy.val.100,gpt-4-1106-preview,gpt-4-1106-preview,mistralai/mistral-7b-chat
+hellaswag.val.7804,claude-v2,claude-v2,no_model_correct
+mmlu-high-school-mathematics.val.171,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,gpt-3.5-turbo-1106
+hellaswag.val.2593,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+hellaswag.val.7573,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-high-school-macroeconomics.val.329,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.1927,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,meta/llama-2-70b-chat
+grade-school-math.dev.1531,gpt-4-1106-preview,gpt-4-1106-preview,gpt-4-1106-preview
+mmlu-high-school-psychology.val.358,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+winogrande.dev.1241,WizardLM/WizardLM-13B-V1.2,A) Michael,mistralai/mistral-7b-chat
+grade-school-math.dev.2865,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-college-medicine.val.100,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+winogrande.dev.446,claude-v1,claude-v1,mistralai/mistral-7b-chat
+mmlu-high-school-biology.val.29,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+hellaswag.val.3025,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.5081,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+arc-challenge.test.604,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-high-school-computer-science.val.94,meta/code-llama-instruct-34b-chat,C) meta/code-llama-instruct-34b-chat,claude-v2
+winogrande.dev.235,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,meta/llama-2-70b-chat
+grade-school-math.dev.3864,claude-v1,claude-v1,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-accounting.val.229,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,claude-v2
+mmlu-high-school-macroeconomics.val.6,WizardLM/WizardLM-13B-V1.2,A),mistralai/mistral-7b-chat
+grade-school-math.dev.915,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,claude-instant-v1
+hellaswag.val.3802,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,gpt-3.5-turbo-1106
+winogrande.dev.1234,claude-v1,claude-v1,mistralai/mistral-7b-chat
+grade-school-math.dev.7039,gpt-4-1106-preview,gpt-4-1106-preview,claude-instant-v1
+mmlu-professional-law.val.1026,meta/code-llama-instruct-34b-chat,"B) Yes, the injunctive restriction was a content-neutral restriction that burdened no more speech than was necessary.",WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1294,claude-v2,claude-v2,WizardLM/WizardLM-13B-V1.2
+arc-challenge.test.436,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+consensus_summary.dev.32,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.8261,WizardLM/WizardLM-13B-V1.2,A) WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-clinical-knowledge.val.140,meta/llama-2-70b-chat,meta/llama-2-70b-chat,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.6364,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+mmlu-jurisprudence.val.19,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+consensus_summary.dev.241,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,claude-instant-v1
+grade-school-math.dev.6960,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-statistics.val.193,WizardLM/WizardLM-13B-V1.2,"D) .5, 0.44, 0.3",no_model_correct
+mmlu-medical-genetics.val.94,meta/code-llama-instruct-34b-chat,D) meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+mmlu-high-school-macroeconomics.val.298,WizardLM/WizardLM-13B-V1.2,C) claude-v2,zero-one-ai/Yi-34B-Chat
+mmlu-international-law.val.60,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+hellaswag.val.4368,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+hellaswag.val.742,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-biology.val.62,WizardLM/WizardLM-13B-V1.2,A) WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-virology.val.77,gpt-4-1106-preview,gpt-4-1106-preview,mistralai/mistral-7b-chat
+hellaswag.val.2072,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-macroeconomics.val.378,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+grade-school-math.dev.1022,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.6258,claude-v2,C) You should also run the mashed potatoes through a strainer if they seem lumpy. [substeps] Avoid using mashed potatoes that have bits of the potato peel in them.,zero-one-ai/Yi-34B-Chat
+mmlu-high-school-psychology.val.66,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,zero-one-ai/Yi-34B-Chat
+hellaswag.val.3292,meta/code-llama-instruct-34b-chat,"A) [substeps] You can also take a quick shower instead of just washing your stomach if you prefer. You\'ll want to shave soon after washing.
+Answer: A)",mistralai/mistral-7b-chat
+grade-school-math.dev.4377,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,claude-instant-v1
+mmlu-professional-law.val.735,gpt-4-1106-preview,gpt-4-1106-preview,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.5658,claude-v1,claude-v1,mistralai/mistral-7b-chat
+hellaswag.val.7557,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-international-law.val.102,gpt-4-1106-preview,gpt-4-1106-preview,mistralai/mistral-7b-chat
+hellaswag.val.6108,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+hellaswag.val.4426,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+hellaswag.val.3043,claude-v1,claude-v1,mistralai/mistral-7b-chat
+grade-school-math.dev.704,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.6244,claude-v1,claude-v1,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.2021,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat
+hellaswag.val.2798,gpt-4-1106-preview,gpt-4-1106-preview,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.927,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+mmlu-formal-logic.val.96,WizardLM/WizardLM-13B-V1.2,B) H ∨ ~R,claude-instant-v1
+mmlu-human-aging.val.180,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+hellaswag.val.1955,claude-v2,claude-v2,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.1614,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.5958,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+hellaswag.val.1554,claude-v2,A),mistralai/mistral-7b-chat
+hellaswag.val.128,gpt-4-1106-preview,gpt-4-1106-preview,zero-one-ai/Yi-34B-Chat
+consensus_summary.dev.105,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,claude-instant-v1
+hellaswag.val.6255,WizardLM/WizardLM-13B-V1.2,"B) Before you buy the car, it is owned by the dealership or the manufacturer. Once you purchase the vehicle, title needs to be transferred into your name.",zero-one-ai/Yi-34B-Chat
+hellaswag.val.335,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-computer-security.val.58,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.1258,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1226,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+hellaswag.val.1535,claude-v2,claude-v2,mistralai/mistral-7b-chat
+mmlu-professional-law.val.590,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,no_model_correct
+grade-school-math.dev.6105,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,meta/llama-2-70b-chat
+mmlu-management.val.93,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mistral-7b-chat
+hellaswag.val.978,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-psychology.val.276,claude-v1,claude-v1 or claude-v2,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-accounting.val.101,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-moral-scenarios.val.460,WizardLM/WizardLM-13B-V1.2,"D) Wrong, Wrong",mistralai/mixtral-8x7b-chat
+grade-school-math.dev.3331,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-medicine.val.137,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1183,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1326,WizardLM/WizardLM-13B-V1.2,claude-v1,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.4090,gpt-4-1106-preview,gpt-4-1106-preview,mistralai/mistral-7b-chat
+mmlu-human-aging.val.104,meta/code-llama-instruct-34b-chat,D,WizardLM/WizardLM-13B-V1.2
+mmlu-security-studies.val.219,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+hellaswag.val.9743,WizardLM/WizardLM-13B-V1.2,A) Begin by identifying the reason you don't have a job or why you don't make enough to pay child support : [substeps] Medical illness disability layoff imprisonment other reason,mistralai/mistral-7b-chat
+mmlu-prehistory.val.75,claude-v1,C) atlatl,mistralai/mistral-7b-chat
+mmlu-high-school-biology.val.290,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.3889,WizardLM/WizardLM-13B-V1.2,"A) Ladybugs can be sold as small boxes, pots, or bowls.",no_model_correct
+hellaswag.val.3173,claude-v1,claude-v1,mistralai/mistral-7b-chat
+mmlu-moral-scenarios.val.35,WizardLM/WizardLM-13B-V1.2,"C) Wrong, Not wrong",mistralai/mixtral-8x7b-chat
+mmlu-clinical-knowledge.val.193,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.2319,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+hellaswag.val.5933,claude-v1,A) Draw a second diagonal connecting to different vertices. The intersection of these diagonals is the center point of the hexagon.,mistralai/mistral-7b-chat
+hellaswag.val.6724,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+grade-school-math.dev.6764,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,gpt-3.5-turbo-1106
+grade-school-math.dev.391,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.9660,claude-v1,A) WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+abstract2title.test.100,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-moral-scenarios.val.636,claude-v1,"C) Wrong, Wrong",gpt-4-1106-preview
+mbpp.dev.241,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+mmlu-human-sexuality.val.127,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+hellaswag.val.6672,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.873,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+hellaswag.val.4415,claude-v2,claude-v2,mistralai/mixtral-8x7b-chat
+consensus_summary.dev.305,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+hellaswag.val.1429,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+winogrande.dev.454,claude-v1,claude-v1 or claude-v2 or claude-instant-v1,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1469,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,zero-one-ai/Yi-34B-Chat
+mmlu-management.val.92,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.4509,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.36,claude-v2,claude-v2,mistralai/mistral-7b-chat
+mmlu-professional-law.val.302,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,no_model_correct
+hellaswag.val.5413,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-clinical-knowledge.val.46,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+mmlu-miscellaneous.val.723,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+mmlu-college-biology.val.63,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+hellaswag.val.1509,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+hellaswag.val.4033,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-high-school-physics.val.100,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+mmlu-professional-psychology.val.446,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,no_model_correct
+hellaswag.val.4102,meta/code-llama-instruct-34b-chat,"A) [title] While the boiling continues, prepare a container with something to drain your gel. [title] Keep stirring and you will notice that the water will begin to thicken into gel.",mistralai/mistral-7b-chat
+hellaswag.val.7289,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+hellaswag.val.9705,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,claude-instant-v1
+mmlu-philosophy.val.289,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+grade-school-math.dev.1359,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+mmlu-miscellaneous.val.285,meta/llama-2-70b-chat,meta/llama-2-70b-chat,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.4461,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,claude-instant-v1
+mmlu-logical-fallacies.val.98,meta/code-llama-instruct-34b-chat,D) common person appeal,mistralai/mixtral-8x7b-chat
+arc-challenge.val.203,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-world-history.val.4,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.950,zero-one-ai/Yi-34B-Chat,zero-one-ai/Yi-34B-Chat,no_model_correct
+winogrande.dev.172,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+mmlu-moral-scenarios.val.769,claude-v1,"C) Wrong, Not wrong",mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.837,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+hellaswag.val.9978,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+abstract2title.test.74,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+mmlu-high-school-statistics.val.53,claude-v1,B) H0: p ≤ 0.60 and Ha: p > 0.60,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.597,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+mmlu-machine-learning.val.103,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,claude-instant-v1
+mmlu-professional-law.val.1430,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-jurisprudence.val.33,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+mmlu-prehistory.val.37,meta/code-llama-instruct-34b-chat,D) diffusionism,mistralai/mixtral-8x7b-chat
+mmlu-high-school-world-history.val.146,claude-v1,A) All adult men who were citizens of the state by birth,mistralai/mistral-7b-chat
+hellaswag.val.4260,WizardLM/WizardLM-13B-V1.2,"B) That's where conditioner comes in. Each time you shampoo, follow up by using conditioner that's right for your hair type.",mistralai/mixtral-8x7b-chat
+grade-school-math.dev.4167,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.2125,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-philosophy.val.105,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,claude-instant-v1
+mmlu-high-school-microeconomics.val.4,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+mmlu-high-school-macroeconomics.val.36,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+arc-challenge.test.289,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+mmlu-security-studies.val.8,claude-v2,C) All of these options,WizardLM/WizardLM-13B-V1.2
+mmlu-security-studies.val.100,meta/code-llama-instruct-34b-chat,D,WizardLM/WizardLM-13B-V1.2
+mmlu-virology.val.13,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1069,gpt-4-1106-preview,gpt-4-1106-preview,no_model_correct
+grade-school-math.dev.5990,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,meta/llama-2-70b-chat
+grade-school-math.dev.6941,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.714,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+mmlu-conceptual-physics.val.142,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.6826,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+mmlu-marketing.val.47,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.2795,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-prehistory.val.79,gpt-4-1106-preview,gpt-4-1106-preview,no_model_correct
+mmlu-logical-fallacies.val.105,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.7041,meta/code-llama-instruct-34b-chat,"A) If you can't find your favorite picture, get it printed and upsize it to the desired style. Keep the pictures of hairstyles you like in mind, and take the time to look at the fit and color of the ha",zero-one-ai/Yi-34B-Chat
+mmlu-sociology.val.134,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+grade-school-math.dev.3902,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,claude-v1
+hellaswag.val.9991,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.641,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-jurisprudence.val.54,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+hellaswag.val.9361,claude-v2,claude-v2,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1394,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+hellaswag.val.6078,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-high-school-european-history.val.2,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+mmlu-high-school-psychology.val.456,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+winogrande.dev.1049,mistralai/mistral-7b-chat,A) reeds,mistralai/mistral-7b-chat
+hellaswag.val.8239,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,gpt-3.5-turbo-1106
+mmlu-global-facts.val.38,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.4324,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-human-aging.val.105,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.611,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.1010,meta/code-llama-instruct-34b-chat,C) meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-psychology.val.218,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+hellaswag.val.3579,claude-v1,claude-v1,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.4543,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.7054,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-psychology.val.184,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,claude-v2
+mmlu-high-school-chemistry.val.140,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+hellaswag.val.8898,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-psychology.val.584,claude-v2,claude-v2,no_model_correct
+grade-school-math.dev.919,meta/llama-2-70b-chat,meta/llama-2-70b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-college-biology.val.50,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-moral-scenarios.val.756,WizardLM/WizardLM-13B-V1.2,"C) Wrong, Not wrong",mistralai/mixtral-8x7b-chat
+mmlu-high-school-macroeconomics.val.222,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.1234,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+hellaswag.val.143,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,gpt-4-1106-preview
+mmlu-professional-law.val.424,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+mmlu-philosophy.val.290,meta/code-llama-instruct-34b-chat,D,WizardLM/WizardLM-13B-V1.2
+mmlu-electrical-engineering.val.17,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-microeconomics.val.218,meta/code-llama-instruct-34b-chat,A),mistralai/mistral-7b-chat
+mmlu-clinical-knowledge.val.236,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-conceptual-physics.val.46,gpt-4-1106-preview,gpt-4-1106-preview,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.2592,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,meta/llama-2-70b-chat
+mmlu-professional-law.val.388,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.1332,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-biology.val.121,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.2598,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,gpt-4-1106-preview
+hellaswag.val.8132,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+hellaswag.val.9655,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+mmlu-econometrics.val.96,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+mmlu-conceptual-physics.val.105,gpt-4-1106-preview,gpt-4-1106-preview,claude-v1
+hellaswag.val.2437,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,no_model_correct
+mmlu-college-mathematics.val.60,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.6052,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+mmlu-formal-logic.val.22,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,claude-instant-v1
+mmlu-high-school-world-history.val.129,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+grade-school-math.dev.3189,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,meta/llama-2-70b-chat
+mmlu-professional-law.val.1056,gpt-4-1106-preview,gpt-4-1106-preview,zero-one-ai/Yi-34B-Chat
+arc-challenge.test.701,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-security-studies.val.218,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+hellaswag.val.814,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,claude-instant-v1
+arc-challenge.test.826,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,claude-instant-v1
+mmlu-philosophy.val.91,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+arc-challenge.test.854,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.6543,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.2112,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,meta/llama-2-70b-chat
+arc-challenge.test.767,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+hellaswag.val.2919,mistralai/mistral-7b-chat,A) WizardLM/WizardLM-13B-V1.2,claude-instant-v1
+mmlu-moral-scenarios.val.650,claude-v1,claude-v1,gpt-3.5-turbo-1106
+mmlu-professional-law.val.267,mistralai/mixtral-8x7b-chat,"C) Yes, because they were trade fixtures.",WizardLM/WizardLM-13B-V1.2
+mmlu-professional-accounting.val.239,meta/code-llama-instruct-34b-chat,C) Increase Increase,gpt-4-1106-preview
+mmlu-professional-law.val.1124,gpt-4-1106-preview,D) an installment contract.,gpt-3.5-turbo-1106
+grade-school-math.dev.2573,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.3100,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-psychology.val.538,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.1567,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,gpt-3.5-turbo-1106
+grade-school-math.dev.1638,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.9236,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,gpt-3.5-turbo-1106
+mmlu-abstract-algebra.val.46,meta/code-llama-instruct-34b-chat,"C) True, True",gpt-4-1106-preview
+arc-challenge.test.534,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.1703,gpt-4-1106-preview,gpt-4-1106-preview,meta/llama-2-70b-chat
+mbpp.dev.68,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+mmlu-miscellaneous.val.557,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.1092,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,gpt-3.5-turbo-1106
+mmlu-professional-law.val.1129,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mbpp.dev.60,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat
+grade-school-math.dev.179,meta/code-llama-instruct-34b-chat,claude-v2,mistralai/mixtral-8x7b-chat
+winogrande.dev.1155,claude-v1,A) Benjamin,mistralai/mistral-7b-chat
+mmlu-moral-disputes.val.187,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+mmlu-miscellaneous.val.266,zero-one-ai/Yi-34B-Chat,zero-one-ai/Yi-34B-Chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-medicine.val.133,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+hellaswag.val.2065,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,gpt-4-1106-preview
+grade-school-math.dev.1915,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1401,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+arc-challenge.test.281,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+winogrande.dev.1151,claude-v1,claude-v1,mistralai/mistral-7b-chat
+grade-school-math.dev.3420,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+winogrande.dev.479,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.3134,claude-v2,claude-v2,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.309,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+hellaswag.val.9164,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1328,gpt-4-1106-preview,D) gpt-4-1106-preview,mistralai/mistral-7b-chat
+hellaswag.val.1303,claude-v2,claude-v2,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1207,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,no_model_correct
+winogrande.dev.533,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.8992,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+mmlu-moral-scenarios.val.672,claude-v1,"C) Wrong, Wrong",WizardLM/WizardLM-13B-V1.2
+consensus_summary.dev.78,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,claude-instant-v1
+mmlu-prehistory.val.22,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+consensus_summary.dev.187,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,claude-v1
+mmlu-professional-psychology.val.410,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.3476,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+mmlu-prehistory.val.179,meta/code-llama-instruct-34b-chat,C) megafauna,mistralai/mistral-7b-chat
+mmlu-business-ethics.val.64,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.211,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,claude-instant-v1
+mmlu-high-school-mathematics.val.34,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,gpt-3.5-turbo-1106
+mmlu-high-school-us-history.val.133,claude-v1,claude-v1,mistralai/mixtral-8x7b-chat
+arc-challenge.test.687,gpt-4-1106-preview,gpt-4-1106-preview,mistralai/mistral-7b-chat
+mmlu-machine-learning.val.63,meta/code-llama-instruct-34b-chat,B) All the examples that have a non-zero weight αk in a SVM.,claude-instant-v1
+winogrande.dev.825,claude-v1,A) monogram,mistralai/mistral-7b-chat
+mmlu-professional-law.val.594,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+mmlu-high-school-macroeconomics.val.154,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+mmlu-high-school-government-and-politics.val.140,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+grade-school-math.dev.6902,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.372,claude-v1,C) The ex post facto clause,mistralai/mixtral-8x7b-chat
+mmlu-professional-medicine.val.90,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+mbpp.dev.276,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+hellaswag.val.4538,WizardLM/WizardLM-13B-V1.2,"B) The title ""Once we have the software in hand, give it a try.""",mistralai/mixtral-8x7b-chat
+mmlu-sociology.val.120,meta/code-llama-instruct-34b-chat,A) WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+consensus_summary.dev.266,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+hellaswag.val.6634,claude-v1,claude-v1,zero-one-ai/Yi-34B-Chat
+hellaswag.val.4809,meta/code-llama-instruct-34b-chat,"A) title: Read about the denomination that a particular congregation belongs to. [step] Some are evangelical (such as the evangelical lutheran church in america), and others are more conservative (such as the",mistralai/mistral-7b-chat
+bias_detection.dev.191,WizardLM/WizardLM-13B-V1.2,"The sentence ""at some point Ukraine will likely seize the initiative."" is an example of speculation. This is because it expresses an assumption or theory about a future event that has not yet occurred and is not presented with verifiable data or",mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.1159,gpt-4-1106-preview,gpt-4-1106-preview,WizardLM/WizardLM-13B-V1.2
+mmlu-miscellaneous.val.391,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,no_model_correct
+mmlu-professional-law.val.798,meta/code-llama-instruct-34b-chat,C) Equitable servitude(s),WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.4979,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.417,meta/code-llama-instruct-34b-chat,"B) Yes, because it is prior testimony of an unavailable declarant.",WizardLM/WizardLM-13B-V1.2
+mmlu-sociology.val.85,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.185,claude-v1,claude-v1,gpt-4-1106-preview
+grade-school-math.dev.3263,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+hellaswag.val.9260,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.1076,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-psychology.val.489,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+mmlu-computer-security.val.48,WizardLM/WizardLM-13B-V1.2,B) WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-european-history.val.151,meta/code-llama-instruct-34b-chat,"A. J. P. Taylor, The Course of German History, 1945 — meta/code-llama-instruct-34b-chat",mistralai/mistral-7b-chat
+hellaswag.val.3327,meta/code-llama-instruct-34b-chat,B) claude-v2,zero-one-ai/Yi-34B-Chat
+arc-challenge.test.1012,gpt-4-1106-preview,gpt-4-1106-preview,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.8506,claude-v2,claude-v2,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.2904,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.5860,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,claude-v1
+hellaswag.val.7221,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-marketing.val.163,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.148,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-professional-law.val.80,claude-v1,claude-v1,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.3954,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.65,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+hellaswag.val.4906,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.2799,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-marketing.val.134,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+hellaswag.val.9497,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+hellaswag.val.8171,claude-v1,claude-v1,mistralai/mistral-7b-chat
+mmlu-nutrition.val.225,WizardLM/WizardLM-13B-V1.2,A) All of the above were among the causes.,mistralai/mistral-7b-chat
+grade-school-math.dev.1805,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+hellaswag.val.5381,claude-v2,"C) [substeps] Leave in for 30-60 minutes or longer, or sit out in the sun with the chamomile tea still in for stronger results. Add additional ingredients to the spray such as le",zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.1016,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+hellaswag.val.1363,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,claude-instant-v1
+grade-school-math.dev.5413,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+hellaswag.val.8950,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,meta/llama-2-70b-chat
+hellaswag.val.8835,claude-v1,"B) [step] If your diamante started off with "" home, "" you might choose two adjectives like "" safe "" and "" warm. "" these adjectives describe feelings associated with home.",claude-instant-v1
+mmlu-prehistory.val.134,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.5353,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat
+hellaswag.val.6666,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,meta/llama-2-70b-chat
+mbpp.dev.63,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,gpt-3.5-turbo-1106
+grade-school-math.dev.3322,gpt-4-1106-preview,gpt-4-1106-preview,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.4060,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+mmlu-high-school-biology.val.153,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.3275,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.1767,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,meta/llama-2-70b-chat
+accounting_audit.dev.25,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,claude-instant-v1
+hellaswag.val.2325,gpt-4-1106-preview,gpt-4-1106-preview,WizardLM/WizardLM-13B-V1.2
+winogrande.dev.1092,claude-v1,B) Erin,mistralai/mistral-7b-chat
+mmlu-security-studies.val.113,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+mmlu-miscellaneous.val.538,claude-v1,B) An increase in the number of direct primary elections,mistralai/mixtral-8x7b-chat
+hellaswag.val.4707,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+hellaswag.val.2271,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.15,claude-v1,claude-v1,mistralai/mixtral-8x7b-chat
+mmlu-moral-scenarios.val.720,mistralai/mistral-7b-chat,"B) Wrong, Not wrong",mistralai/mixtral-8x7b-chat
+hellaswag.val.3092,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-high-school-statistics.val.104,mistralai/mixtral-8x7b-chat,B) A matched pairs t-test,WizardLM/WizardLM-13B-V1.2
+mmlu-nutrition.val.130,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+mmlu-professional-psychology.val.276,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.3818,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+mmlu-international-law.val.27,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+mmlu-moral-disputes.val.6,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+mmlu-prehistory.val.307,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.254,claude-v1,B) WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+grade-school-math.dev.3124,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,meta/llama-2-70b-chat
+consensus_summary.dev.216,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-professional-law.val.744,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+grade-school-math.dev.5577,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,claude-v2
+hellaswag.val.9039,claude-v1,claude-v1,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.2482,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+consensus_summary.dev.179,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,claude-v1
+winogrande.dev.528,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+grade-school-math.dev.4571,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.8600,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.281,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+hellaswag.val.7893,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+hellaswag.val.2763,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,meta/llama-2-70b-chat
+grade-school-math.dev.6413,gpt-4-1106-preview,gpt-4-1106-preview,meta/code-llama-instruct-34b-chat
+mmlu-us-foreign-policy.val.7,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,claude-v1
+grade-school-math.dev.5824,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+winogrande.dev.82,claude-v1,Brett,WizardLM/WizardLM-13B-V1.2
+mmlu-miscellaneous.val.476,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,gpt-3.5-turbo-1106
+grade-school-math.dev.5041,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-high-school-us-history.val.28,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+grade-school-math.dev.6754,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.7190,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+mmlu-nutrition.val.222,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,no_model_correct
+mmlu-miscellaneous.val.70,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+consensus_summary.dev.225,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+mmlu-professional-psychology.val.234,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.7707,meta/code-llama-instruct-34b-chat,"A) [step] They should sit flat inside the container without protruding above the rim. A large tupperware or similar box is ideal, or you can use a roasting tin or plastic tray.",mistralai/mistral-7b-chat
+hellaswag.val.6260,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.4389,gpt-4-1106-preview,gpt-4-1106-preview,meta/llama-2-70b-chat
+mmlu-elementary-mathematics.val.7,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,claude-instant-v1
+mmlu-miscellaneous.val.742,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1170,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-moral-scenarios.val.760,claude-v1,"B) Wrong, Not wrong",WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.2701,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1486,claude-v1,claude-v1,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.565,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+hellaswag.val.650,WizardLM/WizardLM-13B-V1.2,B) meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.6352,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.375,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+hellaswag.val.8001,claude-v1,claude-v1,mistralai/mistral-7b-chat
+grade-school-math.dev.7042,gpt-4-1106-preview,gpt-4-1106-preview,mistralai/mistral-7b-chat
+mmlu-professional-medicine.val.218,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-security-studies.val.6,meta/code-llama-instruct-34b-chat,B) Nationalization: state enterprises should be protected.,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.9903,claude-v1,"B) [substeps] If it sounds too good to be true, it almost certainly is. If someone claims they have an inheritance from a long lost relative, a high-paying-do-nothing job, or unclaimed lottery",WizardLM/WizardLM-13B-V1.2
+mtbench-math.dev.17,gpt-4-1106-preview,gpt-4-1106-preview,meta/code-llama-instruct-34b-chat
+consensus_summary.dev.4,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.2764,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+mmlu-high-school-chemistry.val.120,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,gpt-4-1106-preview
+winogrande.dev.569,claude-v1,B) Laura,mistralai/mistral-7b-chat
+grade-school-math.dev.4207,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+mmlu-college-physics.val.70,gpt-4-1106-preview,gpt-4-1106-preview,gpt-3.5-turbo-1106
+hellaswag.val.9251,claude-v2,B) claude-v1,claude-instant-v1
+hellaswag.val.1324,claude-v2,claude-v2,mistralai/mistral-7b-chat
+arc-challenge.val.4,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+mmlu-professional-medicine.val.156,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.9051,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,no_model_correct
+mmlu-elementary-mathematics.val.252,claude-v2,C) 4(x – 22),WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1118,claude-v1,claude-v1,mistralai/mistral-7b-chat
+hellaswag.val.2979,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.6403,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,gpt-3.5-turbo-1106
+grade-school-math.dev.4083,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,claude-v2
+mmlu-high-school-mathematics.val.25,claude-v1,B) 5,gpt-4-1106-preview
+mmlu-professional-law.val.373,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,no_model_correct
+mbpp.dev.329,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,meta/code-llama-instruct-34b-chat
+mtbench.dev.11,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+mmlu-nutrition.val.74,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,gpt-3.5-turbo-1106
+mmlu-professional-law.val.135,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-nutrition.val.6,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.536,WizardLM/WizardLM-13B-V1.2,D) recover against either the husband and wife or the carpeting company,WizardLM/WizardLM-13B-V1.2
+mmlu-nutrition.val.293,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.7036,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+hellaswag.val.8764,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.7434,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+hellaswag.val.6211,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-high-school-european-history.val.5,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+hellaswag.val.5883,meta/code-llama-instruct-34b-chat,"B) [title] Starting with simple changes, like not hoovering up bugs on the carpet but letting them out, are small yet effective ways of including pacifism into your life. [title] Try to read up on the j",zero-one-ai/Yi-34B-Chat
+mmlu-high-school-statistics.val.156,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+arc-challenge.val.147,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-electrical-engineering.val.48,WizardLM/WizardLM-13B-V1.2,A,gpt-3.5-turbo-1106
+mmlu-jurisprudence.val.72,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+hellaswag.val.263,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.6188,claude-v1,A) Mention their name in the body of the letter at least twice in addition to addressing it to the specific child. [substeps] Thread details into the letter that show santa knows the child.,mistralai/mistral-7b-chat
+mmlu-professional-law.val.463,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+grade-school-math.dev.5044,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+grade-school-math.dev.1935,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.6199,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,gpt-3.5-turbo-1106
+mmlu-human-sexuality.val.52,meta/code-llama-instruct-34b-chat,D,mistralai/mixtral-8x7b-chat
+hellaswag.val.1188,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-high-school-microeconomics.val.63,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+mmlu-prehistory.val.309,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.7184,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-business-ethics.val.6,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.790,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+winogrande.dev.14,claude-v1,claude-v1,mistralai/mistral-7b-chat
+hellaswag.val.4973,claude-v2,claude-v2,mistralai/mistral-7b-chat
+arc-challenge.val.286,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+arc-challenge.val.229,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+hellaswag.val.5617,claude-v1,claude-v1,gpt-3.5-turbo-1106
+grade-school-math.dev.2309,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,gpt-3.5-turbo-1106
+hellaswag.val.2550,claude-v2,claude-v2,zero-one-ai/Yi-34B-Chat
+mmlu-marketing.val.6,meta/code-llama-instruct-34b-chat,B) Gatekeepers,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.5231,meta/code-llama-instruct-34b-chat,claude-v2,zero-one-ai/Yi-34B-Chat
+mmlu-high-school-microeconomics.val.173,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.1081,claude-v2,claude-v2,WizardLM/WizardLM-13B-V1.2
+arc-challenge.test.923,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+hellaswag.val.2275,gpt-4-1106-preview,gpt-4-1106-preview,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.1847,claude-v1,claude-v1 or claude-v2 or mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.3933,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.4666,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+arc-challenge.test.75,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+mbpp.dev.259,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,no_model_correct
+hellaswag.val.8816,claude-v1,claude-v1,mistralai/mistral-7b-chat
+mmlu-electrical-engineering.val.10,gpt-4-1106-preview,"B) correctness: 1.0, cost: 0.000249",WizardLM/WizardLM-13B-V1.2
+hellaswag.val.863,claude-v2,claude-v2,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.3733,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+mmlu-miscellaneous.val.523,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+arc-challenge.val.37,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+hellaswag.val.7254,claude-v2,claude-v2,claude-instant-v1
+grade-school-math.dev.4043,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,meta/llama-2-70b-chat
+hellaswag.val.9382,WizardLM/WizardLM-13B-V1.2,A) Men who don't want to compromise their fertility may increase their chances by switching to boxers. [substeps] The research shows that boxers can positively affect sperm quality.,mistralai/mistral-7b-chat
+hellaswag.val.7332,claude-v1,claude-v1,zero-one-ai/Yi-34B-Chat
+hellaswag.val.8211,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+mmlu-high-school-psychology.val.212,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+grade-school-math.dev.216,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1203,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-moral-disputes.val.252,WizardLM/WizardLM-13B-V1.2,meta/code-llama-instruct-34b-chat,gpt-4-1106-preview
+hellaswag.val.3480,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,no_model_correct
+mmlu-college-biology.val.8,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.972,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-chemistry.val.59,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+grade-school-math.dev.3228,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-machine-learning.val.50,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-medicine.val.154,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-moral-scenarios.val.66,claude-v1,"D) Wrong, Not wrong",no_model_correct
+mmlu-high-school-government-and-politics.val.59,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.1113,meta/llama-2-70b-chat,meta/llama-2-70b-chat,claude-v1
+grade-school-math.dev.4814,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-clinical-knowledge.val.65,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.653,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+mbpp.dev.122,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.6276,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+grade-school-math.dev.5657,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mistral-7b-chat
+hellaswag.val.3013,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.496,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+mmlu-miscellaneous.val.777,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+hellaswag.val.1740,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,meta/llama-2-70b-chat
+hellaswag.val.6582,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+hellaswag.val.2211,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,no_model_correct
+hellaswag.val.2767,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,no_model_correct
+hellaswag.val.4667,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-high-school-world-history.val.105,meta/code-llama-instruct-34b-chat,C) The ways of Heaven are not invariable: on the good-doer it sends down all blessings.,mistralai/mistral-7b-chat
+mmlu-security-studies.val.133,meta/llama-2-70b-chat,meta/llama-2-70b-chat,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.3392,claude-v1,"A) title: Find out if your dog likes to play with you. step: If it is a dog who loves toys, play with them and if they're really excited to play, then they enjoy you playing with them.",zero-one-ai/Yi-34B-Chat
+mmlu-astronomy.val.82,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+hellaswag.val.9435,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+hellaswag.val.7064,claude-v1,"A) Consume moderate amounts of proteins (like meat, fish, eggs, and beans) and milk products, and keep high-fat and sugary foods to a minimum. [substeps] Don\'t obsess",mistralai/mistral-7b-chat
+hellaswag.val.3232,meta/llama-2-70b-chat,meta/llama-2-70b-chat,gpt-3.5-turbo-1106
+mmlu-high-school-geography.val.81,claude-v1,claude-v1,mistralai/mistral-7b-chat
+hellaswag.val.4450,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.798,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+mmlu-elementary-mathematics.val.222,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.1316,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.1491,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+mmlu-medical-genetics.val.61,claude-v2,A) Monozygotic twins,mistralai/mistral-7b-chat
+hellaswag.val.8426,claude-v1,B) meta/code-llama-instruct-34b-chat,claude-instant-v1
+mmlu-high-school-chemistry.val.54,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,no_model_correct
+mmlu-prehistory.val.90,claude-v1,C) catastrophist,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.2688,claude-v2,claude-v2,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.5533,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.5776,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+hellaswag.val.6632,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+mmlu-miscellaneous.val.86,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-professional-law.val.481,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,claude-instant-v1
+grade-school-math.dev.5160,claude-v2,claude-v2,mistralai/mistral-7b-chat
+mmlu-clinical-knowledge.val.49,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+grade-school-math.dev.1842,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+mmlu-high-school-physics.val.67,claude-v2,"C) [substeps] Increased voltage and decreased resistance. According to Ohm's law, current (I) is directly proportional to voltage (V) and inversely proportional to resistance (R), as expressed by the formula",WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.5193,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.8699,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,no_model_correct
+hellaswag.val.5211,claude-v2,B) meta/code-llama-instruct-34b-chat,claude-instant-v1
+grade-school-math.dev.1009,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-accounting.val.59,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+mmlu-moral-disputes.val.153,meta/llama-2-70b-chat,meta/llama-2-70b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-psychology.val.144,meta/code-llama-instruct-34b-chat,D,WizardLM/WizardLM-13B-V1.2
+abstract2title.test.104,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+hellaswag.val.8980,claude-v1,claude-v1,zero-one-ai/Yi-34B-Chat
+mmlu-public-relations.val.85,claude-v1,claude-v1,WizardLM/WizardLM-13B-V1.2
+mmlu-medical-genetics.val.52,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-government-and-politics.val.11,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+bias_detection.dev.284,meta/code-llama-instruct-34b-chat,"meta/code-llama-instruct-34b-chat
+
+Reasoning: The sentence provided is a direct quote from a former official, which classifies it as a quote. It does not contain any personal view, jud",claude-v1
+bias_detection.dev.161,meta/code-llama-instruct-34b-chat,"meta/code-llama-instruct-34b-chat
+
+Reasoning: The sentence provided is a statement that seems to express a viewpoint or judgement about the potential actions of Ukrainian leaders without presenting direct",WizardLM/WizardLM-13B-V1.2
+hellaswag.val.10010,claude-v2,A) WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+grade-school-math.dev.4245,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,claude-instant-v1
+hellaswag.val.2557,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-psychology.val.186,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.6509,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+mmlu-jurisprudence.val.107,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-high-school-european-history.val.11,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,claude-v2
+hellaswag.val.7994,mistralai/mistral-7b-chat,A) Soft covers also offer smoother seals from a faster process and produce better results than hard covers. Soft covers can also have more unique seals.,gpt-3.5-turbo-1106
+mbpp.dev.384,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1272,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+mmlu-international-law.val.12,claude-v1,B) meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.403,WizardLM/WizardLM-13B-V1.2,D,mistralai/mixtral-8x7b-chat
+hellaswag.val.489,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.234,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+hellaswag.val.4466,claude-v1,B) One way to do this is to try the 5-4-3-2-1 exercise. This exercises engages your senses and it can help to soothe anxiety.,zero-one-ai/Yi-34B-Chat
+mmlu-high-school-macroeconomics.val.316,gpt-4-1106-preview,gpt-4-1106-preview,mistralai/mixtral-8x7b-chat
+bias_detection.dev.27,meta/code-llama-instruct-34b-chat,"meta/code-llama-instruct-34b-chat
+
+Reasoning: The sentence provided is a factual statement that directly references a specific law, the 2005 Protection of Lawful Commerce in",no_model_correct
+mmlu-moral-scenarios.val.391,WizardLM/WizardLM-13B-V1.2,"D) Wrong, Not wrong",zero-one-ai/Yi-34B-Chat
+mmlu-professional-psychology.val.123,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.390,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.6830,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+mmlu-us-foreign-policy.val.62,WizardLM/WizardLM-13B-V1.2,"D) I, II, and III",mistralai/mixtral-8x7b-chat
+winogrande.dev.95,claude-v1,claude-v1,claude-instant-v1
+grade-school-math.dev.3870,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+hellaswag.val.870,claude-v2,claude-v2,WizardLM/WizardLM-13B-V1.2
+mmlu-clinical-knowledge.val.8,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+mmlu-high-school-geography.val.98,meta/code-llama-instruct-34b-chat,A) Origin point,mistralai/mistral-7b-chat
+bias_detection.dev.140,meta/code-llama-instruct-34b-chat,"meta/code-llama-instruct-34b-chat
+
+Reasoning: The sentence provided is a direct quote from an individual expressing a hope and a viewpoint about a political situation, which makes it a quote.",WizardLM/WizardLM-13B-V1.2
+hellaswag.val.9123,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.24,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,claude-instant-v1
+mmlu-high-school-us-history.val.54,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+mmlu-miscellaneous.val.551,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+mmlu-formal-logic.val.61,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+mmlu-management.val.48,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+abstract2title.test.133,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+hellaswag.val.857,claude-v2,claude-v2,mistralai/mistral-7b-chat
+mmlu-logical-fallacies.val.88,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,no_model_correct
+grade-school-math.dev.5394,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+mmlu-high-school-us-history.val.26,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+arc-challenge.test.698,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+mmlu-miscellaneous.val.73,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+mmlu-electrical-engineering.val.105,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,no_model_correct
+mmlu-professional-law.val.1446,claude-v1,claude-v1,mistralai/mistral-7b-chat
+grade-school-math.dev.4297,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+mmlu-high-school-macroeconomics.val.138,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-human-aging.val.179,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+mmlu-moral-scenarios.val.371,WizardLM/WizardLM-13B-V1.2,"D) Wrong, Not wrong",gpt-4-1106-preview
+grade-school-math.dev.155,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+mmlu-high-school-physics.val.132,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.164,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,WizardLM/WizardLM-13B-V1.2
+bias_detection.dev.209,meta/code-llama-instruct-34b-chat,"WizardLM/WizardLM-113B-V1.2 — The sentence ""Moscow declared a state of emergency and made some weak attempts to stop the advance of Prigozhin's fighters""",no_model_correct
+mmlu-professional-law.val.1061,claude-v1,claude-v1,WizardLM/WizardLM-13B-V1.2
+mmlu-college-mathematics.val.52,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+mmlu-moral-scenarios.val.444,claude-v1,"C) Wrong, Not wrong",WizardLM/WizardLM-13B-V1.2
+mmlu-miscellaneous.val.105,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.923,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.5486,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+hellaswag.val.8591,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+grade-school-math.dev.2128,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.3783,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.2924,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mistral-7b-chat
+mtbench.dev.37,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-professional-law.val.515,gpt-4-1106-preview,gpt-4-1106-preview,mistralai/mistral-7b-chat
+mmlu-jurisprudence.val.95,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.2467,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-miscellaneous.val.446,meta/llama-2-70b-chat,B) marmot,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.1087,claude-v1,claude-v1,mistralai/mistral-7b-chat
+mmlu-professional-medicine.val.104,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.5064,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,gpt-3.5-turbo-1106
+hellaswag.val.4387,claude-v1,A) Give them consistent access to playtimes that are healthy. Having a routine also will increase the likelihood your dog will get your attention and help you bond.,zero-one-ai/Yi-34B-Chat
+mmlu-high-school-mathematics.val.46,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,gpt-4-1106-preview
+arc-challenge.test.598,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+hellaswag.val.4724,claude-v2,claude-v2,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.7164,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mistral-7b-chat
+grade-school-math.dev.1868,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,gpt-3.5-turbo-1106
+mmlu-high-school-european-history.val.13,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,no_model_correct
+mmlu-computer-security.val.50,WizardLM/WizardLM-13B-V1.2,"C) C, C++",mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.1377,meta/code-llama-instruct-34b-chat,claude-v2,mistralai/mixtral-8x7b-chat
+hellaswag.val.3481,claude-v2,claude-v2,zero-one-ai/Yi-34B-Chat
+mmlu-business-ethics.val.62,claude-v1,"C) 1,3",mistralai/mixtral-8x7b-chat
+hellaswag.val.8999,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,no_model_correct
+arc-challenge.val.48,gpt-4-1106-preview,gpt-4-1106-preview,zero-one-ai/Yi-34B-Chat
+mmlu-professional-medicine.val.161,claude-v2,C) Crossover,mistralai/mistral-7b-chat
+mmlu-college-biology.val.97,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+grade-school-math.dev.7010,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+abstract2title.test.28,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+hellaswag.val.214,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.442,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.3284,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat
+mmlu-moral-scenarios.val.810,mistralai/mistral-7b-chat,"B) Not wrong, Wrong",WizardLM/WizardLM-13B-V1.2
+hellaswag.val.1696,claude-v2,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+grade-school-math.dev.6477,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+mmlu-high-school-statistics.val.50,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+hellaswag.val.7806,WizardLM/WizardLM-13B-V1.2,A) WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+grade-school-math.dev.1218,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.6534,claude-v2,B) meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.465,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,no_model_correct
+hellaswag.val.4161,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-college-biology.val.40,claude-v2,C) WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+hellaswag.val.2026,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1067,claude-v1,"A) denied, because double jeopardy rights do not attach unless there has been an acquittal or conviction.",no_model_correct
+mmlu-miscellaneous.val.131,meta/code-llama-instruct-34b-chat,B) 50,mistralai/mixtral-8x7b-chat
+hellaswag.val.8944,claude-v2,"B) This is a good choice for heavy eye makeup--just make sure you shake the bottle thoroughly before use, as the formula tends to separate. [substeps] If you use waterproof mascara and liner or very",zero-one-ai/Yi-34B-Chat
+hellaswag.val.3283,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,meta/llama-2-70b-chat
+mmlu-professional-law.val.1521,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.2789,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+hellaswag.val.5947,claude-instant-v1,A) Making an assessment on your own can lead to misdiagnosis or complications from self-treatment. Ask your doctor any questions you may have about individual or total levels and what they may indicate.,mistralai/mistral-7b-chat
+mmlu-elementary-mathematics.val.298,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.4366,gpt-4-1106-preview,gpt-4-1106-preview,gpt-3.5-turbo-1106
+mmlu-international-law.val.92,meta/code-llama-instruct-34b-chat,D) meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.5668,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+mmlu-anatomy.val.127,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+arc-challenge.test.408,claude-v1,claude-v1,mistralai/mistral-7b-chat
+mmlu-anatomy.val.57,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+mmlu-electrical-engineering.val.23,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-world-history.val.156,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+hellaswag.val.807,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.265,zero-one-ai/Yi-34B-Chat,zero-one-ai/Yi-34B-Chat,gpt-4-1106-preview
+mmlu-high-school-macroeconomics.val.285,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+grade-school-math.dev.1916,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-mathematics.val.133,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-international-law.val.81,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.1130,WizardLM/WizardLM-13B-V1.2,"A) No, the statute violates the First Amendment right to publish protected commercial speech.",mistralai/mistral-7b-chat
+mmlu-machine-learning.val.41,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.3784,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+hellaswag.val.3353,WizardLM/WizardLM-13B-V1.2,"A) Drain all but 1 cup (237 ml) of the liquid, mash the potato, then drizzle it with oil. [substeps] Allow your potatoes and water to cool until they are lu",mistralai/mistral-7b-chat
+grade-school-math.dev.5036,claude-v1,claude-v1,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.5183,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.4728,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-abstract-algebra.val.50,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-nutrition.val.288,meta/code-llama-instruct-34b-chat,D) chylomicrons,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.4811,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+mbpp.dev.43,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+mmlu-moral-scenarios.val.252,claude-v1,"A) Wrong, Not wrong",zero-one-ai/Yi-34B-Chat
+accounting_audit.dev.5,WizardLM/WizardLM-13B-V1.2,A,zero-one-ai/Yi-34B-Chat
+hellaswag.val.1952,claude-v1,claude-v1 or claude-v2,claude-v1
+grade-school-math.dev.5514,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+hellaswag.val.4792,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-high-school-european-history.val.65,gpt-4-1106-preview,gpt-4-1106-preview,mistralai/mixtral-8x7b-chat
+mmlu-high-school-mathematics.val.140,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,claude-instant-v1
+arc-challenge.test.367,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-miscellaneous.val.384,gpt-4-1106-preview,B) Sensation,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-psychology.val.430,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-marketing.val.180,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+mmlu-miscellaneous.val.61,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.3744,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,gpt-4-1106-preview
+grade-school-math.dev.2702,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+grade-school-math.dev.3386,claude-v1,claude-v1,gpt-3.5-turbo-1106
+mmlu-moral-scenarios.val.112,WizardLM/WizardLM-13B-V1.2,"B) Wrong, Wrong",WizardLM/WizardLM-13B-V1.2
+hellaswag.val.9644,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+winogrande.dev.513,claude-v1,claude-v1,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1338,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+mmlu-abstract-algebra.val.58,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,no_model_correct
+mmlu-professional-psychology.val.437,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.790,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+arc-challenge.test.725,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+arc-challenge.test.1081,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+grade-school-math.dev.2999,meta/llama-2-70b-chat,meta/llama-2-70b-chat,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.2883,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.654,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-world-history.val.83,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-world-religions.val.84,meta/llama-2-70b-chat,B) Correct knowledge,no_model_correct
+consensus_summary.dev.290,meta/code-llama-instruct-34b-chat,N-A,WizardLM/WizardLM-13B-V1.2
+mmlu-conceptual-physics.val.83,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+hellaswag.val.543,gpt-4-1106-preview,gpt-4-1106-preview,WizardLM/WizardLM-13B-V1.2
+consensus_summary.dev.8,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,meta/llama-2-70b-chat
+grade-school-math.dev.3865,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.7191,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-psychology.val.301,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-medicine.val.236,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+arc-challenge.test.2,claude-v1,claude-v1,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.5832,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,gpt-3.5-turbo-1106
+hellaswag.val.4965,claude-v1,C) meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+hellaswag.val.2215,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.1244,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+grade-school-math.dev.3376,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,claude-instant-v1
+mmlu-miscellaneous.val.660,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.6695,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+mmlu-moral-scenarios.val.845,claude-v1,"B) Wrong, Not wrong",mistralai/mixtral-8x7b-chat
+hellaswag.val.5829,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,gpt-3.5-turbo-1106
+mmlu-miscellaneous.val.493,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-miscellaneous.val.63,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-miscellaneous.val.35,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+winogrande.dev.953,claude-v1,A) Lindsey,mistralai/mistral-7b-chat
+grade-school-math.dev.6584,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.1937,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.8977,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-philosophy.val.189,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+hellaswag.val.6160,mistralai/mistral-7b-chat,"A) Offer her plenty of liquids frequently and encourage her to drink even if she isn't thirsty. [substeps] Good drinks include water, juice, clear broth, or warm lemon water.",mistralai/mistral-7b-chat
+hellaswag.val.7074,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-global-facts.val.77,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.7917,meta/code-llama-instruct-34b-chat,"A) Pack a couple sandwiches, take the kids into the woods and hike a deer trail through the woods. As you go : [substeps] Let the kids ask questions.",mistralai/mistral-7b-chat
+mmlu-high-school-biology.val.289,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-international-law.val.94,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+winogrande.dev.1014,claude-v1,A) Rachel,mistralai/mistral-7b-chat
+hellaswag.val.6587,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,claude-instant-v1
+hellaswag.val.2461,gpt-4-1106-preview,gpt-4-1106-preview,meta/llama-2-70b-chat
+grade-school-math.dev.6641,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+grade-school-math.dev.1799,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+mmlu-high-school-computer-science.val.54,claude-v1,C) heads_counter = 2,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.3174,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,claude-instant-v1
+mmlu-high-school-microeconomics.val.59,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+grade-school-math.dev.5984,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+hellaswag.val.592,meta/llama-2-70b-chat,meta/llama-2-70b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-moral-disputes.val.144,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+hellaswag.val.2560,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+mmlu-high-school-macroeconomics.val.144,meta/code-llama-instruct-34b-chat,A) The consumer price index,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.3455,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+grade-school-math.dev.5557,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+consensus_summary.dev.213,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+grade-school-math.dev.6989,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.250,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+mmlu-clinical-knowledge.val.104,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.5450,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.2797,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.2760,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,gpt-4-1106-preview
+grade-school-math.dev.4473,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,gpt-4-1106-preview
+hellaswag.val.5949,meta/code-llama-instruct-34b-chat,C) meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.188,claude-v1,claude-v1,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-biology.val.252,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.8592,claude-v2,B) claude-v2,zero-one-ai/Yi-34B-Chat
+mmlu-college-physics.val.94,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,claude-instant-v1
+grade-school-math.dev.2318,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+mmlu-global-facts.val.99,gpt-4-1106-preview,gpt-4-1106-preview,zero-one-ai/Yi-34B-Chat
+hellaswag.val.9608,mistralai/mixtral-8x7b-chat,"A) [substeps] Use wire or a head pin depending on how you want your nose ring to look. For example, do you want your hoop to be thick (head pin) or thin (wire), gold or silver.",mistralai/mistral-7b-chat
+hellaswag.val.886,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,claude-instant-v1
+grade-school-math.dev.617,gpt-4-1106-preview,gpt-4-1106-preview,claude-instant-v1
+grade-school-math.dev.1245,meta/llama-2-70b-chat,meta/llama-2-70b-chat,meta/code-llama-instruct-34b-chat
+grade-school-math.dev.136,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat
+mmlu-college-mathematics.val.50,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,claude-instant-v1
+arc-challenge.test.506,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+arc-challenge.test.816,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-prehistory.val.156,claude-v1,claude-v1,mistralai/mixtral-8x7b-chat
+mmlu-nutrition.val.0,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mixtral-8x7b-chat
+mmlu-high-school-european-history.val.163,claude-v1,claude-v1,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.3702,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+hellaswag.val.3781,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+mtbench-reference.dev.2,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,gpt-3.5-turbo-1106
+mmlu-high-school-macroeconomics.val.332,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+hellaswag.val.5627,claude-v1,A) claude-instant-v1,mistralai/mistral-7b-chat
+grade-school-math.dev.3848,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+hellaswag.val.5919,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,claude-instant-v1
+grade-school-math.dev.514,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+mmlu-moral-disputes.val.209,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+hellaswag.val.7791,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-human-sexuality.val.26,WizardLM/WizardLM-13B-V1.2,A) corpus luteum,mistralai/mistral-7b-chat
+mmlu-nutrition.val.22,WizardLM/WizardLM-13B-V1.2,A) Both of the options given are correct.,mistralai/mistral-7b-chat
+hellaswag.val.4039,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,claude-instant-v1
+arc-challenge.test.709,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.2905,claude-v2,claude-v2,mistralai/mistral-7b-chat
+mmlu-moral-scenarios.val.328,WizardLM/WizardLM-13B-V1.2,"D) Wrong, Wrong",zero-one-ai/Yi-34B-Chat
+hellaswag.val.8690,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-jurisprudence.val.44,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.7593,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.119,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,claude-instant-v1
+bias_detection.dev.77,meta/code-llama-instruct-34b-chat,"meta/code-llama-instruct-34b-chat
+
+Reasoning: The given sentence includes a direct quote from an unspecified person, which classifies it as a quote. The quote, “I think it",mistralai/mixtral-8x7b-chat
+arc-challenge.test.635,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.210,gpt-4-1106-preview,gpt-4-1106-preview,mistralai/mixtral-8x7b-chat
+hellaswag.val.3963,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+hellaswag.val.2713,claude-v1,claude-v1,mistralai/mistral-7b-chat
+mmlu-high-school-macroeconomics.val.35,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+mbpp.dev.298,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat
+grade-school-math.dev.3536,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+mmlu-college-medicine.val.168,gpt-4-1106-preview,gpt-4-1106-preview,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.638,claude-v1,claude-v1,mistralai/mixtral-8x7b-chat
+hellaswag.val.5922,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-nutrition.val.220,WizardLM/WizardLM-13B-V1.2,D) All of the options given are correct,WizardLM/WizardLM-13B-V1.2
+mmlu-human-sexuality.val.33,zero-one-ai/Yi-34B-Chat,zero-one-ai/Yi-34B-Chat,mistralai/mistral-7b-chat
+winogrande.dev.129,claude-v1,"claude-v1 or claude-v2 (both have the same correctness and cost, choose either)",WizardLM/WizardLM-13B-V1.2
+mmlu-prehistory.val.122,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-high-school-physics.val.103,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+mmlu-nutrition.val.156,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+mmlu-moral-scenarios.val.285,claude-v1,"B) Not wrong, Wrong",zero-one-ai/Yi-34B-Chat
+winogrande.dev.361,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-high-school-mathematics.val.229,claude-v2,claude-v2,no_model_correct
+grade-school-math.dev.7065,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+mmlu-elementary-mathematics.val.218,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+winogrande.dev.1012,claude-v1,claude-v1,mistralai/mistral-7b-chat
+hellaswag.val.8217,meta/code-llama-instruct-34b-chat,B) meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.209,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-mathematics.val.142,WizardLM/WizardLM-13B-V1.2,A),mistralai/mistral-7b-chat
+grade-school-math.dev.180,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+mmlu-logical-fallacies.val.100,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mistral-7b-chat
+hellaswag.val.178,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2

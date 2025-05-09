@@ -13,7 +13,7 @@ torch.cuda.empty_cache()
 gc.collect()
 
 CHECKPOINT_EVERY = 5
-output_file = "phi_routing_results_log_probs_5shot.csv"
+output_file = "phi_routing_results_log_probs_5shot_test2_diverse.csv"
 
 parser = argparse.ArgumentParser(description="LLM Router Configuration")
 
@@ -107,10 +107,22 @@ for _, row in few_shot_data.iterrows():
             f"{model} — correctness: {row[model]}, cost: {row[f'{model}|total_cost']}"
             for model in candidate_models
         ]
-        messages.append({"role": "user", "content": f"Prompt: {prompt}\n" + "\n".join(model_stats)})
+        messages.append({
+            "role": "user",
+            "content": (
+                f"Prompt: {prompt}\n\n"
+                f"Following are the correctness and cost values for each available model for the above prompt:\n"
+                + "\n".join(model_stats)
+                + "\n\nYou are an intelligent LLM router. You must understand the prompt and evaluate each model based on both correctness and cost.\n"
+                + "Always choose a model with correctness = 1 (i.e., one that answers the prompt correctly).\n"
+                + "If multiple models are correct, select the one with the lowest cost.\n"
+                + "What is the correct model to route this prompt to?\n"
+                + "Respond with only the model name."
+            )
+        })
         messages.append({"role": "assistant", "content": row['oracle_model_to_route_to']})
         curr_num_of_shots += 1
-        print(sample_id)
+        print(oracle_model)
         if pick_diverse_prompts:
             candidate_models_set.remove(oracle_model)
 
@@ -205,7 +217,7 @@ else:
 # Run evaluation
 all_outputs = []
 
-# test_data = test_data.sample(n=1000, random_state=42)
+# test_data = test_data.sample(n=10, random_state=42)
 count = 0
 for _, row in test_data.iterrows():
     count += 1
@@ -219,8 +231,10 @@ for _, row in test_data.iterrows():
         "role": "user",
         "content": (
             f"Prompt: {prompt}\n\n"
-            f"Which model is best suited to answer this prompt?\n"
-            f"Respond with only the model name.\n\n"
+            f"You are an intelligent LLM router.\n"
+            f"Based on your understanding of the prompt and the capabilities of the models listed below,\n"
+            f"Choose the most suitable model to answer this prompt.\n\n"
+            f"Respond with only the model name, exactly as listed below — no explanation or extra text.\n"
             f"Available models: {', '.join(candidate_models)}"
         )
     }]

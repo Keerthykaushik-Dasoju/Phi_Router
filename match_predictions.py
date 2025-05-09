@@ -3,21 +3,15 @@ from datetime import datetime
 
 # Load both files
 test_df = pd.read_csv("/work/pi_wenlongzhao_umass_edu/25/data/routerbench/routerbench_0shot_test.csv")
-router_df = pd.read_csv("/work/pi_wenlongzhao_umass_edu/25/kdasoju/Phi3.5_Router/test.csv")
+router_df = pd.read_csv("/work/pi_wenlongzhao_umass_edu/25/kdasoju/Phi3.5_Router/phi_routing_results_log_probs_5shot_pos4.csv")
 
 # All model names (11 total)
 model_names = [
-    "WizardLM/WizardLM-13B-V1.2",
-    "claude-instant-v1",
-    "claude-v1",
-    "claude-v2",
-    "gpt-3.5-turbo-1106",
-    "gpt-4-1106-preview",
-    "meta/code-llama-instruct-34b-chat",
-    "meta/llama-2-70b-chat",
     "mistralai/mistral-7b-chat",
+    "WizardLM/WizardLM-13B-V1.2",
     "mistralai/mixtral-8x7b-chat",
-    "zero-one-ai/Yi-34B-Chat"
+    'meta/code-llama-instruct-34b-chat',
+    "gpt-4-1106-preview",
 ]
 
 # Initialize list to collect final rows
@@ -25,7 +19,11 @@ final_rows = []
 not_a_valid_model_response_count = 0
 test_row_not_found_count = 0
 
+count = 0
 for _, row in router_df.iterrows():
+    count += 1
+    if count > 50:
+        break
     sample_id = row["sample_id"]
     predicted_model = row["phi_prediction"]
 
@@ -67,7 +65,7 @@ for _, row in router_df.iterrows():
 final_df = pd.DataFrame(final_rows)
 timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
 # output_file = f"phi_routing_results_log_probs_with_scores_11shot_{timestamp}.csv"
-output_file = f"test_scores.csv"
+output_file = f"phi_routing_results_log_probs_with_scores_5shot_pos4.csv"
 # Save the result
 final_df.to_csv(output_file, index=False)
 

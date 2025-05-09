@@ -1,0 +1,1325 @@
+sample_id,phi_prediction,phi_response,oracle_model_to_route
+mmlu-high-school-macroeconomics.val.127,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+mmlu-formal-logic.val.82,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,claude-instant-v1
+hellaswag.val.7968,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.4037,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-global-facts.val.6,WizardLM/WizardLM-13B-V1.2,"WizardLM/WizardLM-13B-V1.2
+
+The correct answer to the prompt is not provided in the instruction, but based on the latest available data from sources such as the World Health Organization (WHO",WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.1409,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-high-school-microeconomics.val.133,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.3926,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-moral-scenarios.val.389,gpt-4-1106-preview,"D) Wrong, Wrong
+
+The best-suited model for answering this prompt would be one that has a high correctness score for understanding moral standards. Since all models have a correctness score of 1.0, any of",WizardLM/WizardLM-13B-V1.2
+hellaswag.val.3378,claude-v1,C) [substeps] Call the cemetery where you will be interring your loved one and ask them if there are size limitations on headstones. [title] Consult the cemetery about regulations on headstone type.,zero-one-ai/Yi-34B-Chat
+winogrande.dev.647,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+mmlu-security-studies.val.180,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+arc-challenge.test.959,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.558,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,gpt-4-1106-preview
+mmlu-high-school-psychology.val.109,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.5826,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-psychology.val.206,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.763,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.6880,claude-v1,A),zero-one-ai/Yi-34B-Chat
+hellaswag.val.6222,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,zero-one-ai/Yi-34B-Chat
+mmlu-high-school-microeconomics.val.49,WizardLM/WizardLM-13B-V1.2,"A) The quantity demanded equals the quantity supplied of good X.
+
+The best-suited model for answering this prompt would be WizardLM/WizardLM-13B-V1.2, as it has a correctness",mistralai/mistral-7b-chat
+arc-challenge.test.59,WizardLM/WizardLM-13B-V1.2,"A) NaCl + H_{2}O
+WizardLM/WizardLM-13B-V1.2",mistralai/mistral-7b-chat
+mmlu-high-school-psychology.val.532,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+mmlu-electrical-engineering.val.72,WizardLM/WizardLM-13B-V1.2,"B) LED
+
+The LED (Light Emitting Diode) lamp is known for having a high Color Rendering Index (CRI), which measures the ability of a light source to accurately reproduce the colors of various objects in comparison to a",mistralai/mixtral-8x7b-chat
+arc-challenge.val.125,WizardLM/WizardLM-13B-V1.2,"WizardLM/WizardLM-13B-V1.2
+
+The correct answer to the prompt is B) mass. When an ice cube melts, it turns into water, and when it evaporates, it turns",mistralai/mixtral-8x7b-chat
+mmlu-professional-psychology.val.581,WizardLM/WizardLM-13B-V1.2,meta/code-llama-instruct-34b-chat,claude-instant-v1
+hellaswag.val.9534,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-human-aging.val.140,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.3972,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.1172,gpt-4-1106-preview,"B) Interstate travel
+
+The best-suited model for answering this prompt would be one that has knowledge of U.S. constitutional law and the standards of judicial review. While all the models listed are capable of providing information,",claude-instant-v1
+grade-school-math.dev.1844,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.2702,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+grade-school-math.dev.6893,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.2730,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.4709,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+mmlu-elementary-mathematics.val.360,WizardLM/WizardLM-13B-V1.2,"WizardLM/WizardLM-13B-V1.2
+
+To solve this prompt, we need to divide the total number of guests by the number of seats per table and then round up to the nearest whole number since we",mistralai/mistral-7b-chat
+mmlu-human-sexuality.val.63,WizardLM/WizardLM-13B-V1.2,gpt-4-1106-preview,WizardLM/WizardLM-13B-V1.2
+mmlu-college-medicine.val.154,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+grade-school-math.dev.6302,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,meta/llama-2-70b-chat
+grade-school-math.dev.2020,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-high-school-world-history.val.163,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-econometrics.val.76,WizardLM/WizardLM-13B-V1.2,B) (ii) and (iv) only,WizardLM/WizardLM-13B-V1.2
+consensus_summary.dev.13,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,claude-v1
+hellaswag.val.10012,WizardLM/WizardLM-13B-V1.2,"A) [title] Present the soccer ball to your child on a special day, maybe their birthday. [step] This will help your child to associate it with a fun occasion, seeing it as a gift and an opportunity to learn",mistralai/mistral-7b-chat
+arc-challenge.val.282,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.93,WizardLM/WizardLM-13B-V1.2,"WizardLM/WizardLM-13B-V1.2
+
+The Sixth Amendment to the United States Constitution guarantees the rights of criminal defendants, including the right to a public trial without unnecessary delay, the",mistralai/mixtral-8x7b-chat
+mmlu-world-religions.val.11,WizardLM/WizardLM-13B-V1.2,"D) Soto Zen
+
+The best-suited model for answering this prompt would be one that has a high correctness score for this specific topic. Since the correct answer is related to a religious or philosophical tradition, a model with",mistralai/mixtral-8x7b-chat
+winogrande.dev.742,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-electrical-engineering.val.135,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,zero-one-ai/Yi-34B-Chat
+mmlu-elementary-mathematics.val.233,WizardLM/WizardLM-13B-V1.2,"WizardLM/WizardLM-13B-V1.2
+
+Explanation:
+To solve this problem, we need to convert the weight of the dog food from pounds to ounces and then divide by the amount",no_model_correct
+mmlu-world-religions.val.44,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+consensus_summary.dev.292,meta/code-llama-instruct-34b-chat,N-A (The provided claims do not offer a clear answer to which college tuition policy is best. They discuss various aspects and implications of different policies without concluding which one is superior.),claude-instant-v1
+mmlu-clinical-knowledge.val.142,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+mmlu-high-school-geography.val.73,meta/code-llama-instruct-34b-chat,"meta/code-llama-instruct-34b-chat
+
+The prompt asks for a distinct characteristic of an East European city, which is a factual question about geography and urban planning. The meta/code-llama",WizardLM/WizardLM-13B-V1.2
+hellaswag.val.5893,claude-v1,"A) [substeps] Once you've noticed the bad mood coming on, consider whether your changes in mood have caused it (and what similar events have affected you in the past). The common causes of bad moods in most",zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.1110,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,no_model_correct
+mmlu-business-ethics.val.77,gpt-4-1106-preview,gpt-4-1106-preview,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-accounting.val.138,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.4374,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1169,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.278,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,claude-instant-v1
+mmlu-high-school-psychology.val.475,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+bias_detection.dev.62,WizardLM/WizardLM-13B-V1.2,"WizardLM/WizardLM-13B-V1.2
+
+Reasoning: The sentence provided is a direct quote from a person, specifically President Biden, which is used to illustrate a claim about his environmental endors",mistralai/mixtral-8x7b-chat
+arc-challenge.test.667,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+accounting_audit.dev.6,gpt-4-1106-preview,B. Evaluate the sample results.,claude-instant-v1
+hellaswag.val.7030,claude-v1,"B) [substeps] Ask yourself how much time you spend with your spouse, then compare that to the amount of time you spend at work (excluding the time you must spend working), with friends, with family, or online. E",zero-one-ai/Yi-34B-Chat
+hellaswag.val.8370,WizardLM/WizardLM-13B-V1.2,"A) [title] Choose the type and size of machines that best meet your location needs. [step] Guesstimate the size of the equipment you need by assuming a daily average of one vend, per machine, per person.",mistralai/mistral-7b-chat
+mmlu-international-law.val.119,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+arc-challenge.test.602,WizardLM/WizardLM-13B-V1.2,"WizardLM/WizardLM-13B-V1.2
+
+To calculate Arturo's average speed, we use the formula:
+
+Speed = Distance / Time
+
+First, we need to convert the time",mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.498,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.1023,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,zero-one-ai/Yi-34B-Chat
+hellaswag.val.3857,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,claude-instant-v1
+hellaswag.val.1881,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+mmlu-college-chemistry.val.80,WizardLM/WizardLM-13B-V1.2,"WizardLM/WizardLM-13B-V1.2
+
+The prompt asks for the identification of a metal ion that cannot act as a paramagnetic quencher. Paramagnetic quenchers are typically",no_model_correct
+hellaswag.val.325,mistralai/mistral-7b-chat,"mistralai/mistral-7b-chat
+
+This model is chosen because the prompt describes a scenario that is likely to be related to skincare or beauty routines, which fits within the context of a video demonstrating how",mistralai/mistral-7b-chat
+mmlu-professional-law.val.1113,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-prehistory.val.36,WizardLM/WizardLM-13B-V1.2,"B) Aztec; Tenochtitlán.
+
+The best-suited model for this prompt would be one that has knowledge of historical facts, specifically about the Aztec civilization and its capital, Tenochtitlán",WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.2065,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.7399,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,gpt-3.5-turbo-1106
+mmlu-high-school-us-history.val.104,meta/code-llama-instruct-34b-chat,"None of the provided models directly relate to Susan B. Anthony or her appeals for women's equality. The correct answer to the question is not among the choices given, as Susan B. Anthony's advocacy for women's rights is",mistralai/mistral-7b-chat
+mmlu-nutrition.val.45,claude-instant-v1,claude-instant-v1,mistralai/mixtral-8x7b-chat
+arc-challenge.test.986,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.846,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,no_model_correct
+mmlu-anatomy.val.29,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,claude-v2
+mmlu-professional-law.val.1523,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+mmlu-moral-scenarios.val.785,WizardLM/WizardLM-13B-V1.2,"D) Wrong, Not wrong
+
+The model best suited to answer this prompt would be one that has a good understanding of moral standards and the ability to discern between actions that are generally considered morally acceptable and those that are not.",zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.2940,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+hellaswag.val.3806,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.192,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-management.val.57,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,gpt-3.5-turbo-1106
+mmlu-human-sexuality.val.62,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,zero-one-ai/Yi-34B-Chat
+mmlu-high-school-psychology.val.444,WizardLM/WizardLM-13B-V1.2,"WizardLM/WizardLM-13B-V1.2
+
+Explanation:
+The ability to differentiate between two notes played on different instruments, such as a violin and a piano, is primarily due to the",mistralai/mixtral-8x7b-chat
+mmlu-moral-scenarios.val.362,WizardLM/WizardLM-13B-V1.2,"D) Not wrong, Wrong
+
+The best-suited model for answering this prompt would be one that has a high correctness score for understanding moral judgments. While all the models listed are capable of generating responses, the Wizard",gpt-4-1106-preview
+mmlu-professional-law.val.997,zero-one-ai/Yi-34B-Chat,zero-one-ai/Yi-34B-Chat,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.7413,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+hellaswag.val.7488,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,claude-instant-v1
+grade-school-math.dev.4320,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,meta/llama-2-70b-chat
+mmlu-philosophy.val.96,WizardLM/WizardLM-13B-V1.2,"WizardLM/WizardLM-13B-V1.2
+
+This model is chosen because it has a correctness score of 1.0, indicating that it is expected to provide the correct answer to the philosophical question",claude-instant-v1
+grade-school-math.dev.1249,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,claude-instant-v1
+mmlu-miscellaneous.val.515,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+hellaswag.val.3235,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1344,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+arc-challenge.val.249,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+grade-school-math.dev.5107,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+hellaswag.val.9635,WizardLM/WizardLM-13B-V1.2,A) WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-econometrics.val.62,WizardLM/WizardLM-13B-V1.2,"C) (i), (ii), (iii), and (iv) only",mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.618,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+mmlu-moral-scenarios.val.674,WizardLM/WizardLM-13B-V1.2,"D) Wrong, Not wrong
+
+The best-suited model for answering this prompt would be one that has a high correctness score for understanding moral judgments. While all the models listed are capable of providing an answer, the W",gpt-4-1106-preview
+mmlu-professional-law.val.708,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,claude-instant-v1
+hellaswag.val.7853,meta/code-llama-instruct-34b-chat,B) mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-security-studies.val.98,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+hellaswag.val.9812,WizardLM/WizardLM-13B-V1.2,B) WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+mmlu-clinical-knowledge.val.137,WizardLM/WizardLM-13B-V1.2,"WizardLM/WizardLM-13B-V1.2
+
+The prompt asks for the most likely cause of deviation of the trachea, which is a medical condition. The correct answer would be related to a condition that",mistralai/mistral-7b-chat
+grade-school-math.dev.4419,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-microeconomics.val.171,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.564,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,meta/code-llama-instruct-34b-chat
+hellaswag.val.7887,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.1526,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+hellaswag.val.278,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.2210,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mbpp.dev.175,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,meta/code-llama-instruct-34b-chat
+grade-school-math.dev.3037,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+hellaswag.val.4522,WizardLM/WizardLM-13B-V1.2,"A) """,mistralai/mistral-7b-chat
+hellaswag.val.7739,mistralai/mistral-7b-chat,D) mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-anatomy.val.26,WizardLM/WizardLM-13B-V1.2,"D) Nephrolithiasis
+
+The best-suited model for answering this prompt would be one that has a high correctness score for medical-related questions. While all the models listed are capable of providing information, the Wizard",mistralai/mistral-7b-chat
+mmlu-professional-law.val.406,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-professional-accounting.val.45,claude-v1,"B) One.
+
+The best-suited model for answering this prompt would be one that has knowledge of tax law and the rules governing life insurance policies and gift taxes. While none of the models listed explicitly state they have tax",mistralai/mixtral-8x7b-chat
+grade-school-math.dev.1740,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+grade-school-math.dev.416,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-abstract-algebra.val.48,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,claude-v1
+mmlu-professional-law.val.107,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+mmlu-high-school-macroeconomics.val.109,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,zero-one-ai/Yi-34B-Chat
+mmlu-moral-scenarios.val.27,claude-v1,"C) Not wrong, Wrong
+
+The best-suited model for answering this prompt would be one that has a high correctness score for understanding moral standards. Since the question is about moral judgment, a model with strong language understanding and eth",zero-one-ai/Yi-34B-Chat
+mmlu-astronomy.val.17,claude-v1,"D) Neptune and Pluto won't collide because of their orbital resonance
+
+The best-suited model for this prompt would be one that has knowledge of celestial mechanics and orbital resonances. While",mistralai/mixtral-8x7b-chat
+grade-school-math.dev.7261,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.4133,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.335,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,claude-instant-v1
+grade-school-math.dev.1202,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,claude-v2
+hellaswag.val.5461,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+hellaswag.val.4468,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,gpt-3.5-turbo-1106
+consensus_summary.dev.189,WizardLM/WizardLM-13B-V1.2,N-A,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.883,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,zero-one-ai/Yi-34B-Chat
+mmlu-high-school-chemistry.val.171,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,no_model_correct
+arc-challenge.val.72,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.3385,mistralai/mistral-7b-chat,B) mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+hellaswag.val.293,WizardLM/WizardLM-13B-V1.2,"WizardLM/WizardLM-13B-V1.2
+
+This model is chosen based on the assumption that it has the highest correctness score for understanding and describing video content, particularly focusing on actions and transitions within",mistralai/mistral-7b-chat
+mbpp.dev.110,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.1374,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-machine-learning.val.66,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+mmlu-elementary-mathematics.val.292,gpt-4-1106-preview,"B) 42 ÷ 7
+WizardLM/WizardLM-13B-V1.2",WizardLM/WizardLM-13B-V1.2
+hellaswag.val.6867,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-european-history.val.63,gpt-4-1106-preview,gpt-4-1106-preview,zero-one-ai/Yi-34B-Chat
+hellaswag.val.907,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+arc-challenge.test.1064,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+arc-challenge.test.989,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+hellaswag.val.1289,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+mmlu-miscellaneous.val.139,WizardLM/WizardLM-13B-V1.2,"WizardLM/WizardLM-13B-V1.2
+
+The game ""Rover"" is a children's game where players take turns naming colors. The correct answer to the color of 'Rover' in this",claude-instant-v1
+grade-school-math.dev.5011,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+grade-school-math.dev.71,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-chemistry.val.57,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.8945,WizardLM/WizardLM-13B-V1.2,"B) [substeps] The water should be between 105 and 115 degrees fahrenheit (40 and 46 degrees celsius) for best results. If you plan on using a standing mixer,",zero-one-ai/Yi-34B-Chat
+arc-challenge.test.1065,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+mmlu-astronomy.val.100,WizardLM/WizardLM-13B-V1.2,"WizardLM/WizardLM-13B-V1.2
+
+To solve this problem, we can use the small angle approximation formula for angular size, which is:
+
+\[ \theta = \frac{D}{",mistralai/mistral-7b-chat
+hellaswag.val.7804,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,no_model_correct
+mmlu-high-school-mathematics.val.171,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,gpt-3.5-turbo-1106
+hellaswag.val.2593,mistralai/mistral-7b-chat,"mistralai/mistral-7b-chat
+
+This model is chosen because it has a high correctness score of 1.0, indicating that it is very likely to provide the correct answer to the prompt. The cost is",mistralai/mixtral-8x7b-chat
+hellaswag.val.7573,mistralai/mistral-7b-chat,"B) Polish remover sticks well to nails, while cotton swabs absorb oil and flaking surface oils. Dip a cotton swab in nail polish remover then dab at the polish'",zero-one-ai/Yi-34B-Chat
+mmlu-high-school-macroeconomics.val.329,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.1927,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,meta/llama-2-70b-chat
+grade-school-math.dev.1531,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,gpt-4-1106-preview
+mmlu-high-school-psychology.val.358,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+winogrande.dev.1241,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+grade-school-math.dev.2865,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-college-medicine.val.100,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+winogrande.dev.446,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-high-school-biology.val.29,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+hellaswag.val.3025,mistralai/mistral-7b-chat,"mistralai/mistral-7b-chat
+
+This model is chosen because it has a correctness score of 1.0, indicating it is the most accurate model for this prompt. The prompt describes a scene involving a lady",WizardLM/WizardLM-13B-V1.2
+hellaswag.val.5081,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,zero-one-ai/Yi-34B-Chat
+arc-challenge.test.604,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,zero-one-ai/Yi-34B-Chat
+mmlu-high-school-computer-science.val.94,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,claude-v2
+winogrande.dev.235,WizardLM/WizardLM-13B-V1.2,B) Ryan,meta/llama-2-70b-chat
+grade-school-math.dev.3864,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-accounting.val.229,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,claude-v2
+mmlu-high-school-macroeconomics.val.6,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+grade-school-math.dev.915,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,claude-instant-v1
+hellaswag.val.3802,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,gpt-3.5-turbo-1106
+winogrande.dev.1234,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+grade-school-math.dev.7039,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,claude-instant-v1
+mmlu-professional-law.val.1026,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1294,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+arc-challenge.test.436,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+consensus_summary.dev.32,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.8261,WizardLM/WizardLM-13B-V1.2,A) mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-clinical-knowledge.val.140,meta/llama-2-70b-chat,"meta/llama-2-70b-chat
+
+The prompt asks for a model that is best suited to answer a question about controlled drugs, which is a topic related to pharmacology and legal regulations. Among",zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.6364,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+mmlu-jurisprudence.val.19,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+consensus_summary.dev.241,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,claude-instant-v1
+grade-school-math.dev.6960,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-statistics.val.193,WizardLM/WizardLM-13B-V1.2,"WizardLM/WizardLM-13B-V1.2
+
+Explanation:
+- For mutually exclusive events, the probability of the union is the sum of the individual probabilities: P(A ∪ B",no_model_correct
+mmlu-medical-genetics.val.94,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+mmlu-high-school-macroeconomics.val.298,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,zero-one-ai/Yi-34B-Chat
+mmlu-international-law.val.60,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+hellaswag.val.4368,mistralai/mistral-7b-chat,B) [title] Purchase a set of hand weights if possible. [step] It is good to buy varying dumbbell weights because you can then progressively challenge yourself as you progress with your weight training.,zero-one-ai/Yi-34B-Chat
+hellaswag.val.742,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-biology.val.62,WizardLM/WizardLM-13B-V1.2,"WizardLM/WizardLM-13B-V1.2
+
+The correct answer to the prompt is A) All cells are surrounded by a plasma membrane. This is a fundamental characteristic of all living cells, reflecting",mistralai/mistral-7b-chat
+mmlu-virology.val.77,gpt-4-1106-preview,gpt-4-1106-preview,mistralai/mistral-7b-chat
+hellaswag.val.2072,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-macroeconomics.val.378,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+grade-school-math.dev.1022,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.6258,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-high-school-psychology.val.66,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,zero-one-ai/Yi-34B-Chat
+hellaswag.val.3292,WizardLM/WizardLM-13B-V1.2,"A) [substeps] You can also take a quick shower instead of just washing your stomach if you prefer. You'll want to shave soon after washing.
+
+The model best suited for this prompt is",mistralai/mistral-7b-chat
+grade-school-math.dev.4377,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,claude-instant-v1
+mmlu-professional-law.val.735,gpt-4-1106-preview,gpt-4-1106-preview,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.5658,WizardLM/WizardLM-13B-V1.2,A) WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+hellaswag.val.7557,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,zero-one-ai/Yi-34B-Chat
+mmlu-international-law.val.102,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+hellaswag.val.6108,WizardLM/WizardLM-13B-V1.2,D) gpt-4-1106-preview,zero-one-ai/Yi-34B-Chat
+hellaswag.val.4426,WizardLM/WizardLM-13B-V1.2,"D) Have a minimum of a bachelors degree from an accredited four year university be physically able to complete the training and execute the duties. This includes the ability to fight, complete fire arms training, and other duties as required",zero-one-ai/Yi-34B-Chat
+hellaswag.val.3043,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+grade-school-math.dev.704,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.6244,mistralai/mistral-7b-chat,B) mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.2021,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,meta/code-llama-instruct-34b-chat
+hellaswag.val.2798,gpt-4-1106-preview,gpt-4-1106-preview,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.927,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-formal-logic.val.96,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,claude-instant-v1
+mmlu-human-aging.val.180,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+hellaswag.val.1955,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.1614,mistralai/mistral-7b-chat,"mistralai/mistral-7b-chat
+
+This model is chosen because it has a high correctness score of 1.0, indicating that it is likely to provide the correct answer to the prompt. The cost is also",WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.5958,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+hellaswag.val.1554,WizardLM/WizardLM-13B-V1.2,"A) , the person carry the the garment to hang on a rope and dry.
+WizardLM/WizardLM-13B-V1.2",mistralai/mistral-7b-chat
+hellaswag.val.128,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+consensus_summary.dev.105,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,claude-instant-v1
+hellaswag.val.6255,WizardLM/WizardLM-13B-V1.2,B) claude-v1,zero-one-ai/Yi-34B-Chat
+hellaswag.val.335,mistralai/mistral-7b-chat,"mistralai/mistral-7b-chat
+
+This model is chosen because it has a high correctness score of 1.0, indicating that it is likely to provide the correct answer to the prompt about a woman bathing",mistralai/mixtral-8x7b-chat
+mmlu-computer-security.val.58,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.1258,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1226,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+hellaswag.val.1535,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.590,WizardLM/WizardLM-13B-V1.2,D) zero-one-ai/Yi-34B-Chat,no_model_correct
+grade-school-math.dev.6105,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,meta/llama-2-70b-chat
+mmlu-management.val.93,WizardLM/WizardLM-13B-V1.2,"claude-instant-v1
+
+Explanation:
+The prompt asks for the component that is not part of an agile organization. An agile organization typically emphasizes a project-based culture (A), market focus and position",mistralai/mistral-7b-chat
+hellaswag.val.978,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-psychology.val.276,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-accounting.val.101,WizardLM/WizardLM-13B-V1.2,"WizardLM/WizardLM-13B-V1.2
+
+The correct answer to the prompt is C) Describes the limitations on the usefulness of the projection. This is because when an accountant compiles financial pro",WizardLM/WizardLM-13B-V1.2
+mmlu-moral-scenarios.val.460,WizardLM/WizardLM-13B-V1.2,"C) Wrong, Not wrong
+
+The model best suited to answer this prompt would be one that has a strong understanding of moral standards and the ability to discern actions that are clearly morally wrong. While all the models listed are capable",mistralai/mixtral-8x7b-chat
+grade-school-math.dev.3331,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,zero-one-ai/Yi-34B-Chat
+mmlu-professional-medicine.val.137,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1183,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1326,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.4090,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-human-aging.val.104,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+mmlu-security-studies.val.219,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+hellaswag.val.9743,WizardLM/WizardLM-13B-V1.2,A) Begin by identifying the reason you don't have a job or why you don't make enough to pay child support : [substeps] Medical illness disability layoff imprisonment other reason [title] Get medical records.,mistralai/mistral-7b-chat
+mmlu-prehistory.val.75,claude-v1,claude-v1,mistralai/mistral-7b-chat
+mmlu-high-school-biology.val.290,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.3889,WizardLM/WizardLM-13B-V1.2,"A) Ladybugs can be sold as small boxes, pots, or bowls. [substeps] Ladybugs come in all shapes and sizes.
+WizardLM/WizardLM-13B-V1.2",no_model_correct
+hellaswag.val.3173,WizardLM/WizardLM-13B-V1.2,"WizardLM/WizardLM-13B-V1.2
+
+The prompt describes a scene that is likely from a performance or entertainment setting, where a man in a pirate uniform is playing a kazoo and dan",mistralai/mistral-7b-chat
+mmlu-moral-scenarios.val.35,WizardLM/WizardLM-13B-V1.2,"C) Wrong, Not wrong
+
+The model best suited to answer this prompt would be one that has knowledge of moral standards and the ability to understand the context of the scenarios provided. While all the models listed are capable of generating text,",mistralai/mixtral-8x7b-chat
+mmlu-clinical-knowledge.val.193,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.2319,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat
+hellaswag.val.5933,claude-instant-v1,A) Draw a second diagonal connecting to different vertices. The intersection of these diagonals is the center point of the hexagon.,mistralai/mistral-7b-chat
+hellaswag.val.6724,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+grade-school-math.dev.6764,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,gpt-3.5-turbo-1106
+grade-school-math.dev.391,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.9660,WizardLM/WizardLM-13B-V1.2,A) WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+abstract2title.test.100,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-moral-scenarios.val.636,WizardLM/WizardLM-13B-V1.2,"B) Wrong, Not wrong
+
+The model best suited to answer this prompt would be one that has knowledge of moral standards and the ability to discern actions that are considered morally wrong. While all the models listed are capable of generating",gpt-4-1106-preview
+mbpp.dev.241,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+mmlu-human-sexuality.val.127,WizardLM/WizardLM-13B-V1.2,"WizardLM/WizardLM-13B-V1.2
+
+The model WizardLM/WizardLM-13B-V1.2 is chosen for this prompt because it has a correctness score of",mistralai/mistral-7b-chat
+hellaswag.val.6672,gpt-4-1106-preview,B) gpt-4-1106-preview,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.873,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+hellaswag.val.4415,claude-v1,claude-v1,mistralai/mixtral-8x7b-chat
+consensus_summary.dev.305,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+hellaswag.val.1429,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+winogrande.dev.454,WizardLM/WizardLM-13B-V1.2,"B) Randy
+
+The model best suited to answer this prompt is not explicitly listed among the provided options. However, the correct answer to the prompt is ""Randy,"" as it is Randy who would apologize for injuring their",mistralai/mistral-7b-chat
+mmlu-professional-law.val.1469,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,zero-one-ai/Yi-34B-Chat
+mmlu-management.val.92,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.4509,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.36,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-professional-law.val.302,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,no_model_correct
+hellaswag.val.5413,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,zero-one-ai/Yi-34B-Chat
+mmlu-clinical-knowledge.val.46,WizardLM/WizardLM-13B-V1.2,"D) always 1:1
+
+The best-suited model for answering this prompt is WizardLM/WizardLM-13B-V1.2. This model has a correctness score of 1.0,",mistralai/mixtral-8x7b-chat
+mmlu-miscellaneous.val.723,WizardLM/WizardLM-13B-V1.2,"A) Greenware
+
+The best-suited model for this prompt is WizardLM/WizardLM-13B-V1.2. This model has a correctness score of 1.0, indicating it is highly",mistralai/mistral-7b-chat
+mmlu-college-biology.val.63,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+hellaswag.val.1509,WizardLM/WizardLM-13B-V1.2,"D) starts mowing his lawn and talks about how it turns out.
+
+The model best suited to answer this prompt would be one that can understand and generate a narrative based on the given scenario. Since the prompt describes",mistralai/mistral-7b-chat
+hellaswag.val.4033,WizardLM/WizardLM-13B-V1.2,"D) Ultimately, by serving your toddler fruit, you'll be creating the foundation of healthy nutrition habits for the rest of their life. [substeps] Provide fresh fruits like apples, peaches",zero-one-ai/Yi-34B-Chat
+mmlu-high-school-physics.val.100,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-professional-psychology.val.446,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,no_model_correct
+hellaswag.val.4102,WizardLM/WizardLM-13B-V1.2,A) mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+hellaswag.val.7289,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+hellaswag.val.9705,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,claude-instant-v1
+mmlu-philosophy.val.289,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+grade-school-math.dev.1359,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+mmlu-miscellaneous.val.285,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.4461,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,claude-instant-v1
+mmlu-logical-fallacies.val.98,zero-one-ai/Yi-34B-Chat,D) zero-one-ai/Yi-34B-Chat,mistralai/mixtral-8x7b-chat
+arc-challenge.val.203,WizardLM/WizardLM-13B-V1.2,B) cell wall,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-world-history.val.4,zero-one-ai/Yi-34B-Chat,zero-one-ai/Yi-34B-Chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.950,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,no_model_correct
+winogrande.dev.172,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-moral-scenarios.val.769,WizardLM/WizardLM-13B-V1.2,"C) Wrong, Not wrong
+
+The best-suited model for answering this prompt would be one that has a high correctness score for moral reasoning. While all models listed have a correctness score of 1.0, indicating they",mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.837,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+hellaswag.val.9978,WizardLM/WizardLM-13B-V1.2,"D) Just be sure to avoid bright shades like neon and kelly green, which can actually make your eyes look dull. [substeps] For example, put on a deep green button-down shirt or a green t-",zero-one-ai/Yi-34B-Chat
+abstract2title.test.74,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-high-school-statistics.val.53,WizardLM/WizardLM-13B-V1.2,"WizardLM/WizardLM-13B-V1.2
+
+The correct hypotheses to support the claim that over 60 percent of the mall’s visitors shop at the department store are:
+
+Null Hyp",WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.597,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+mmlu-machine-learning.val.103,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat,claude-instant-v1
+mmlu-professional-law.val.1430,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+mmlu-jurisprudence.val.33,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+mmlu-prehistory.val.37,WizardLM/WizardLM-13B-V1.2,D) diffusionism,mistralai/mixtral-8x7b-chat
+mmlu-high-school-world-history.val.146,WizardLM/WizardLM-13B-V1.2,A) All adult men who were citizens of the state by birth,mistralai/mistral-7b-chat
+hellaswag.val.4260,mistralai/mistral-7b-chat,B) mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.4167,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.2125,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-philosophy.val.105,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,claude-instant-v1
+mmlu-high-school-microeconomics.val.4,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+mmlu-high-school-macroeconomics.val.36,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+arc-challenge.test.289,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+mmlu-security-studies.val.8,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+mmlu-security-studies.val.100,WizardLM/WizardLM-13B-V1.2,"D) All of these options.
+
+The best-suited model for answering this prompt would be one that has a high correctness score for understanding the historical context and the multifaceted nature of environmental security emergence. Since all",WizardLM/WizardLM-13B-V1.2
+mmlu-virology.val.13,WizardLM/WizardLM-13B-V1.2,"D) Combination of the killed and live vaccines.
+
+The best-suited model for answering this prompt would be one that has knowledge of vaccines and their role in disease eradication. While all the models listed",mistralai/mistral-7b-chat
+mmlu-professional-law.val.1069,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,no_model_correct
+grade-school-math.dev.5990,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,meta/llama-2-70b-chat
+grade-school-math.dev.6941,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.714,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+mmlu-conceptual-physics.val.142,WizardLM/WizardLM-13B-V1.2,D) mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.6826,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,mistralai/mistral-7b-chat
+mmlu-marketing.val.47,WizardLM/WizardLM-13B-V1.2,"B) Value.
+
+The best-suited model to answer this prompt would be one that has a high correctness score for understanding marketing terms. Based on the provided information, ""meta/llama-2-70b-",WizardLM/WizardLM-13B-V1.2
+hellaswag.val.2795,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+mmlu-prehistory.val.79,WizardLM/WizardLM-13B-V1.2,"WizardLM/WizardLM-13B-V1.2
+
+The correct answer to the question about when the first pharaohs emerged in Egypt is not provided in the choices given. However, historically, the",no_model_correct
+mmlu-logical-fallacies.val.105,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.7041,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-sociology.val.134,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+grade-school-math.dev.3902,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,claude-v1
+hellaswag.val.9991,mistralai/mistral-7b-chat,D) mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.641,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,zero-one-ai/Yi-34B-Chat
+mmlu-jurisprudence.val.54,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+hellaswag.val.9361,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1394,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+hellaswag.val.6078,WizardLM/WizardLM-13B-V1.2,"A) Shaving is a fast and painless way to get rid of hair, however it doesn't prevent hair from growing back. [substeps] Unlike waxing, shaving does not hurt, but because of the sharp bl",mistralai/mistral-7b-chat
+mmlu-high-school-european-history.val.2,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+mmlu-high-school-psychology.val.456,WizardLM/WizardLM-13B-V1.2,"A) not realizing how cold the pool is after you are under the water for a few minutes
+WizardLM/WizardLM-13B-V1.2",mistralai/mistral-7b-chat
+winogrande.dev.1049,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+hellaswag.val.8239,WizardLM/WizardLM-13B-V1.2,D) mistralai/mistral-7b-chat,gpt-3.5-turbo-1106
+mmlu-global-facts.val.38,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.4324,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+mmlu-human-aging.val.105,claude-v1,claude-v1,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.611,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.1010,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-psychology.val.218,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+hellaswag.val.3579,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.4543,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.7054,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-psychology.val.184,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,claude-v2
+mmlu-high-school-chemistry.val.140,WizardLM/WizardLM-13B-V1.2,"WizardLM/WizardLM-13B-V1.2
+
+Explanation:
+The correct answer to the prompt is D) This is a spontaneous process because of an entropy increase. When a substance dissol",mistralai/mixtral-8x7b-chat
+hellaswag.val.8898,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-psychology.val.584,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,no_model_correct
+grade-school-math.dev.919,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,zero-one-ai/Yi-34B-Chat
+mmlu-college-biology.val.50,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-moral-scenarios.val.756,WizardLM/WizardLM-13B-V1.2,"C) Wrong, Not wrong
+
+The best-suited model for answering this prompt would be one that has a high correctness score for moral reasoning. While all the models listed have varying degrees of correctness, WizardLM/W",mistralai/mixtral-8x7b-chat
+mmlu-high-school-macroeconomics.val.222,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.1234,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat
+hellaswag.val.143,WizardLM/WizardLM-13B-V1.2,"WizardLM/WizardLM-13B-V1.2
+
+This model is chosen based on the assumption that it has the highest correctness score for this type of prompt, which typically involves understanding a simple sequence of actions or",gpt-4-1106-preview
+mmlu-professional-law.val.424,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-philosophy.val.290,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+mmlu-electrical-engineering.val.17,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-microeconomics.val.218,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-clinical-knowledge.val.236,WizardLM/WizardLM-13B-V1.2,"WizardLM/WizardLM-13B-V1.2
+
+The correct answer to the prompt is B) carcinoma. Stoma formation, which is the creation of an artificial opening in the body, is often performed",WizardLM/WizardLM-13B-V1.2
+mmlu-conceptual-physics.val.46,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.2592,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,meta/llama-2-70b-chat
+mmlu-professional-law.val.388,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.1332,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-biology.val.121,claude-v1,mistralai/mixtral-8x7b-chat,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.2598,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,gpt-4-1106-preview
+hellaswag.val.8132,mistralai/mistral-7b-chat,C) mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+hellaswag.val.9655,WizardLM/WizardLM-13B-V1.2,D) mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-econometrics.val.96,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-conceptual-physics.val.105,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,claude-v1
+hellaswag.val.2437,WizardLM/WizardLM-13B-V1.2,"WizardLM/WizardLM-13B-V1.2
+
+This model is chosen based on the assumption that the prompt describes a scenario involving a female athlete performing an action that is typical in track and field events, such",no_model_correct
+mmlu-college-mathematics.val.60,WizardLM/WizardLM-13B-V1.2,"WizardLM/WizardLM-13B-V1.2
+
+The correct answer to the polynomial question cannot be determined without performing a mathematical analysis, such as using the Rational Root Theorem, Descartes' Rule of Sign",zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.6052,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+mmlu-formal-logic.val.22,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,claude-instant-v1
+mmlu-high-school-world-history.val.129,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+grade-school-math.dev.3189,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,meta/llama-2-70b-chat
+mmlu-professional-law.val.1056,gpt-4-1106-preview,gpt-4-1106-preview,zero-one-ai/Yi-34B-Chat
+arc-challenge.test.701,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+mmlu-security-studies.val.218,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+hellaswag.val.814,WizardLM/WizardLM-13B-V1.2,"mistralai/mistral-7b-chat
+
+This model is chosen because it has a high correctness score of 1.0, indicating that it is very likely to provide the correct answer to the prompt. The cost is",claude-instant-v1
+arc-challenge.test.826,mistralai/mistral-7b-chat,"mistralai/mistral-7b-chat
+
+Mistralai/mistral-7b-chat is chosen because it has a high correctness score of 1.0, indicating that it is very likely to",claude-instant-v1
+mmlu-philosophy.val.91,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+arc-challenge.test.854,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.6543,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.2112,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,meta/llama-2-70b-chat
+arc-challenge.test.767,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+hellaswag.val.2919,WizardLM/WizardLM-13B-V1.2,A) mistralai/mistral-7b-chat,claude-instant-v1
+mmlu-moral-scenarios.val.650,claude-v1,"B) Wrong, Not wrong
+
+The model best suited to answer this prompt would be one that has a high correctness score for moral judgment questions. While all the models listed are capable of generating text, models like WizardLM/",gpt-3.5-turbo-1106
+mmlu-professional-law.val.267,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-accounting.val.239,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,gpt-4-1106-preview
+mmlu-professional-law.val.1124,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,gpt-3.5-turbo-1106
+grade-school-math.dev.2573,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.3100,mistralai/mistral-7b-chat,"mistralai/mistral-7b-chat
+
+This model is chosen based on the context provided in the prompt, which suggests a scenario involving people holding up instruments and one boy beginning to play. The ""mistralai/",zero-one-ai/Yi-34B-Chat
+mmlu-professional-psychology.val.538,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.1567,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,gpt-3.5-turbo-1106
+grade-school-math.dev.1638,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.9236,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,gpt-3.5-turbo-1106
+mmlu-abstract-algebra.val.46,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,gpt-4-1106-preview
+arc-challenge.test.534,gpt-4-1106-preview,"B) The college could gather parking data, receive input from community meetings, build an additional parking lot, and then gather more parking data.
+
+The universal systems model is a framework used for problem-solving that involves several",WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.1703,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,meta/llama-2-70b-chat
+mbpp.dev.68,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-miscellaneous.val.557,claude-v1,claude-v1,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.1092,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,gpt-3.5-turbo-1106
+mmlu-professional-law.val.1129,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mbpp.dev.60,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,meta/code-llama-instruct-34b-chat
+grade-school-math.dev.179,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+winogrande.dev.1155,WizardLM/WizardLM-13B-V1.2,"The prompt does not provide enough context to determine a correct answer based on the model's capabilities. The choice between ""Benjamin"" and ""Ian"" is a matter of personal preference and not related to the model's performance. Therefore,",mistralai/mistral-7b-chat
+mmlu-moral-disputes.val.187,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+mmlu-miscellaneous.val.266,zero-one-ai/Yi-34B-Chat,"zero-one-ai/Yi-34B-Chat
+
+The model zero-one-ai/Yi-34B-Chat is chosen because it has a correctness score of 1.0, indicating",mistralai/mixtral-8x7b-chat
+mmlu-professional-medicine.val.133,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+hellaswag.val.2065,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,gpt-4-1106-preview
+grade-school-math.dev.1915,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1401,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+arc-challenge.test.281,gpt-4-1106-preview,gpt-4-1106-preview,zero-one-ai/Yi-34B-Chat
+winogrande.dev.1151,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+grade-school-math.dev.3420,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+winogrande.dev.479,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.3134,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.309,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+hellaswag.val.9164,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1328,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+hellaswag.val.1303,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1207,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,no_model_correct
+winogrande.dev.533,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.8992,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+mmlu-moral-scenarios.val.672,WizardLM/WizardLM-13B-V1.2,"C) Wrong, Wrong
+
+The best-suited model for answering this prompt would be one that has a high correctness score for identifying morally wrong actions according to ordinary moral standards. While all the models listed are capable of",WizardLM/WizardLM-13B-V1.2
+consensus_summary.dev.78,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,claude-instant-v1
+mmlu-prehistory.val.22,claude-v2,"C) trowels
+
+The best-suited model for answering this prompt would be one that has a high correctness score for providing accurate information about excavation tools. Since the correct answer is ""trowels,"" which are commonly",WizardLM/WizardLM-13B-V1.2
+consensus_summary.dev.187,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,claude-v1
+mmlu-professional-psychology.val.410,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.3476,WizardLM/WizardLM-13B-V1.2,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+mmlu-prehistory.val.179,claude-v1,claude-v1,mistralai/mistral-7b-chat
+mmlu-business-ethics.val.64,WizardLM/WizardLM-13B-V1.2,"D) Shareholders, Care and Skill, Diligence",mistralai/mixtral-8x7b-chat
+grade-school-math.dev.211,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,claude-instant-v1
+mmlu-high-school-mathematics.val.34,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,gpt-3.5-turbo-1106
+mmlu-high-school-us-history.val.133,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+arc-challenge.test.687,WizardLM/WizardLM-13B-V1.2,"D) evaporation
+mistralai/mistral-7b-chat",mistralai/mistral-7b-chat
+mmlu-machine-learning.val.63,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,claude-instant-v1
+winogrande.dev.825,WizardLM/WizardLM-13B-V1.2,A) monogram,mistralai/mistral-7b-chat
+mmlu-professional-law.val.594,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+mmlu-high-school-macroeconomics.val.154,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-high-school-government-and-politics.val.140,mistralai/mistral-7b-chat,"D) They are tried in civil court.
+
+The best-suited model for answering this prompt would be any of the language models that have been trained on legal information. While the specific model isn't indicated by the prompt itself, any",mistralai/mistral-7b-chat
+grade-school-math.dev.6902,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-professional-law.val.372,WizardLM/WizardLM-13B-V1.2,claude-v1,mistralai/mixtral-8x7b-chat
+mmlu-professional-medicine.val.90,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+mbpp.dev.276,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+hellaswag.val.4538,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-sociology.val.120,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+consensus_summary.dev.266,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+hellaswag.val.6634,claude-v1,B) mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+hellaswag.val.4809,WizardLM/WizardLM-13B-V1.2,"A) [title] Read about the denomination that a particular congregation belongs to. [step] Some are evangelical (such as the evangelical lutheran church in america), and others are more conservative (such as",mistralai/mistral-7b-chat
+bias_detection.dev.191,WizardLM/WizardLM-13B-V1.2,"[WizardLM/WizardLM-13B-V1.2]
+
+Reasoning: The sentence ""at some point Ukraine will likely seize the initiative"" is speculative. It predicts a future event based",mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.1159,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+mmlu-miscellaneous.val.391,zero-one-ai/Yi-34B-Chat,"The provided information does not contain enough context or data to accurately determine the cost of air conditioning all American automobiles for a year as of 2018. To answer such a question, one would typically need access to industry-",no_model_correct
+mmlu-professional-law.val.798,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.4979,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.417,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+mmlu-sociology.val.85,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.185,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,gpt-4-1106-preview
+grade-school-math.dev.3263,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+hellaswag.val.9260,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.1076,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-psychology.val.489,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-computer-security.val.48,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-european-history.val.151,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+hellaswag.val.3327,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+arc-challenge.test.1012,gpt-4-1106-preview,gpt-4-1106-preview,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.8506,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.2904,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.5860,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,claude-v1
+hellaswag.val.7221,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-marketing.val.163,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.148,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-professional-law.val.80,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.3954,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.65,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+hellaswag.val.4906,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.2799,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+mmlu-marketing.val.134,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+hellaswag.val.9497,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,zero-one-ai/Yi-34B-Chat
+hellaswag.val.8171,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-nutrition.val.225,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+grade-school-math.dev.1805,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+hellaswag.val.5381,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.1016,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+hellaswag.val.1363,WizardLM/WizardLM-13B-V1.2,"WizardLM/WizardLM-13B-V1.2
+
+This model is chosen based on the assumption that it has the highest correctness score for this type of prompt, which involves understanding a complex scene description and selecting the",claude-instant-v1
+grade-school-math.dev.5413,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+hellaswag.val.8950,mistralai/mistral-7b-chat,"C) You may want to make a more elaborate design later on, but this pattern will teach some of the basics of knotting. [substeps] Cut out the strands to the length you wish.",meta/llama-2-70b-chat
+hellaswag.val.8835,mistralai/mistral-7b-chat,"B) [step] If your diamante started off with "" home, "" you might choose two adjectives like "" safe "" and "" warm. "" these adjectives describe feelings associated with home.",claude-instant-v1
+mmlu-prehistory.val.134,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.5353,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,meta/code-llama-instruct-34b-chat
+hellaswag.val.6666,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,meta/llama-2-70b-chat
+mbpp.dev.63,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,gpt-3.5-turbo-1106
+grade-school-math.dev.3322,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.4060,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-high-school-biology.val.153,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.3275,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.1767,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,meta/llama-2-70b-chat
+accounting_audit.dev.25,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,claude-instant-v1
+hellaswag.val.2325,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+winogrande.dev.1092,claude-v1,B) Erin,mistralai/mistral-7b-chat
+mmlu-security-studies.val.113,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+mmlu-miscellaneous.val.538,gpt-4-1106-preview,B) An increase in the number of direct primary elections,mistralai/mixtral-8x7b-chat
+hellaswag.val.4707,claude-v1,claude-v1,zero-one-ai/Yi-34B-Chat
+hellaswag.val.2271,WizardLM/WizardLM-13B-V1.2,"D) has a stick and is blindfolded.
+
+The model best suited to answer this prompt would be one that understands the context of a traditional piñata game, where participants typically use a stick to hit the piñata",mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.15,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+mmlu-moral-scenarios.val.720,WizardLM/WizardLM-13B-V1.2,"D) Not wrong, Wrong
+
+The best-suited model for answering this prompt would be one that has a high correctness score for understanding moral standards. Since all models have a correctness score of 1.0, we can",mistralai/mixtral-8x7b-chat
+hellaswag.val.3092,WizardLM/WizardLM-13B-V1.2,"WizardLM/WizardLM-13B-V1.2
+
+This model is chosen based on the assumption that it has the highest correctness score for this type of prompt, which typically involves understanding a simple narrative or scene",mistralai/mistral-7b-chat
+mmlu-high-school-statistics.val.104,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-nutrition.val.130,claude-v1,claude-v1,mistralai/mistral-7b-chat
+mmlu-professional-psychology.val.276,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.3818,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+mmlu-international-law.val.27,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+mmlu-moral-disputes.val.6,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+mmlu-prehistory.val.307,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.254,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+grade-school-math.dev.3124,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,meta/llama-2-70b-chat
+consensus_summary.dev.216,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-professional-law.val.744,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+grade-school-math.dev.5577,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,claude-v2
+hellaswag.val.9039,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.2482,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+consensus_summary.dev.179,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,claude-v1
+winogrande.dev.528,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+grade-school-math.dev.4571,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.8600,claude-v1,"C) The face may fall into one or several of these categories, and different parts of your face may be more dry, healthy, or greasy than others. Take a look in the mirror and review the characteristics of each skin type : [",zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.281,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+hellaswag.val.7893,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+hellaswag.val.2763,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,meta/llama-2-70b-chat
+grade-school-math.dev.6413,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,meta/code-llama-instruct-34b-chat
+mmlu-us-foreign-policy.val.7,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,claude-v1
+grade-school-math.dev.5824,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+winogrande.dev.82,WizardLM/WizardLM-13B-V1.2,"Brett (since the prompt implies that Brett is the one who felt burdened after asking for advice, the model that would best understand this context would be one that can infer emotional states or outcomes based on actions. However, since",WizardLM/WizardLM-13B-V1.2
+mmlu-miscellaneous.val.476,WizardLM/WizardLM-13B-V1.2,"WizardLM/WizardLM-13B-V1.2
+
+Explanation:
+The prompt asks for a factual piece of information regarding Jimmy Page's band affiliations. The WizardLM/WizardLM",gpt-3.5-turbo-1106
+grade-school-math.dev.5041,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-high-school-us-history.val.28,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+grade-school-math.dev.6754,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.7190,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-nutrition.val.222,mistralai/mistral-7b-chat,"mistralai/mistral-7b-chat
+
+This model is chosen because it has a high correctness score of 1.0, indicating that it is very likely to provide the correct answer to the question about the protein:",no_model_correct
+mmlu-miscellaneous.val.70,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+consensus_summary.dev.225,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+mmlu-professional-psychology.val.234,WizardLM/WizardLM-13B-V1.2,"WizardLM/WizardLM-13B-V1.2
+
+The correct answer to the prompt is B) increase. When nicotine patches are used in conjunction with behavioral techniques, the rate of success in",WizardLM/WizardLM-13B-V1.2
+hellaswag.val.7707,mistralai/mistral-7b-chat,"A) [step] They should sit flat inside the container without protruding above the rim. A large tupperware or similar box is ideal, or you can use a roasting tin or plastic tray.",mistralai/mistral-7b-chat
+hellaswag.val.6260,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.4389,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,meta/llama-2-70b-chat
+mmlu-elementary-mathematics.val.7,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,claude-instant-v1
+mmlu-miscellaneous.val.742,mistralai/mixtral-8x7b-chat,D) electric guitar,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1170,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+mmlu-moral-scenarios.val.760,mistralai/mixtral-8x7b-chat,"C) Not wrong, Wrong
+
+The best-suited model for answering this prompt would be one that has a high correctness score for understanding moral standards. While all models listed are capable of providing an answer, the WizardLM/",WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.2701,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1486,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.565,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+hellaswag.val.650,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.6352,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.375,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+hellaswag.val.8001,WizardLM/WizardLM-13B-V1.2,"A) From there, try to narrow things down to explore a variety of careers based around a broad interest. Together, write down a list of interests.",mistralai/mistral-7b-chat
+grade-school-math.dev.7042,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-professional-medicine.val.218,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-security-studies.val.6,claude-instant-v1,B) Nationalization,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.9903,claude-v1,"B) [substeps] If it sounds too good to be true, it almost certainly is. If someone claims they have an inheritance from a long lost relative, a high-paying-do-nothing job, or unclaimed lottery",WizardLM/WizardLM-13B-V1.2
+mtbench-math.dev.17,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,meta/code-llama-instruct-34b-chat
+consensus_summary.dev.4,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.2764,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-high-school-chemistry.val.120,WizardLM/WizardLM-13B-V1.2,"WizardLM/WizardLM-13B-V1.2
+
+The most massive subatomic particle is the neutron. Neutrons have a slightly greater mass than protons. Here's a brief comparison of the particles",gpt-4-1106-preview
+winogrande.dev.569,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+grade-school-math.dev.4207,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+mmlu-college-physics.val.70,WizardLM/WizardLM-13B-V1.2,"WizardLM/WizardLM-13B-V1.2
+
+To solve this physics problem, we can use the principle of conservation of energy. The potential energy (PE) of the elevator at the start will be converted",gpt-3.5-turbo-1106
+hellaswag.val.9251,mistralai/mistral-7b-chat,"B) Then, submerge the area for 5 to 7 minutes. [title] Wash your face using a clean, clean face wash.
+
+The model best suited for this prompt is ""mistralai/mi",claude-instant-v1
+hellaswag.val.1324,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+arc-challenge.val.4,mistralai/mixtral-8x7b-chat,"D) food sources increased.
+
+The best-suited model for answering this prompt would be one that has a high correctness score for understanding ecological relationships, specifically the relationship between food availability and animal populations. While all the models",mistralai/mistral-7b-chat
+mmlu-professional-medicine.val.156,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.9051,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,no_model_correct
+mmlu-elementary-mathematics.val.252,WizardLM/WizardLM-13B-V1.2,C) 4(x – 22),WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1118,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+hellaswag.val.2979,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.6403,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,gpt-3.5-turbo-1106
+grade-school-math.dev.4083,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,claude-v2
+mmlu-high-school-mathematics.val.25,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,gpt-4-1106-preview
+mmlu-professional-law.val.373,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,no_model_correct
+mbpp.dev.329,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,meta/code-llama-instruct-34b-chat
+mtbench.dev.11,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-nutrition.val.74,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,gpt-3.5-turbo-1106
+mmlu-professional-law.val.135,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-nutrition.val.6,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-professional-law.val.536,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+mmlu-nutrition.val.293,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.7036,WizardLM/WizardLM-13B-V1.2,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+hellaswag.val.8764,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.7434,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+hellaswag.val.6211,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-high-school-european-history.val.5,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+hellaswag.val.5883,mistralai/mixtral-8x7b-chat,"B) [title] Starting with simple changes, like not hoovering up bugs on the carpet but letting them out, are small yet effective ways of including pacifism into your life. [title] Try to read up on the j",zero-one-ai/Yi-34B-Chat
+mmlu-high-school-statistics.val.156,gpt-4-1106-preview,gpt-4-1106-preview,mistralai/mixtral-8x7b-chat
+arc-challenge.val.147,WizardLM/WizardLM-13B-V1.2,"WizardLM/WizardLM-13B-V1.2
+
+The factor most likely to limit the ability to locate beetle populations is expense (B). Specialized equipment for locating and studying beetles can",WizardLM/WizardLM-13B-V1.2
+mmlu-electrical-engineering.val.48,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,gpt-3.5-turbo-1106
+mmlu-jurisprudence.val.72,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+hellaswag.val.263,WizardLM/WizardLM-13B-V1.2,D) mistralai/mixtral-8x7b-chat,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.6188,WizardLM/WizardLM-13B-V1.2,A) Mention their name in the body of the letter at least twice in addition to addressing it to the specific child. [substeps] Thread details into the letter that show santa knows the child.,mistralai/mistral-7b-chat
+mmlu-professional-law.val.463,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+grade-school-math.dev.5044,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+grade-school-math.dev.1935,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.6199,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,gpt-3.5-turbo-1106
+mmlu-human-sexuality.val.52,WizardLM/WizardLM-13B-V1.2,D,mistralai/mixtral-8x7b-chat
+hellaswag.val.1188,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+mmlu-high-school-microeconomics.val.63,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-prehistory.val.309,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.7184,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,zero-one-ai/Yi-34B-Chat
+mmlu-business-ethics.val.6,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.790,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+winogrande.dev.14,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+hellaswag.val.4973,mistralai/mistral-7b-chat,"B) [title] In a bowl, beat together butter, white sugar, vanilla extract, cake mix, salt and flour, and crushed crackers. [title] Add a popsicle or icing that has",mistralai/mistral-7b-chat
+arc-challenge.val.286,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+arc-challenge.val.229,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+hellaswag.val.5617,claude-instant-v1,"B) [substeps] If you haven't set up a new kik account, see how to make changes to your profile. [title] Select your friends and click the "" import friends "" button.",gpt-3.5-turbo-1106
+grade-school-math.dev.2309,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,gpt-3.5-turbo-1106
+hellaswag.val.2550,WizardLM/WizardLM-13B-V1.2,"WizardLM/WizardLM-13B-V1.2
+
+This model is chosen based on the assumption that it has the highest correctness score for interpreting and answering the given prompt about a scene involving a man running and",zero-one-ai/Yi-34B-Chat
+mmlu-marketing.val.6,meta/code-llama-instruct-34b-chat,"B) Gatekeepers.
+
+The model best suited to answer this prompt is not explicitly listed among the provided options. However, the concept of ""gatekeepers"" is relevant to the context of controlling the flow of information within an",WizardLM/WizardLM-13B-V1.2
+hellaswag.val.5231,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-high-school-microeconomics.val.173,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.1081,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+arc-challenge.test.923,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+hellaswag.val.2275,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.1847,claude-v1,claude-v1,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.3933,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.4666,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+arc-challenge.test.75,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+mbpp.dev.259,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,no_model_correct
+hellaswag.val.8816,WizardLM/WizardLM-13B-V1.2,"A) This is especially important to do if you have a busier time of day or week when you might need to eat on the go. [substeps] For example, if you'll be running errands one day you might plan on",mistralai/mistral-7b-chat
+mmlu-electrical-engineering.val.10,gpt-4-1106-preview,"B) Low resistance when forward biased, while high resistance when reverse biased
+
+The best-suited model to answer this prompt would be one that has a high correctness score for understanding the electrical properties of a working diode.",WizardLM/WizardLM-13B-V1.2
+hellaswag.val.863,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.3733,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-miscellaneous.val.523,claude-v1,"C) Cinco de Mayo
+
+The best-suited model for answering this prompt would be one that has a high correctness score for this type of question. Since the correct answer is a factual piece of information, any model with",mistralai/mistral-7b-chat
+arc-challenge.val.37,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+hellaswag.val.7254,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,claude-instant-v1
+grade-school-math.dev.4043,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,meta/llama-2-70b-chat
+hellaswag.val.9382,WizardLM/WizardLM-13B-V1.2,"A) Men who don't want to compromise their fertility may increase their chances by switching to boxers. [substeps] The research shows that boxers can positively affect sperm quality.
+WizardLM/Wizard",mistralai/mistral-7b-chat
+hellaswag.val.7332,claude-v1,"B) [substeps] For example, you could say, "" i know that we have different cultural backgrounds, but i wanted to talk to you about a specific inappropriate behavior.
+
+The model ""B"" is the most",zero-one-ai/Yi-34B-Chat
+hellaswag.val.8211,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-high-school-psychology.val.212,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+grade-school-math.dev.216,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1203,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,zero-one-ai/Yi-34B-Chat
+mmlu-moral-disputes.val.252,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,gpt-4-1106-preview
+hellaswag.val.3480,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,no_model_correct
+mmlu-college-biology.val.8,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.972,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-chemistry.val.59,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+grade-school-math.dev.3228,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+mmlu-machine-learning.val.50,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-medicine.val.154,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-moral-scenarios.val.66,WizardLM/WizardLM-13B-V1.2,"D) Wrong, Not wrong
+
+The best-suited model for answering this prompt would be one that has a high correctness score for understanding moral standards. While all models listed are capable of providing an answer, WizardLM/W",no_model_correct
+mmlu-high-school-government-and-politics.val.59,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.1113,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,claude-v1
+grade-school-math.dev.4814,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,zero-one-ai/Yi-34B-Chat
+mmlu-clinical-knowledge.val.65,WizardLM/WizardLM-13B-V1.2,"WizardLM/WizardLM-13B-V1.2
+
+The correct answer to the prompt is not provided in the instruction, but based on medical knowledge, significant blood loss leading to hypovolaemic shock typically occurs",WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.653,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mbpp.dev.122,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.6276,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+grade-school-math.dev.5657,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+hellaswag.val.3013,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.496,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+mmlu-miscellaneous.val.777,WizardLM/WizardLM-13B-V1.2,"WizardLM/WizardLM-13B-V1.2
+
+The correct answer to the prompt is C) the wisdom of Solomon. Captain Marvel, a character from DC Comics, is known for her superhuman strength,",zero-one-ai/Yi-34B-Chat
+hellaswag.val.1740,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,meta/llama-2-70b-chat
+hellaswag.val.6582,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+hellaswag.val.2211,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,no_model_correct
+hellaswag.val.2767,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,no_model_correct
+hellaswag.val.4667,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,zero-one-ai/Yi-34B-Chat
+mmlu-high-school-world-history.val.105,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-security-studies.val.133,gpt-4-1106-preview,gpt-4-1106-preview,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.3392,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-astronomy.val.82,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+hellaswag.val.9435,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,zero-one-ai/Yi-34B-Chat
+hellaswag.val.7064,WizardLM/WizardLM-13B-V1.2,"A) Consume moderate amounts of proteins (like meat, fish, eggs, and beans) and milk products, and keep high-fat and sugary foods to a minimum. [substeps] Don't obsess",mistralai/mistral-7b-chat
+hellaswag.val.3232,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,gpt-3.5-turbo-1106
+mmlu-high-school-geography.val.81,gpt-4-1106-preview,gpt-4-1106-preview,mistralai/mistral-7b-chat
+hellaswag.val.4450,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.798,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-elementary-mathematics.val.222,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.1316,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.1491,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-medical-genetics.val.61,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+hellaswag.val.8426,mistralai/mistral-7b-chat,"B) [substeps] You can browse across most fantasy games by "" character "" or "" plot "" until you find one that appeals to you. Let's say you're looking for a fictional fantasy game that focus",claude-instant-v1
+mmlu-high-school-chemistry.val.54,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,no_model_correct
+mmlu-prehistory.val.90,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.2688,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.5533,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.5776,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+hellaswag.val.6632,WizardLM/WizardLM-13B-V1.2,A) [step] Know what style and pattern you want to emulate so you know where to purchase the covers. You may also want to set an expected budget since some materials are more expensive than others.,mistralai/mistral-7b-chat
+mmlu-miscellaneous.val.86,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-professional-law.val.481,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,claude-instant-v1
+grade-school-math.dev.5160,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-clinical-knowledge.val.49,WizardLM/WizardLM-13B-V1.2,A) WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+grade-school-math.dev.1842,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-high-school-physics.val.67,claude-v1,"C) Increased voltage and decreased resistance
+
+The best-suited model for answering this prompt would be one that has a high correctness score for understanding electrical principles. Among the available models, WizardLM/WizardLM",WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.5193,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.8699,mistralai/mistral-7b-chat,"B) [substeps] Try to think about your self-talk in a non-judgmental way. For example, instead of thinking, "" i am stupid, "" say, "" i am smart, "" or "" what social media",no_model_correct
+hellaswag.val.5211,mistralai/mistral-7b-chat,B) Go for something like white or light pastel shades. [substeps] Make sure the base polish is completely dry before proceeding.,claude-instant-v1
+grade-school-math.dev.1009,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+mmlu-professional-accounting.val.59,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+mmlu-moral-disputes.val.153,meta/llama-2-70b-chat,"B) claude-instant-v1
+
+The correct answer to the prompt is B) It must not necessarily be of an actual or supposed offender. This is because legal punishment is defined as a consequence for an offense against",WizardLM/WizardLM-13B-V1.2
+mmlu-professional-psychology.val.144,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+abstract2title.test.104,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+hellaswag.val.8980,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-public-relations.val.85,claude-v1,B) reactive,WizardLM/WizardLM-13B-V1.2
+mmlu-medical-genetics.val.52,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-government-and-politics.val.11,gpt-4-1106-preview,"gpt-4-1106-preview
+
+The Supreme Court does not have the power to override constitutional amendments (D). Constitutional amendments are changes to the Constitution itself, which require a specific process involving both",mistralai/mixtral-8x7b-chat
+bias_detection.dev.284,meta/code-llama-instruct-34b-chat,"quote [mistralai/mistral-7b-chat]
+
+Reasoning: The sentence provided is a direct quote from a former official, which classifies it as a quote. It does not contain any factual information",claude-v1
+bias_detection.dev.161,WizardLM/WizardLM-13B-V1.2,"[WizardLM/WizardLM-13B-V1.2]
+
+Reasoning: The sentence provided is an opinion. It expresses a viewpoint about Ukrainian leaders' potential actions in response to Russia's",WizardLM/WizardLM-13B-V1.2
+hellaswag.val.10010,WizardLM/WizardLM-13B-V1.2,A) WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+grade-school-math.dev.4245,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,claude-instant-v1
+hellaswag.val.2557,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-psychology.val.186,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.6509,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-jurisprudence.val.107,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-high-school-european-history.val.11,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,claude-v2
+hellaswag.val.7994,WizardLM/WizardLM-13B-V1.2,A) Soft covers also offer smoother seals from a faster process and produce better results than hard covers. Soft covers can also have more unique seals.,gpt-3.5-turbo-1106
+mbpp.dev.384,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1272,zero-one-ai/Yi-34B-Chat,zero-one-ai/Yi-34B-Chat,mistralai/mixtral-8x7b-chat
+mmlu-international-law.val.12,WizardLM/WizardLM-13B-V1.2,B) meta/llama-2-70b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.403,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+hellaswag.val.489,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.234,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+hellaswag.val.4466,claude-instant-v1,B) One way to do this is to try the 5-4-3-2-1 exercise. This exercises engages your senses and it can help to soothe anxiety.,zero-one-ai/Yi-34B-Chat
+mmlu-high-school-macroeconomics.val.316,gpt-4-1106-preview,"B) Your father's firm makes computers and exports them to China.
+
+The best-suited model for this prompt would be one that understands economic concepts and the impact of international trade on GDP. While all the models listed are",mistralai/mixtral-8x7b-chat
+bias_detection.dev.27,WizardLM/WizardLM-13B-V1.2,"WizardLM/WizardLM-13B-V1.2
+
+Reasoning: The sentence provided is a statement of fact. It presents a specific piece of information regarding the 2005 Protection of Lawful",no_model_correct
+mmlu-moral-scenarios.val.391,WizardLM/WizardLM-13B-V1.2,"D) Wrong, Not wrong
+
+The model best suited to answer this prompt would be one that has knowledge of moral standards and the ability to understand the context of the scenarios provided. While all the models listed are capable of generating text,",zero-one-ai/Yi-34B-Chat
+mmlu-professional-psychology.val.123,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.390,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.6830,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-us-foreign-policy.val.62,WizardLM/WizardLM-13B-V1.2,"WizardLM/WizardLM-13B-V1.2
+
+The primary institutions of the liberal international economic order are the General Agreement on Tariffs and Trade (GATT), the International Monetary Fund (",mistralai/mixtral-8x7b-chat
+winogrande.dev.95,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,claude-instant-v1
+grade-school-math.dev.3870,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat
+hellaswag.val.870,mistralai/mistral-7b-chat,"mistralai/mistral-7b-chat
+
+This model is chosen because the prompt describes a physical action that is likely to be associated with a visual or athletic context. The ""mistralai/mistral-",WizardLM/WizardLM-13B-V1.2
+mmlu-clinical-knowledge.val.8,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-high-school-geography.val.98,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+bias_detection.dev.140,WizardLM/WizardLM-13B-V1.2,"WizardLM/WizardLM-13B-V1.2
+
+Reasoning: The sentence contains a direct quote from an individual, Proudman, expressing a personal view on the topic of decriminalization. This",WizardLM/WizardLM-13B-V1.2
+hellaswag.val.9123,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.24,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,claude-instant-v1
+mmlu-high-school-us-history.val.54,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-miscellaneous.val.551,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-formal-logic.val.61,claude-v1,C) meta/code-llama-instruct-34b-chat,mistralai/mixtral-8x7b-chat
+mmlu-management.val.48,WizardLM/WizardLM-13B-V1.2,"WizardLM/WizardLM-13B-V1.2
+
+Explanation:
+A programmed decision is one that is routine and non-complex, which means it is a decision that can be made using a set",WizardLM/WizardLM-13B-V1.2
+abstract2title.test.133,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+hellaswag.val.857,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-logical-fallacies.val.88,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,no_model_correct
+grade-school-math.dev.5394,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-high-school-us-history.val.26,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+arc-challenge.test.698,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+mmlu-miscellaneous.val.73,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+mmlu-electrical-engineering.val.105,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,no_model_correct
+mmlu-professional-law.val.1446,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+grade-school-math.dev.4297,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-high-school-macroeconomics.val.138,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+mmlu-human-aging.val.179,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+mmlu-moral-scenarios.val.371,WizardLM/WizardLM-13B-V1.2,"D) Wrong, Not wrong
+
+The best-suited model for answering this prompt would be one that has a high correctness score for understanding moral standards. Since the prompt requires knowledge of ordinary moral standards in the US as of 2",gpt-4-1106-preview
+grade-school-math.dev.155,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-high-school-physics.val.132,WizardLM/WizardLM-13B-V1.2,"WizardLM/WizardLM-13B-V1.2
+
+Explanation:
+The force of gravitational attraction between two objects is given by Newton's law of universal gravitation, which states that the force",mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.164,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,WizardLM/WizardLM-13B-V1.2
+bias_detection.dev.209,WizardLM/WizardLM-13B-V1.2,"WizardLM/WizardLM-13B-V1.2
+
+Reasoning: The sentence ""Moscow declared a state of emergency and made some weak attempts to stop the advance of Prigozhin's",no_model_correct
+mmlu-professional-law.val.1061,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+mmlu-college-mathematics.val.52,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+mmlu-moral-scenarios.val.444,WizardLM/WizardLM-13B-V1.2,"C) Wrong, Not wrong
+
+The best-suited model for answering this prompt would be one that has a high correctness score for understanding moral standards. Among the available models, WizardLM/WizardLM-13B",WizardLM/WizardLM-13B-V1.2
+mmlu-miscellaneous.val.105,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.923,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.5486,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+hellaswag.val.8591,WizardLM/WizardLM-13B-V1.2,A) Stripes look great with a solid color shirt and tie or mixed with other patterns. [substeps] Vertical stripes are excellent for formal wear.,mistralai/mistral-7b-chat
+grade-school-math.dev.2128,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.3783,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.2924,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mtbench.dev.37,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-professional-law.val.515,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-jurisprudence.val.95,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.2467,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-miscellaneous.val.446,meta/llama-2-70b-chat,"B) marmot
+
+The best-suited model to answer this prompt would be any of the language models that have been trained on a broad range of topics, including biology and zoology. Since all the provided models are capable of understanding",WizardLM/WizardLM-13B-V1.2
+hellaswag.val.1087,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-professional-medicine.val.104,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.5064,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,gpt-3.5-turbo-1106
+hellaswag.val.4387,WizardLM/WizardLM-13B-V1.2,A) WizardLM/WizardLM-13B-V1.2,zero-one-ai/Yi-34B-Chat
+mmlu-high-school-mathematics.val.46,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,gpt-4-1106-preview
+arc-challenge.test.598,WizardLM/WizardLM-13B-V1.2,"WizardLM/WizardLM-13B-V1.2
+
+The crickets gain their energy primarily from the sunlight (A), as they are ectothermic (cold-blooded) animals that",mistralai/mixtral-8x7b-chat
+hellaswag.val.4724,mistralai/mistral-7b-chat,B) mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.7164,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+grade-school-math.dev.1868,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,gpt-3.5-turbo-1106
+mmlu-high-school-european-history.val.13,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,no_model_correct
+mmlu-computer-security.val.50,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.1377,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+hellaswag.val.3481,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,zero-one-ai/Yi-34B-Chat
+mmlu-business-ethics.val.62,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+hellaswag.val.8999,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,no_model_correct
+arc-challenge.val.48,WizardLM/WizardLM-13B-V1.2,"WizardLM/WizardLM-13B-V1.2
+
+Explanation:
+The motion of air particles in a Northern Hemisphere storm is influenced by the Coriolis effect, which is a result of Earth",zero-one-ai/Yi-34B-Chat
+mmlu-professional-medicine.val.161,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-college-biology.val.97,WizardLM/WizardLM-13B-V1.2,"WizardLM/WizardLM-13B-V1.2
+
+Explanation:
+The prompt is asking for a factual question related to microbiology and the mechanism of action of antibiotics. The correct",mistralai/mistral-7b-chat
+grade-school-math.dev.7010,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+abstract2title.test.28,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+hellaswag.val.214,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.442,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.3284,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,meta/code-llama-instruct-34b-chat
+mmlu-moral-scenarios.val.810,mistralai/mixtral-8x7b-chat,"B) Not wrong, Wrong
+
+The model best suited to answer this prompt would be one that can understand moral judgments and societal norms. While all the models listed are capable of generating text, some may be better at",WizardLM/WizardLM-13B-V1.2
+hellaswag.val.1696,WizardLM/WizardLM-13B-V1.2,"WizardLM/WizardLM-13B-V1.2
+
+This model is chosen because it has a correctness score of 1.0, indicating that it would provide the correct answer to the prompt. The other models",mistralai/mistral-7b-chat
+grade-school-math.dev.6477,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+mmlu-high-school-statistics.val.50,WizardLM/WizardLM-13B-V1.2,"WizardLM/WizardLM-13B-V1.2
+
+The necessary assumption for running a t-test to compare the means of two independent groups (in this case, SAT math scores of applicants who took AP",mistralai/mistral-7b-chat
+hellaswag.val.7806,WizardLM/WizardLM-13B-V1.2,A) WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+grade-school-math.dev.1218,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.6534,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.465,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,no_model_correct
+hellaswag.val.4161,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,zero-one-ai/Yi-34B-Chat
+mmlu-college-biology.val.40,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+hellaswag.val.2026,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1067,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,no_model_correct
+mmlu-miscellaneous.val.131,WizardLM/WizardLM-13B-V1.2,"B) 50
+
+The best-suited model for answering this prompt would be any model with high correctness for the fact that the American flag has 50 stars, representing the 50 states of the United States. Since",mistralai/mixtral-8x7b-chat
+hellaswag.val.8944,mistralai/mistral-7b-chat,B) mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+hellaswag.val.3283,WizardLM/WizardLM-13B-V1.2,D) meta/code-llama-instruct-34b-chat,meta/llama-2-70b-chat
+mmlu-professional-law.val.1521,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.2789,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+hellaswag.val.5947,WizardLM/WizardLM-13B-V1.2,A) Mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-elementary-mathematics.val.298,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.4366,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,gpt-3.5-turbo-1106
+mmlu-international-law.val.92,WizardLM/WizardLM-13B-V1.2,"D) Reparation includes restitution, compensation, and satisfaction, either alone or alongside other forms of reparation
+
+The best-suited model for this prompt would be one that has a high correctness score for understanding the concept",WizardLM/WizardLM-13B-V1.2
+hellaswag.val.5668,WizardLM/WizardLM-13B-V1.2,"A) [substeps] If you have dry skin, look for a cream cleanser, which will help moisturize the skin while cleansing. Use a gel or foam cleanser if you have oily skin",mistralai/mistral-7b-chat
+mmlu-anatomy.val.127,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+arc-challenge.test.408,WizardLM/WizardLM-13B-V1.2,"A) 1.5 times
+WizardLM/WizardLM-13B-V1.2 — correctness: 1.0, cost: 1.8e-05
+claude-instant-",mistralai/mistral-7b-chat
+mmlu-anatomy.val.57,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-electrical-engineering.val.23,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-world-history.val.156,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+hellaswag.val.807,mistralai/mistral-7b-chat,"mistralai/mistral-7b-chat
+
+This model is chosen because it has a correctness score of 1.0, indicating it is the most accurate model for this prompt. The cost is also relatively low, suggesting",zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.265,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,gpt-4-1106-preview
+mmlu-high-school-macroeconomics.val.285,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+grade-school-math.dev.1916,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-mathematics.val.133,WizardLM/WizardLM-13B-V1.2,"WizardLM/WizardLM-13B-V1.2
+
+To solve this problem, we need to calculate the total number of words in the book and then divide that by the reading speed to find out how long it will",zero-one-ai/Yi-34B-Chat
+mmlu-international-law.val.81,gpt-4-1106-preview,gpt-4-1106-preview,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.1130,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-machine-learning.val.41,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.3784,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+hellaswag.val.3353,WizardLM/WizardLM-13B-V1.2,A) mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+grade-school-math.dev.5036,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.5183,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.4728,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-abstract-algebra.val.50,WizardLM/WizardLM-13B-V1.2,"WizardLM/WizardLM-13B-V1.2
+
+Explanation:
+The prompt asks for a true or false evaluation of two statements about group theory in mathematics. The correct answer is that Statement 1",WizardLM/WizardLM-13B-V1.2
+mmlu-nutrition.val.288,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.4811,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mbpp.dev.43,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-moral-scenarios.val.252,WizardLM/WizardLM-13B-V1.2,"A) Wrong, Not wrong
+
+The model best suited to answer this prompt would be one that understands ordinary moral standards and can differentiate between actions that are generally considered wrong and those that are not. While the models listed are capable",zero-one-ai/Yi-34B-Chat
+accounting_audit.dev.5,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,zero-one-ai/Yi-34B-Chat
+hellaswag.val.1952,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,claude-v1
+grade-school-math.dev.5514,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+hellaswag.val.4792,WizardLM/WizardLM-13B-V1.2,"C) [substeps] Even though the packaging should prevent the food from spoiling, prolonged heat still has the potential to spur bacteria growth. [title] Rotate jars and pouches out by expiration date",zero-one-ai/Yi-34B-Chat
+mmlu-high-school-european-history.val.65,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+mmlu-high-school-mathematics.val.140,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,claude-instant-v1
+arc-challenge.test.367,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-miscellaneous.val.384,gpt-4-1106-preview,B) Sensation,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-psychology.val.430,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+mmlu-marketing.val.180,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+mmlu-miscellaneous.val.61,WizardLM/WizardLM-13B-V1.2,"WizardLM/WizardLM-13B-V1.2
+
+Islamic civilization had a profound influence on Europe during the Middle Ages, particularly in the fields of science, mathematics, and philosophy. Among",mistralai/mixtral-8x7b-chat
+grade-school-math.dev.3744,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,gpt-4-1106-preview
+grade-school-math.dev.2702,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+grade-school-math.dev.3386,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,gpt-3.5-turbo-1106
+mmlu-moral-scenarios.val.112,WizardLM/WizardLM-13B-V1.2,"B) Wrong, Wrong
+
+The best-suited model for answering this prompt would be one that has a high correctness score for understanding moral standards. Since all models have a correctness score of 1.0, any of",WizardLM/WizardLM-13B-V1.2
+hellaswag.val.9644,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+winogrande.dev.513,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1338,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+mmlu-abstract-algebra.val.58,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,no_model_correct
+mmlu-professional-psychology.val.437,WizardLM/WizardLM-13B-V1.2,"WizardLM/WizardLM-13B-V1.2
+
+The ""in-basket"" technique is a type of assessment used in personnel selection to evaluate a candidate's ability to handle work-related tasks and",WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.790,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+arc-challenge.test.725,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+arc-challenge.test.1081,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+grade-school-math.dev.2999,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.2883,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.654,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-world-history.val.83,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,zero-one-ai/Yi-34B-Chat
+mmlu-world-religions.val.84,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,no_model_correct
+consensus_summary.dev.290,meta/code-llama-instruct-34b-chat,N-A,WizardLM/WizardLM-13B-V1.2
+mmlu-conceptual-physics.val.83,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+hellaswag.val.543,mistralai/mistral-7b-chat,"mistralai/mistral-7b-chat
+
+This model is chosen because it has a high correctness score of 1.0, indicating that it is very likely to provide the correct answer to the prompt about an athlete",WizardLM/WizardLM-13B-V1.2
+consensus_summary.dev.8,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,meta/llama-2-70b-chat
+grade-school-math.dev.3865,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.7191,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-psychology.val.301,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-medicine.val.236,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+arc-challenge.test.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.5832,WizardLM/WizardLM-13B-V1.2,D) mistralai/mistral-7b-chat,gpt-3.5-turbo-1106
+hellaswag.val.4965,WizardLM/WizardLM-13B-V1.2,C) [substeps] In the united states you should call 9-1-1 to report vandalism in progress.,zero-one-ai/Yi-34B-Chat
+hellaswag.val.2215,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.1244,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+grade-school-math.dev.3376,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,claude-instant-v1
+mmlu-miscellaneous.val.660,WizardLM/WizardLM-13B-V1.2,"D) ceramic
+
+The best-suited model for answering this prompt would be one that has a high correctness score for identifying the type of substance terra-cotta. Based on the information provided, all models have a",WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.6695,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-moral-scenarios.val.845,WizardLM/WizardLM-13B-V1.2,"B) Wrong, Not wrong
+
+The model best suited to answer this prompt would be one that has a high correctness score for moral reasoning. While all models listed are capable of generating text, models like WizardLM/Wizard",mistralai/mixtral-8x7b-chat
+hellaswag.val.5829,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,gpt-3.5-turbo-1106
+mmlu-miscellaneous.val.493,mistralai/mixtral-8x7b-chat,"B) hygrometer
+
+The best-suited model to answer this prompt would be any of the high-quality language models that can understand and process the question correctly. Since the question is straightforward and does not require specialized knowledge beyond",WizardLM/WizardLM-13B-V1.2
+mmlu-miscellaneous.val.63,mistralai/mixtral-8x7b-chat,"B) Foreshortening
+
+The best-suited model for answering this prompt would be one that has demonstrated high correctness scores for similar questions related to art and visual techniques. While all the models listed are capable of providing information, the",WizardLM/WizardLM-13B-V1.2
+mmlu-miscellaneous.val.35,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+winogrande.dev.953,claude-v1,A) Lindsey,mistralai/mistral-7b-chat
+grade-school-math.dev.6584,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.1937,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.8977,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-philosophy.val.189,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+hellaswag.val.6160,WizardLM/WizardLM-13B-V1.2,"A) Offer her plenty of liquids frequently and encourage her to drink even if she isn't thirsty. [substeps] Good drinks include water, juice, clear broth, or warm lemon water.",mistralai/mistral-7b-chat
+hellaswag.val.7074,gpt-4-1106-preview,gpt-4-1106-preview,WizardLM/WizardLM-13B-V1.2
+mmlu-global-facts.val.77,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.7917,WizardLM/WizardLM-13B-V1.2,A) mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-high-school-biology.val.289,WizardLM/WizardLM-13B-V1.2,A) WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-international-law.val.94,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+winogrande.dev.1014,claude-v1,"A) Rachel
+
+The model best suited to answer this prompt is not explicitly listed among the available models. However, the correct answer to the prompt is ""A) Rachel,"" as it is logical that Rachel would forgive Mary",mistralai/mistral-7b-chat
+hellaswag.val.6587,WizardLM/WizardLM-13B-V1.2,"D) The child might not have wanted to be adopted earlier in life so he or she could receive foster care benefits (e.g., medical and financial). Want some legal recognition and formalization of a longstanding parent-child relationship.",claude-instant-v1
+hellaswag.val.2461,WizardLM/WizardLM-13B-V1.2,"mistralai/mistral-7b-chat
+
+This model is chosen based on the assumption that the context of the prompt suggests a scenario involving a sports game, possibly basketball given the mention of a man with a rubber pole,",meta/llama-2-70b-chat
+grade-school-math.dev.6641,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+grade-school-math.dev.1799,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+mmlu-high-school-computer-science.val.54,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+grade-school-math.dev.3174,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat,claude-instant-v1
+mmlu-high-school-microeconomics.val.59,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+grade-school-math.dev.5984,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+hellaswag.val.592,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+mmlu-moral-disputes.val.144,WizardLM/WizardLM-13B-V1.2,"WizardLM/WizardLM-13B-V1.2
+
+This model is chosen because it has a correctness score of 1.0, indicating that it is expected to provide the correct answer to the prompt regarding the",mistralai/mistral-7b-chat
+hellaswag.val.2560,meta/code-llama-instruct-34b-chat,"meta/code-llama-instruct-34b-chat
+
+The prompt describes a scene that is likely related to a video or a visual content, possibly involving an interview or a performance. The model ""meta/code-ll",mistralai/mixtral-8x7b-chat
+mmlu-high-school-macroeconomics.val.144,WizardLM/WizardLM-13B-V1.2,"A) The consumer price index
+WizardLM/WizardLM-13B-V1.2",WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.3455,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+grade-school-math.dev.5557,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+consensus_summary.dev.213,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+grade-school-math.dev.6989,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-professional-law.val.250,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+mmlu-clinical-knowledge.val.104,meta/llama-2-70b-chat,"B) Palmitic acid
+
+The best-suited model to answer this prompt would be one that has knowledge of biochemistry or general chemistry. Since none of the models are inherently knowledgeable, we would typically choose a model",mistralai/mixtral-8x7b-chat
+grade-school-math.dev.5450,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.2797,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.2760,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,gpt-4-1106-preview
+grade-school-math.dev.4473,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,gpt-4-1106-preview
+hellaswag.val.5949,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.188,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-biology.val.252,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.8592,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-college-physics.val.94,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,claude-instant-v1
+grade-school-math.dev.2318,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-global-facts.val.99,WizardLM/WizardLM-13B-V1.2,"WizardLM/WizardLM-13B-V1.2
+
+The model WizardLM/WizardLM-13B-V1.2 is chosen for this prompt as it has a correctness score of",zero-one-ai/Yi-34B-Chat
+hellaswag.val.9608,mistralai/mistral-7b-chat,"A) [substeps] Use wire or a head pin depending on how you want your nose ring to look. For example, do you want your hoop to be thick (head pin) or thin (wire), gold or silver.",mistralai/mistral-7b-chat
+hellaswag.val.886,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,claude-instant-v1
+grade-school-math.dev.617,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,claude-instant-v1
+grade-school-math.dev.1245,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,meta/code-llama-instruct-34b-chat
+grade-school-math.dev.136,mistralai/mixtral-8x7b-chat,mistralai/mistral-7b-chat,meta/code-llama-instruct-34b-chat
+mmlu-college-mathematics.val.50,WizardLM/WizardLM-13B-V1.2,"WizardLM/WizardLM-13B-V1.2
+
+This model is chosen because it has a correctness score of 1.0, indicating it is the most accurate model for answering the prompt. The prompt requires",claude-instant-v1
+arc-challenge.test.506,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+arc-challenge.test.816,WizardLM/WizardLM-13B-V1.2,"WizardLM/WizardLM-13B-V1.2
+
+Explanation:
+Humans have the least control over water vapor (B) in the context of smog formation. Water vapor is a",WizardLM/WizardLM-13B-V1.2
+mmlu-prehistory.val.156,WizardLM/WizardLM-13B-V1.2,"WizardLM/WizardLM-13B-V1.2
+
+This model is chosen because it has a correctness score of 1.0, indicating that it is expected to provide the correct answer to the question about the",mistralai/mixtral-8x7b-chat
+mmlu-nutrition.val.0,meta/code-llama-instruct-34b-chat,"meta/code-llama-instruct-34b-chat
+
+This model is chosen based on the assumption that it has the most relevant and up-to-date information regarding dietary habits in Wales and Scotland as of",mistralai/mixtral-8x7b-chat
+mmlu-high-school-european-history.val.163,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.3702,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,zero-one-ai/Yi-34B-Chat
+hellaswag.val.3781,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+mtbench-reference.dev.2,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,gpt-3.5-turbo-1106
+mmlu-high-school-macroeconomics.val.332,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+hellaswag.val.5627,WizardLM/WizardLM-13B-V1.2,A) mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+grade-school-math.dev.3848,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+hellaswag.val.5919,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,claude-instant-v1
+grade-school-math.dev.514,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-moral-disputes.val.209,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+hellaswag.val.7791,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-human-sexuality.val.26,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-nutrition.val.22,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+hellaswag.val.4039,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,claude-instant-v1
+arc-challenge.test.709,mistralai/mixtral-8x7b-chat,claude-v1,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.2905,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-moral-scenarios.val.328,WizardLM/WizardLM-13B-V1.2,"A) Wrong, Not wrong
+
+The best-suited model for this prompt would be one that has a high correctness score for identifying morally wrong actions according to ordinary moral standards. Among the available models, WizardLM/",zero-one-ai/Yi-34B-Chat
+hellaswag.val.8690,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-jurisprudence.val.44,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.7593,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.119,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,claude-instant-v1
+bias_detection.dev.77,WizardLM/WizardLM-13B-V1.2,"WizardLM/WizardLM-13B-V1.2
+
+Reasoning: The sentence provided is a direct quote from a person, which is a clear indication of a quote. The sentence does not present any raw",mistralai/mixtral-8x7b-chat
+arc-challenge.test.635,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.210,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+hellaswag.val.3963,WizardLM/WizardLM-13B-V1.2,D) mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+hellaswag.val.2713,WizardLM/WizardLM-13B-V1.2,"WizardLM/WizardLM-13B-V1.2
+
+This model is chosen because it has a correctness score of 1.0, indicating it is the most accurate model for this prompt. The correct answer to",mistralai/mistral-7b-chat
+mmlu-high-school-macroeconomics.val.35,meta/code-llama-instruct-34b-chat,"B) is part of the Federal Reserve System.
+
+The best-suited model for this prompt is WizardLM/WizardLM-13B-V1.2. This model has a correctness score of 1.",mistralai/mistral-7b-chat
+mbpp.dev.298,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,meta/code-llama-instruct-34b-chat
+grade-school-math.dev.3536,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-college-medicine.val.168,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.638,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+hellaswag.val.5922,mistralai/mistral-7b-chat,"C) [title] When taking notes, do not copy word for word, that is plagiarism! [step] You will not get credit for doing that. Use a maximum of three to five words and document the web address and page",zero-one-ai/Yi-34B-Chat
+mmlu-nutrition.val.220,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-human-sexuality.val.33,WizardLM/WizardLM-13B-V1.2,"WizardLM/WizardLM-13B-V1.2
+
+The model WizardLM/WizardLM-13B-V1.2 is chosen for this prompt as it has a correctness score of",mistralai/mistral-7b-chat
+winogrande.dev.129,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+mmlu-prehistory.val.122,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-high-school-physics.val.103,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+mmlu-nutrition.val.156,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mixtral-8x7b-chat
+mmlu-moral-scenarios.val.285,WizardLM/WizardLM-13B-V1.2,"B) Not wrong, Wrong
+
+The best-suited model for answering this prompt would be one that has a high correctness score for moral reasoning. While all models listed have a correctness score of 1.0, indicating they",zero-one-ai/Yi-34B-Chat
+winogrande.dev.361,mistralai/mistral-7b-chat,"mistralai/mistral-7b-chat
+
+This model is chosen because it has a high correctness score of 1.0, indicating that it is very likely to provide the correct answer to the prompt about the viscos",mistralai/mixtral-8x7b-chat
+mmlu-high-school-mathematics.val.229,WizardLM/WizardLM-13B-V1.2,"WizardLM/WizardLM-13B-V1.2
+
+To solve this prompt, we need to find the time Sarah took for her sixth attempt that resulted in a median time of 92 seconds. The median is",no_model_correct
+grade-school-math.dev.7065,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-elementary-mathematics.val.218,mistralai/mixtral-8x7b-chat,"D) ounces
+mistralai/mistral-7b-chat",mistralai/mixtral-8x7b-chat
+winogrande.dev.1012,WizardLM/WizardLM-13B-V1.2,Justin,mistralai/mistral-7b-chat
+hellaswag.val.8217,mistralai/mixtral-8x7b-chat,"B) [step] Hawaii residents have two advantages to the marathon: early registration date notifications and lower entry fees. There are separate entry fee amounts for hawaii residents, united states residents, and international residents.",zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.209,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+mmlu-high-school-mathematics.val.142,WizardLM/WizardLM-13B-V1.2,"A) x^{11}+10x^9+7x^8+6x^7+3x^3+5x+8
+WizardLM/WizardLM-13B-V1.2",mistralai/mistral-7b-chat
+grade-school-math.dev.180,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-logical-fallacies.val.100,meta/llama-2-70b-chat,meta/llama-2-70b-chat,mistralai/mistral-7b-chat
+hellaswag.val.178,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2

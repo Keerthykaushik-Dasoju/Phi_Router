@@ -1,5 +1,19 @@
 # Activate conda env using below command before running this router
-conda activate /work/pi_wenlongzhao_umass_edu/25/kdasoju/Phi3.5_Router/phi3.5_env 
+conda activate /work/pi_wenlongzhao_umass_edu/25/kdasoju/Phi3.5_Router/phi3.5_env
+
+candidate_models = [
+    "WizardLM/WizardLM-13B-V1.2",
+    "claude-instant-v1",
+    "claude-v1",
+    "claude-v2",
+    "gpt-3.5-turbo-1106",
+    "gpt-4-1106-preview",
+    "meta/code-llama-instruct-34b-chat",
+    "meta/llama-2-70b-chat",
+    "mistralai/mistral-7b-chat",
+    "mistralai/mixtral-8x7b-chat",
+    "zero-one-ai/Yi-34B-Chat"
+]
 
 1) prompt = """Instruction: Classify the sentiment of the following review as Positive, Negative, or Neutral.
 

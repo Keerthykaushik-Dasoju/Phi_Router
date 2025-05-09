@@ -1,0 +1,55 @@
+sample_id,phi_prediction,phi_response,oracle_model_to_route
+mmlu-professional-law.val.1247,gpt-4-1106-preview,gpt-4-1106-preview,WizardLM/WizardLM-13B-V1.2
+mmlu-international-law.val.89,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.4617,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.5357,gpt-4-1106-preview,gpt-4-1106-preview,meta/llama-2-70b-chat
+hellaswag.val.2731,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.9797,mistralai/mistral-7b-chat,D,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.570,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+hellaswag.val.1836,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.2769,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.485,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,claude-instant-v1
+hellaswag.val.2850,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-business-ethics.val.54,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+bias_detection.dev.265,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat [The sentence is an opinion because it expresses Marat Gabidullin's personal view about the group's existence without Prigozhin's leadership. The classification is,no_model_correct
+consensus_summary.dev.5,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,claude-v1
+hellaswag.val.3051,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,meta/llama-2-70b-chat
+hellaswag.val.5313,mistralai/mistral-7b-chat,"C) [substeps] Look for one at local hardware stores, department stores, or online. [substeps] For instance, the jobsite boot scrubber brush mat, available online for approximately $17, is a door mat",WizardLM/WizardLM-13B-V1.2
+mmlu-miscellaneous.val.737,mistralai/mistral-7b-chat,B) Balderdash,WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.3702,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+hellaswag.val.6662,mistralai/mistral-7b-chat,A) Spray the solution all over your tub and scrub with a long handled bathtub cleaning tool which you can buy almost anywhere cleaning supplies are sold. Here are some other items you might want to help you clean.,mistralai/mistral-7b-chat
+grade-school-math.dev.5353,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat
+grade-school-math.dev.7313,gpt-4-1106-preview,gpt-4-1106-preview,meta/code-llama-instruct-34b-chat
+mmlu-high-school-biology.val.90,gpt-4-1106-preview,gpt-4-1106-preview,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.73,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-business-ethics.val.77,mistralai/mistral-7b-chat,A) commercial performance,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.7889,mistralai/mistral-7b-chat,"C) [step] Take a clean saucepan and fill the saucepan with room temperature water to at least half of the pan. [title] Place the saucepan on the stove.
+
+The correct model to route this",zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.715,gpt-4-1106-preview,gpt-4-1106-preview,mistralai/mistral-7b-chat
+mmlu-jurisprudence.val.67,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+hellaswag.val.2580,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,gpt-4-1106-preview
+grade-school-math.dev.5091,gpt-4-1106-preview,gpt-4-1106-preview,mistralai/mistral-7b-chat
+grade-school-math.dev.7398,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.8841,mistralai/mistral-7b-chat,"B) Avoid placing uncomfortable or overly thick blankets on the floor or the table during the massage, however. If the person will be sitting for the entire massage, make sure a low table, such as a chair",zero-one-ai/Yi-34B-Chat
+mmlu-college-mathematics.val.52,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.1513,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,no_model_correct
+hellaswag.val.6403,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.1515,gpt-4-1106-preview,gpt-4-1106-preview,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.8810,mistralai/mistral-7b-chat,"A) [substeps] Some good sources can include wrapping paper, old magazines, old books, comics, and crossword puzzles. If you are unable to find anything you like in print, you can also find images you like",mistralai/mistral-7b-chat
+mmlu-professional-law.val.1365,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+hellaswag.val.9743,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+hellaswag.val.4227,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.3650,gpt-4-1106-preview,gpt-4-1106-preview,meta/llama-2-70b-chat
+grade-school-math.dev.7183,gpt-4-1106-preview,gpt-4-1106-preview,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.2573,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.1662,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-miscellaneous.val.235,gpt-4-1106-preview,"D) through a human body
+
+The correct model to route this prompt to, based on the information provided, would be the one with the highest correctness score for this specific question. Since the question is factual and the correct answer is well",WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.2161,gpt-4-1106-preview,gpt-4-1106-preview,claude-instant-v1
+hellaswag.val.5410,mistralai/mistral-7b-chat,"A) Bubble bars are luxurious, and not worth a quick, five minute bath. Save them for when you have time to take a longer bath and relax.",mistralai/mistral-7b-chat
+hellaswag.val.551,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-high-school-geography.val.58,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1203,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+hellaswag.val.867,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat

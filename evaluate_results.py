@@ -3,21 +3,15 @@ import matplotlib.pyplot as plt
 from datetime import datetime
 
 # Load the merged CSV
-df = pd.read_csv("/work/pi_wenlongzhao_umass_edu/25/kdasoju/Phi3.5_Router/test_scores.csv")
+df = pd.read_csv("/work/pi_wenlongzhao_umass_edu/25/kdasoju/Phi3.5_Router/phi_routing_results_log_probs_with_scores_0shot.csv")
 
 # List of model names (11 total)
 model_names = [
-    "WizardLM/WizardLM-13B-V1.2",
-    "claude-instant-v1",
-    "claude-v1",
-    "claude-v2",
-    "gpt-3.5-turbo-1106",
-    "gpt-4-1106-preview",
-    "meta/code-llama-instruct-34b-chat",
-    "meta/llama-2-70b-chat",
     "mistralai/mistral-7b-chat",
+    "WizardLM/WizardLM-13B-V1.2",
     "mistralai/mixtral-8x7b-chat",
-    "zero-one-ai/Yi-34B-Chat"
+    'meta/code-llama-instruct-34b-chat',
+    "gpt-4-1106-preview",
 ]
 
 avg_correctness = []
