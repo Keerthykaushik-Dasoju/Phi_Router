@@ -1,0 +1,10 @@
+arc-challenge.test.130
+WizardLM/WizardLM-13B-V1.2
+arc-challenge.test.788
+mistralai/mistral-7b-chat
+arc-challenge.test.493
+mistralai/mixtral-8x7b-chat
+arc-challenge.val.12
+gpt-4-1106-preview
+arc-challenge.val.268
+meta/code-llama-instruct-34b-chat

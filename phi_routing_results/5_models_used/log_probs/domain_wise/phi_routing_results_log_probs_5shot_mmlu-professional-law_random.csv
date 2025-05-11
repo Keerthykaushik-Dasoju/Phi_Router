@@ -1,0 +1,780 @@
+sample_id,phi_prediction,phi_response,oracle_model_to_route
+mmlu-professional-law.val.1247,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.570,mistralai/mistral-7b-chat,D) not guilty.,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.485,gpt-4-1106-preview,gpt-4-1106-preview,claude-instant-v1
+mmlu-professional-law.val.73,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.1513,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,no_model_correct
+mmlu-professional-law.val.1365,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1091,mistralai/mixtral-8x7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.185,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,gpt-4-1106-preview
+mmlu-professional-law.val.598,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,gpt-3.5-turbo-1106
+mmlu-professional-law.val.1314,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.409,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.113,WizardLM/WizardLM-13B-V1.2,C) An officer must have probable cause that a felony has occurred and that the arrested person committed it.,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.1067,mistralai/mistral-7b-chat,"A) denied, because double jeopardy rights do not attach unless there has been an acquittal or conviction.",no_model_correct
+mmlu-professional-law.val.778,gpt-4-1106-preview,D) Hearsay,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1010,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1440,gpt-4-1106-preview,gpt-4-1106-preview,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.1399,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1179,mistralai/mistral-7b-chat,B) It is constitutional because Congress can demonstrate that such a subsidy is rationally related to a legitimate public interest.,claude-instant-v1
+mmlu-professional-law.val.594,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.1121,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.818,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.105,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,no_model_correct
+mmlu-professional-law.val.820,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.57,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.571,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.336,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,no_model_correct
+mmlu-professional-law.val.983,mistralai/mixtral-8x7b-chat,mistralai/microfilm,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1428,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.622,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,no_model_correct
+mmlu-professional-law.val.267,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1482,mistralai/mistral-7b-chat,"C) State law, because there is no general federal common law and preclusion is a common law doctrine.",WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1171,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.856,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.645,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.465,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,no_model_correct
+mmlu-professional-law.val.517,gpt-4-1106-preview,gpt-4-1106-preview,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1053,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.480,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.959,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1311,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,no_model_correct
+mmlu-professional-law.val.627,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,no_model_correct
+mmlu-professional-law.val.679,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.1181,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1359,mistralai/mistral-7b-chat,"C) No, his belief that she consented in advance was unreasonable and impermissible.",zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.9,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.734,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.225,mistralai/mistral-7b-chat,"B) Yes, but only if the local interest in safety outweighs the burden of interstate commerce",gpt-4-1106-preview
+mmlu-professional-law.val.1487,mistralai/mistral-7b-chat,"A) Wait a reasonable time not to exceed 30 days; if adequate assurances are not received, cancel the contract, cover immediately and then sue for damages.",mistralai/mistral-7b-chat
+mmlu-professional-law.val.1224,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1370,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.1192,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1402,mistralai/mistral-7b-chat,B) WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-professional-law.val.102,mistralai/mistral-7b-chat,B) admissible as former testimony,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.443,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.101,gpt-4-1106-preview,gpt-4-1106-preview,claude-instant-v1
+mmlu-professional-law.val.379,mistralai/mistral-7b-chat,"C) inadmissible, because it constitutes improper character evidence.",gpt-4-1106-preview
+mmlu-professional-law.val.1475,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.716,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,no_model_correct
+mmlu-professional-law.val.912,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.210,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.1309,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.841,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,claude-v1
+mmlu-professional-law.val.1052,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,no_model_correct
+mmlu-professional-law.val.1473,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,no_model_correct
+mmlu-professional-law.val.112,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.643,mistralai/mixtral-8x7b-chat,D) gpt-4-1106-preview,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.153,gpt-4-1106-preview,gpt-4-1106-preview,claude-instant-v1
+mmlu-professional-law.val.631,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.53,mistralai/mistral-7b-chat,"C) No, because the parties stipulated to a verdict from a jury of fewer than six jurors.",zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.54,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.590,mistralai/mistral-7b-chat,D,no_model_correct
+mmlu-professional-law.val.1297,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.412,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.230,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1212,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1529,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.372,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.827,gpt-4-1106-preview,gpt-4-1106-preview,mistralai/mistral-7b-chat
+mmlu-professional-law.val.564,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,gpt-3.5-turbo-1106
+mmlu-professional-law.val.969,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.260,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.621,mistralai/mistral-7b-chat,"B) denied, because the exclusionary rule has not been extended to grand jury hearings.",WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1472,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,no_model_correct
+mmlu-professional-law.val.31,mistralai/mistral-7b-chat,"B) Yes, both the woman and the man can testify because it is an excited utterance exception to the hearsay rule that goes to the material issue of the case.",WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.279,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.127,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.612,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,gpt-3.5-turbo-1106
+mmlu-professional-law.val.148,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1441,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1184,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1228,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1486,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.1146,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,claude-v2
+mmlu-professional-law.val.1517,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1084,mistralai/mistral-7b-chat,C) Solicitation and conspiracy.,mistralai/mistral-7b-chat
+mmlu-professional-law.val.618,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1494,mistralai/mistral-7b-chat,B) WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-professional-law.val.520,gpt-4-1106-preview,gpt-4-1106-preview,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.1393,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.254,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.857,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,gpt-4-1106-preview
+mmlu-professional-law.val.1265,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.891,mistralai/mixtral-8x7b-chat,"B) The price term is $75,000, but either party can rescind the contract, because there was a mutual mistake as to a basic assumption of fact.",mistralai/mistral-7b-chat
+mmlu-professional-law.val.1316,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.556,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,gpt-4-1106-preview
+mmlu-professional-law.val.640,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.866,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1206,mistralai/mistral-7b-chat,A) The state must convince the court that the classification in the statute is rationally related to the advancement of a legitimate state interest.,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.5,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.1225,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.667,gpt-4-1106-preview,gpt-4-1106-preview,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1120,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.581,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.1518,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.133,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.43,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.989,mistralai/mistral-7b-chat,D) gpt-4-1106-preview,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.448,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1081,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1239,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.1491,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.1268,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.1489,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.744,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1060,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.650,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,gpt-4-1106-preview
+mmlu-professional-law.val.357,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1110,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,no_model_correct
+mmlu-professional-law.val.997,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.244,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.6,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,claude-instant-v1
+mmlu-professional-law.val.1145,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.853,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1400,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.637,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1446,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.471,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.151,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.416,mistralai/mistral-7b-chat,"B) The testimony about the water is an admissible statement of an opposing party, but the rest of the testimony is inadmissible as an offer to pay medical expenses.",WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.131,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.15,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.688,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.404,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.528,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,claude-v1
+mmlu-professional-law.val.714,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1038,gpt-4-1106-preview,gpt-4-1106-preview,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.726,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.265,gpt-4-1106-preview,gpt-4-1106-preview,gpt-4-1106-preview
+mmlu-professional-law.val.844,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.695,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.910,gpt-4-1106-preview,gpt-4-1106-preview,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.1344,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1416,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.591,mistralai/mistral-7b-chat,"B) No, because the court entered final judgment for Plaintiff before the motion to set aside the verdict was filed.",mistralai/mistral-7b-chat
+mmlu-professional-law.val.342,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.800,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.266,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.194,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1006,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,claude-instant-v1
+mmlu-professional-law.val.1175,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1076,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1186,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.442,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.920,mistralai/mistral-7b-chat,D,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.938,mistralai/mistral-7b-chat,"B) denied, because the firefighter's rule does not apply to police officers.",mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.1156,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.1017,mistralai/mistral-7b-chat,B) It is not a denial of due process or of First Amendment rights for a congressional investigative committee member to make such utterances.,mistralai/mistral-7b-chat
+mmlu-professional-law.val.79,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.809,mistralai/mistral-7b-chat,A) admissible as a present sense impression.,claude-instant-v1
+mmlu-professional-law.val.30,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.553,gpt-4-1106-preview,gpt-4-1106-preview,mistralai/mistral-7b-chat
+mmlu-professional-law.val.580,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.996,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1045,gpt-4-1106-preview,gpt-4-1106-preview,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.22,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.708,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,claude-instant-v1
+mmlu-professional-law.val.962,gpt-4-1106-preview,gpt-4-1106-preview,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.868,mistralai/mistral-7b-chat,C) the presidential power to conduct foreign affairs.,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.1401,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.17,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.527,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.139,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.854,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,claude-v1
+mmlu-professional-law.val.1207,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,no_model_correct
+mmlu-professional-law.val.659,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.906,gpt-4-1106-preview,gpt-4-1106-preview,mistralai/mistral-7b-chat
+mmlu-professional-law.val.382,mistralai/mistral-7b-chat,"A) deny the motion, because the city and the state are separate sovereigns.",no_model_correct
+mmlu-professional-law.val.1533,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.1188,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.869,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.687,mistralai/mistral-7b-chat,A) The burglary was abandoned.,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.565,gpt-4-1106-preview,gpt-4-1106-preview,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.1442,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1059,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.468,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.518,mistralai/mistral-7b-chat,"B) No, because the mortgage was granted before the tenancy in common was created.",mistralai/mistral-7b-chat
+mmlu-professional-law.val.689,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1090,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,no_model_correct
+mmlu-professional-law.val.1130,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.982,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,gpt-3.5-turbo-1106
+mmlu-professional-law.val.1124,gpt-4-1106-preview,gpt-4-1106-preview,gpt-3.5-turbo-1106
+mmlu-professional-law.val.802,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1293,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,claude-v2
+mmlu-professional-law.val.88,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.187,gpt-4-1106-preview,"C) No, because Congress can place any condition on the receipt of federal funds.",mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.94,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1261,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.994,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.198,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1058,gpt-4-1106-preview,gpt-4-1106-preview,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.1040,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,claude-instant-v1
+mmlu-professional-law.val.107,gpt-4-1106-preview,gpt-4-1106-preview,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.793,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.1159,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.496,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.192,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.1325,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.1180,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.826,gpt-4-1106-preview,gpt-4-1106-preview,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.1403,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1358,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.306,mistralai/mistral-7b-chat,"B) No, because the offer expressly limited the acceptance to the terms of the offer.",mistralai/mistral-7b-chat
+mmlu-professional-law.val.804,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.296,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.666,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1229,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.378,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.44,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.1215,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,gpt-4-1106-preview
+mmlu-professional-law.val.801,gpt-4-1106-preview,B) Clearly erroneous.,mistralai/mistral-7b-chat
+mmlu-professional-law.val.261,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,claude-v2
+mmlu-professional-law.val.388,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.652,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.665,mistralai/mistral-7b-chat,B) demonstrate the relevance of the letter.,mistralai/mistral-7b-chat
+mmlu-professional-law.val.164,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.373,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,no_model_correct
+mmlu-professional-law.val.32,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,claude-instant-v1
+mmlu-professional-law.val.692,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,gpt-4-1106-preview
+mmlu-professional-law.val.1133,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.236,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1237,gpt-4-1106-preview,"D) Yes, because the parties are citizens of different states and more than $75,000 is in controversy.",zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.1431,mistralai/mixtral-8x7b-chat,"C) It is an interference with another's right of possession so severe as to warrant defendant to pay full price of chattel. (This is not true about conversion, as conversion typically involves the defendant paying the market",mistralai/mistral-7b-chat
+mmlu-professional-law.val.812,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.736,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1333,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1039,mistralai/mistral-7b-chat,A) guilty,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1294,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1394,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.557,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.349,mistralai/mistral-7b-chat,"C) admissible, because the woman believed her death was imminent when she made the declaration.",no_model_correct
+mmlu-professional-law.val.158,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1078,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1113,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.657,mistralai/mistral-7b-chat,"C) Yes, because it retrospectively increased the punishment over what was in effect when the offense was committed.",zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.87,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,no_model_correct
+mmlu-professional-law.val.1326,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1026,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.549,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1395,gpt-4-1106-preview,gpt-4-1106-preview,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1460,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.888,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.822,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.430,gpt-4-1106-preview,gpt-4-1106-preview,gpt-3.5-turbo-1106
+mmlu-professional-law.val.1197,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.981,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1469,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.76,gpt-4-1106-preview,gpt-4-1106-preview,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1222,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.506,gpt-4-1106-preview,gpt-4-1106-preview,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1221,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.288,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.555,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.635,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.318,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,claude-v2
+mmlu-professional-law.val.152,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.1454,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.999,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,no_model_correct
+mmlu-professional-law.val.886,mistralai/mixtral-8x7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.93,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.903,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1435,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1338,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.1496,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,claude-instant-v1
+mmlu-professional-law.val.1510,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.724,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,claude-v2
+mmlu-professional-law.val.408,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.586,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.170,mistralai/mixtral-8x7b-chat,B) The woman joined the organization with the specific intent of furthering its illegal activities.,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.456,gpt-4-1106-preview,gpt-4-1106-preview,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.403,gpt-4-1106-preview,d,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.302,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,no_model_correct
+mmlu-professional-law.val.790,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.855,mistralai/mistral-7b-chat,"B) No, because the man's conduct violated the laws of two different states, and each has the right to enforce its laws.",mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.259,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1357,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.823,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.209,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1097,gpt-4-1106-preview,gpt-4-1106-preview,mistralai/mistral-7b-chat
+mmlu-professional-law.val.475,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1451,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1254,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.119,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,claude-instant-v1
+mmlu-professional-law.val.109,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1376,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1187,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1203,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.698,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,claude-instant-v1
+mmlu-professional-law.val.1106,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.245,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.89,mistralai/mixtral-8x7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.965,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.722,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,no_model_correct
+mmlu-professional-law.val.814,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.738,gpt-4-1106-preview,gpt-4-1106-preview,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.1280,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.202,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,claude-v2
+mmlu-professional-law.val.335,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,claude-instant-v1
+mmlu-professional-law.val.660,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,no_model_correct
+mmlu-professional-law.val.204,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.479,gpt-4-1106-preview,gpt-4-1106-preview,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.745,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,claude-v1
+mmlu-professional-law.val.1023,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.28,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,claude-v2
+mmlu-professional-law.val.1301,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.12,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1528,gpt-4-1106-preview,gpt-4-1106-preview,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1004,mistralai/mistral-7b-chat,"A) The written instrument embodied a proposal for a fair exchange within a reasonable time period and was therefore an enforceable option contract, regardless of whether the nominal consideration recited was bargained for or paid.",mistralai/mistral-7b-chat
+mmlu-professional-law.val.1443,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,claude-v2
+mmlu-professional-law.val.1083,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.383,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.359,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1236,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1414,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.632,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,no_model_correct
+mmlu-professional-law.val.71,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.214,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.691,mistralai/mistral-7b-chat,C) The complaint does not allege that the manufacturer's conduct was extreme and outrageous.,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.486,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,claude-instant-v1
+mmlu-professional-law.val.892,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.235,gpt-4-1106-preview,mistralai/mistral-7b-chat,gpt-4-1106-preview
+mmlu-professional-law.val.671,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,no_model_correct
+mmlu-professional-law.val.1332,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.222,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,no_model_correct
+mmlu-professional-law.val.256,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1164,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1016,mistralai/mistral-7b-chat,C) A discriminatory effect.,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.575,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.242,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1085,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1074,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,no_model_correct
+mmlu-professional-law.val.226,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.897,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.1080,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.1405,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1198,mistralai/mistral-7b-chat,A) mistralai/mistral-7b-chat,no_model_correct
+mmlu-professional-law.val.760,mistralai/mixtral-8x7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.315,mistralai/mistral-7b-chat,"C) admissible, because the duplicate is a carbon copy. (Note: While in practice, the best evidence rule might require the original document, the context of the question suggests that the carbon copy is being used as evidence due to the loss",mistralai/mistral-7b-chat
+mmlu-professional-law.val.417,mistralai/mistral-7b-chat,"B) Yes, because it is prior testimony of an unavailable declarant.",WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.115,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.874,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,claude-v1
+mmlu-professional-law.val.629,meta/code-llama-instruct-34b-chat,C) The treaties and immigration laws of the United States.,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.407,gpt-4-1106-preview,gpt-4-1106-preview,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1520,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,no_model_correct
+mmlu-professional-law.val.150,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.1495,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.406,gpt-4-1106-preview,gpt-4-1106-preview,mistralai/mistral-7b-chat
+mmlu-professional-law.val.654,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.824,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.1177,mistralai/mixtral-8x7b-chat,D) Fifteenth Amendment,mistralai/mistral-7b-chat
+mmlu-professional-law.val.98,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1051,gpt-4-1106-preview,gpt-4-1106-preview,mistralai/mistral-7b-chat
+mmlu-professional-law.val.914,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.1102,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.278,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,claude-instant-v1
+mmlu-professional-law.val.1364,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.678,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,claude-instant-v1
+mmlu-professional-law.val.1104,mistralai/mistral-7b-chat,"B) Yes, as a statement of an opposing party.",WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.877,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.221,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1226,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.65,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.281,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.1025,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1161,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1492,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.960,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1320,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.562,gpt-4-1106-preview,gpt-4-1106-preview,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1378,WizardLM/WizardLM-13B-V1.2,A) Additional terms always become part of the contract.,mistralai/mistral-7b-chat
+mmlu-professional-law.val.949,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1461,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,no_model_correct
+mmlu-professional-law.val.1323,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.858,mistralai/mistral-7b-chat,B,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.263,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.898,gpt-4-1106-preview,gpt-4-1106-preview,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.171,mistralai/mixtral-8x7b-chat,D) the widow died,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1432,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1521,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.255,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.19,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.602,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.740,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,no_model_correct
+mmlu-professional-law.val.162,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,claude-v1
+mmlu-professional-law.val.1013,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.560,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.280,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.237,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.490,gpt-4-1106-preview,C) gpt-4-1106-preview,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.350,mistralai/mixtral-8x7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.907,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.397,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.977,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.1527,mistralai/mistral-7b-chat,"C) Grantee Index under the caterer's name, then the Grantor Index under the caterer's name, and then in the Grantee Index again, this time under the artist's name to discover if",mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.735,gpt-4-1106-preview,gpt-4-1106-preview,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.341,gpt-4-1106-preview,gpt-4-1106-preview,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1348,gpt-4-1106-preview,gpt-4-1106-preview,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.559,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,claude-instant-v1
+mmlu-professional-law.val.293,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.928,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1000,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.78,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,claude-v2
+mmlu-professional-law.val.166,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.497,gpt-4-1106-preview,gpt-4-1106-preview,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1202,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.283,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.1427,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.909,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,no_model_correct
+mmlu-professional-law.val.84,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1007,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1421,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1118,gpt-4-1106-preview,gpt-4-1106-preview,mistralai/mistral-7b-chat
+mmlu-professional-law.val.524,mistralai/mixtral-8x7b-chat,easement appurtenant,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.699,gpt-4-1106-preview,gpt-4-1106-preview,mistralai/mistral-7b-chat
+mmlu-professional-law.val.360,gpt-4-1106-preview,gpt-4-1106-preview,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1343,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1336,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,no_model_correct
+mmlu-professional-law.val.1003,mistralai/mistral-7b-chat,A) No,mistralai/mistral-7b-chat
+mmlu-professional-law.val.435,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.476,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.348,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.344,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.103,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.481,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,claude-instant-v1
+mmlu-professional-law.val.715,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.972,meta/code-llama-instruct-34b-chat,B) The privileges and immunities clause of Article IV.,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.538,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1100,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.51,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1194,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.950,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,no_model_correct
+mmlu-professional-law.val.807,mistralai/mistral-7b-chat,"B) improper, because it is not relevant to the issues in the case.",no_model_correct
+mmlu-professional-law.val.1183,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.361,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1107,WizardLM/WizardLM-13B-V1.2,C) A price increase is sufficient for discharge.,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.80,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1115,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,gpt-4-1106-preview
+mmlu-professional-law.val.401,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1036,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.116,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.727,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.963,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.176,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.36,mistralai/mistral-7b-chat,B) WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-professional-law.val.783,mistralai/mistral-7b-chat,"D) Yes, because the potential juror is presumed to be biased because of his relationship to the company.",claude-v1
+mmlu-professional-law.val.1281,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1160,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1136,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.215,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.1129,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.840,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.900,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.750,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.472,gpt-4-1106-preview,gpt-4-1106-preview,mistralai/mistral-7b-chat
+mmlu-professional-law.val.884,mistralai/mistral-7b-chat,B) WizardLM/WizardLM-13B-V1.2,mistralai/mistral-7b-chat
+mmlu-professional-law.val.311,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,no_model_correct
+mmlu-professional-law.val.188,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.494,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1330,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.926,gpt-4-1106-preview,gpt-4-1106-preview,mistralai/mistral-7b-chat
+mmlu-professional-law.val.211,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.1109,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.117,gpt-4-1106-preview,"C) They increase the evidence required to convict a person than when the act was done.
+
+The correct model to route this prompt, based on the requirement for correctness and cost, is:
+
+meta/code-llama-",mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.554,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1273,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.47,mistralai/mistral-7b-chat,C) fee simple subject to condition subsequent,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1459,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.489,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.536,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1470,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1480,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.523,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.393,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.1087,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.49,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1434,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1070,gpt-4-1106-preview,gpt-4-1106-preview,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.607,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1425,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1380,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.463,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.980,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,gpt-3.5-turbo-1106
+mmlu-professional-law.val.1286,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1307,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1519,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1165,mistralai/mistral-7b-chat,"A) admissible, because the television correspondent had firsthand knowledge of the opponent's statement.",mistralai/mistral-7b-chat
+mmlu-professional-law.val.1315,gpt-4-1106-preview,B) admissible for impeachment purposes only.,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.74,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.455,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,claude-instant-v1
+mmlu-professional-law.val.467,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.921,gpt-4-1106-preview,gpt-4-1106-preview,no_model_correct
+mmlu-professional-law.val.733,mistralai/mixtral-8x7b-chat,mistralai/mistral-7b-chat,gpt-3.5-turbo-1106
+mmlu-professional-law.val.414,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.675,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.328,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.731,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1499,mistralai/mixtral-8x7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1048,mistralai/mistral-7b-chat,C) admitted as relevant evidence of the candidate's character as a thief.,claude-instant-v1
+mmlu-professional-law.val.1172,gpt-4-1106-preview,gpt-4-1106-preview,claude-instant-v1
+mmlu-professional-law.val.1289,gpt-4-1106-preview,gpt-4-1106-preview,no_model_correct
+mmlu-professional-law.val.1064,mistralai/mistral-7b-chat,"A) Both parties are excused from performance because of the supervening illegality, and neither can recover from the other.",claude-instant-v1
+mmlu-professional-law.val.1099,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1285,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,claude-v2
+mmlu-professional-law.val.1209,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.957,mistralai/mistral-7b-chat,C) A state official from discriminating against a person based on race.,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.90,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.624,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.173,mistralai/mistral-7b-chat,"B) No, because the man received the letter on May 4.",zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.82,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,claude-instant-v1
+mmlu-professional-law.val.641,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.411,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1345,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.354,mistralai/mistral-7b-chat,"A) If the state uses its own taxpayer funds to purchase construction materials, it is responsible for creating demand for the required labor.",mistralai/mistral-7b-chat
+mmlu-professional-law.val.384,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.190,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.464,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1449,gpt-4-1106-preview,gpt-4-1106-preview,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.21,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,claude-v2
+mmlu-professional-law.val.1069,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,no_model_correct
+mmlu-professional-law.val.1267,gpt-4-1106-preview,gpt-4-1106-preview,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1235,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.956,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,claude-v2
+mmlu-professional-law.val.249,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.819,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1009,mistralai/mistral-7b-chat,A) Admit the testimony under the former testimony exception to the hearsay rule.,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1211,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,no_model_correct
+mmlu-professional-law.val.799,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.309,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.69,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,gpt-4-1106-preview
+mmlu-professional-law.val.128,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1274,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.703,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.548,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.946,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,claude-instant-v1
+mmlu-professional-law.val.1034,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,no_model_correct
+mmlu-professional-law.val.413,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.483,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.808,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,claude-instant-v1
+mmlu-professional-law.val.534,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.91,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1108,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.460,mistralai/mistral-7b-chat,"B) overrule the objection, as a statement made for the purpose of diagnosis or treatment.",WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1317,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.985,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.1044,gpt-4-1106-preview,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.258,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.664,mistralai/mixtral-8x7b-chat,mistralai/mistral-8x7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.60,mistralai/mixtral-8x7b-chat,C) There was insufficient consideration to support the certificate agreement.,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.38,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,claude-instant-v1
+mmlu-professional-law.val.828,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.616,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.169,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.1318,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.862,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,no_model_correct
+mmlu-professional-law.val.1304,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.720,mistralai/mistral-7b-chat,"B) No, because this is likely a strict liability law that does not provide for defenses based on mental state.",mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.1329,gpt-4-1106-preview,gpt-4-1106-preview,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.890,mistralai/mistral-7b-chat,"B) deny relief, since the noncompulsory nature of the invocation would not be violative of the establishment clause.",zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.1173,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1340,mistralai/mistral-7b-chat,"C) No, the motion will be denied because this was a valid search incident to an arrest.",claude-v2
+mmlu-professional-law.val.323,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.257,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1079,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.614,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1305,mistralai/mistral-7b-chat,"B) robbery, aggravated assault, and murder.",mistralai/mistral-7b-chat
+mmlu-professional-law.val.1397,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.784,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1350,mistralai/mistral-7b-chat,B) Not formed because the addition of the three year request was a condition that Berg had to agree should be included.,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.704,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.729,gpt-4-1106-preview,gpt-4-1106-preview,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.1134,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.1066,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1086,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.317,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.908,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,no_model_correct
+mmlu-professional-law.val.199,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.390,gpt-4-1106-preview,D) sustain the objection as an offer to pay the medical bills.,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.905,gpt-4-1106-preview,gpt-4-1106-preview,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.160,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1284,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,no_model_correct
+mmlu-professional-law.val.837,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.504,gpt-4-1106-preview,gpt-4-1106-preview,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.617,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.1035,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1322,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1116,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.72,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.1128,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.250,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1288,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.227,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.312,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.10,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.933,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.369,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1276,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.871,gpt-4-1106-preview,D) gpt-4-1106-preview,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.23,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,no_model_correct
+mmlu-professional-law.val.183,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.338,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.515,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.234,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.1290,mistralai/mistral-7b-chat,A) the search was incident to a lawful arrest.,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.830,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.129,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.97,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.638,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.1220,gpt-4-1106-preview,gpt-4-1106-preview,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.544,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1426,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.1142,mistralai/mixtral-8x7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.363,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.741,gpt-4-1106-preview,gpt-4-1106-preview,mistralai/mistral-7b-chat
+mmlu-professional-law.val.584,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1135,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1471,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1253,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1244,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.172,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,gpt-3.5-turbo-1106
+mmlu-professional-law.val.498,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.1291,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1072,gpt-4-1106-preview,gpt-4-1106-preview,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.653,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.558,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,gpt-4-1106-preview
+mmlu-professional-law.val.399,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,no_model_correct
+mmlu-professional-law.val.541,gpt-4-1106-preview,"B) No, sentencing laws widely authorize the sentencing court to engage in fact-finding that is based on a preponderance of the evidence.",mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.787,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.732,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.576,gpt-4-1106-preview,gpt-4-1106-preview,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.473,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.846,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,no_model_correct
+mmlu-professional-law.val.673,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.1122,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.899,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,gpt-4-1106-preview
+mmlu-professional-law.val.1049,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.952,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1377,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.683,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.817,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,claude-instant-v1
+mmlu-professional-law.val.96,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1269,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,claude-instant-v1
+mmlu-professional-law.val.1272,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.1241,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.955,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.1362,mistralai/mistral-7b-chat,B) Whether medical treatment is necessary to save the baby's life.,no_model_correct
+mmlu-professional-law.val.1526,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.953,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,claude-v2
+mmlu-professional-law.val.1125,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.829,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.1387,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.1061,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.181,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.739,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,no_model_correct
+mmlu-professional-law.val.501,gpt-4-1106-preview,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.1328,gpt-4-1106-preview,gpt-4-1106-preview,mistralai/mistral-7b-chat
+mmlu-professional-law.val.269,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.763,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.798,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1270,gpt-4-1106-preview,A) permit the child to be exhibited as a non-objectionable form of demonstrative evidence.,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1082,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.754,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.861,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.658,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.995,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.662,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.387,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.228,mistralai/mistral-7b-chat,B) Service as required by State B's rules of civil procedure.,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1166,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.579,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.674,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.694,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,no_model_correct
+mmlu-professional-law.val.1341,gpt-4-1106-preview,gpt-4-1106-preview,claude-instant-v1
+mmlu-professional-law.val.1504,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.42,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.747,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.519,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.568,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.636,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.167,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.1176,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.46,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.550,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.436,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1415,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.958,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.730,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1256,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,claude-v2
+mmlu-professional-law.val.292,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.975,gpt-4-1106-preview,gpt-4-1106-preview,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.111,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1430,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.423,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.106,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.52,gpt-4-1106-preview,gpt-4-1106-preview,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.364,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1266,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.298,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.521,gpt-4-1106-preview,gpt-4-1106-preview,mistralai/mistral-7b-chat
+mmlu-professional-law.val.770,mistralai/mistral-7b-chat,"A) admissible, because the victim's prior convictions would be relevant on the issue of the defendant's self-defense.",mistralai/mistral-7b-chat
+mmlu-professional-law.val.811,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.1024,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.1170,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1056,gpt-4-1106-preview,gpt-4-1106-preview,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.1300,gpt-4-1106-preview,gpt-4-1106-preview,no_model_correct
+mmlu-professional-law.val.331,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.224,mistralai/mistral-7b-chat,"C) No, legal impossibility is not a defense to the crime of conspiracy.",mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.1347,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.402,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,claude-v2
+mmlu-professional-law.val.144,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.935,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1296,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.320,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,gpt-4-1106-preview
+mmlu-professional-law.val.943,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1355,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.842,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1169,gpt-4-1106-preview,gpt-4-1106-preview,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.852,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1163,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.593,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1462,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.709,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.1174,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.597,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.300,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.134,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.136,mistralai/mistral-7b-chat,C) admissible under the excited utterance exception.,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1321,gpt-4-1106-preview,gpt-4-1106-preview,gpt-4-1106-preview
+mmlu-professional-law.val.1178,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.625,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1312,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.968,mistralai/mistral-7b-chat,"A) denied, because the shopper's statement to her housekeeper would be admissible as a declaration of present bodily condition.",mistralai/mistral-7b-chat
+mmlu-professional-law.val.1349,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1030,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,claude-v1
+mmlu-professional-law.val.11,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.836,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.135,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1258,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.240,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.723,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.752,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.613,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.767,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.545,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.986,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.1422,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1386,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.410,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.1232,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.367,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.438,mistralai/mistral-7b-chat,"A) No, because the man's statement was a confidential communication and protected under the attorney-client privilege.",mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.1054,mistralai/mixtral-8x7b-chat,C) The tax exemption would be invalidated as violative of the equal protection clause.,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.424,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat
+mmlu-professional-law.val.532,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.690,mistralai/mixtral-8x7b-chat,mistralai/mixtral-8x7b-chat,zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.1523,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.934,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat

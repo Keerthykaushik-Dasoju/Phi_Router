@@ -13,7 +13,7 @@ torch.cuda.empty_cache()
 gc.collect()
 
 CHECKPOINT_EVERY = 5
-output_file = "phi_routing_results_log_probs_5shot_pos2.csv"
+output_file = "phi_routing_results_log_probs_5shot_random.csv"
 
 parser = argparse.ArgumentParser(description="LLM Router Configuration")
 
@@ -72,9 +72,6 @@ system_message_few_shot = {
         """
 }
 
-# Build few-shot message history
-messages = [system_message_few_shot]
-
 candidate_models = [
     "mistralai/mistral-7b-chat",
     "WizardLM/WizardLM-13B-V1.2",
@@ -90,10 +87,19 @@ curr_num_of_shots = 0
 pick_diverse_prompts = args.pick_diverse_prompts
 required_num_of_shots = args.required_num_of_shots
 
+
+if required_num_of_shots == 0:
+    messages = [system_message_zero_shot]
+else:
+    # Build few-shot message history
+    messages = [system_message_few_shot]
+
 print(f"Diverse prompt selection: {pick_diverse_prompts}")
 print(f"Number of shots: {required_num_of_shots}")
 
-def reasoning_for_phi_prediction(candidate_models, row):
+include_reasoning = False
+
+def reasoning_for_phi_prediction(row):
 
     # Step 1: Find the highest correctness
     max_correctness = max([row[model] for model in candidate_models])
@@ -113,12 +119,6 @@ def reasoning_for_phi_prediction(candidate_models, row):
 
     # Step 5: Construct reasoning
     reasoning = (
-        f"Reasoning: Models with the highest correctness ({max_correctness}):\n"
-        + "\n".join(model_stats)
-        + f"\n\nSelected **{best_model}** as it had the lowest cost ({best_cost:.6f}) among them."
-    )
-
-    reasoning = (
         f"Reasoning:\n"
         f"The following models achieved the highest correctness ({max_correctness}):\n"
         + "\n".join(model_stats) +
@@ -130,14 +130,13 @@ def reasoning_for_phi_prediction(candidate_models, row):
 
 # Add few-shot examples
 temp_messages = []
-gpt_pos = 2
 for _, row in few_shot_data.iterrows():
     prompt = row['prompt']
     sample_id = row['sample_id']
     oracle_model = row['oracle_model_to_route_to']
     if curr_num_of_shots == required_num_of_shots:
         break
-    if not pick_diverse_prompts or oracle_model == candidate_models_set[-1]:
+    if (not pick_diverse_prompts and oracle_model in candidate_models_set) or oracle_model == candidate_models_set[-1]:
         model_stats = [
             f"{model} — correctness: {row[model]}, cost: {row[f'{model}|total_cost']}"
             for model in candidate_models
@@ -156,25 +155,41 @@ for _, row in few_shot_data.iterrows():
             )
         })
         temp_messages.append({"role": "assistant", "content": row['oracle_model_to_route_to']})
-        # messages.append({"role": "assistant", "content": reasoning_for_phi_prediction(candidate_models, row)})
+        if include_reasoning:
+            temp_messages.append({"role": "assistant", "content": reasoning_for_phi_prediction(row)})
         curr_num_of_shots += 1
         print(sample_id)
         print(oracle_model)
         if pick_diverse_prompts:
             candidate_models_set.pop()
 
+def extend_messages():
+    if pick_diverse_prompts and required_num_of_shots > 0:
+        print("include_reasoning: " + str(include_reasoning))
+        if include_reasoning:
+            number_of_messages = 3
+        else:
+            number_of_messages = 2
+        gpt_pos = 4
+        for i in range(gpt_pos):
+            for j in range(number_of_messages):
+                messages.append(temp_messages[number_of_messages*(i+1)+j])
+            print(messages[1-number_of_messages])
+        for j in range(number_of_messages):
+            messages.append(temp_messages[j])
+        print(messages[1-number_of_messages])
+        for i in range(gpt_pos+1, len(temp_messages)//number_of_messages):
+            for j in range(number_of_messages):
+                messages.append(temp_messages[number_of_messages*(i)+j])
+            print(messages[1-number_of_messages])
+    else:
+        for temp_message in temp_messages:
+            messages.append(temp_message)
 
-for i in range(gpt_pos):
-    messages.append(temp_messages[2*(i+1)])
-    messages.append(temp_messages[2*(i+1)+1])
-    print(messages[-1])
-messages.append(temp_messages[0])
-messages.append(temp_messages[1])
-print(messages[-1])
-for i in range(gpt_pos+1, len(temp_messages)//2):
-    messages.append(temp_messages[2*(i)])
-    messages.append(temp_messages[2*(i)+1])
-    print(messages[-1])
+# Add temp_messages to the messages in proper order
+extend_messages()
+print(messages)
+
 # Load model
 model_path = "/work/pi_wenlongzhao_umass_edu/25/kdasoju/phi3_5_mini_instruct"
 model = AutoModelForCausalLM.from_pretrained(

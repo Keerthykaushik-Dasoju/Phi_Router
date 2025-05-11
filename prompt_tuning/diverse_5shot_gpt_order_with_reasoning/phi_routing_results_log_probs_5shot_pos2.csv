@@ -1,0 +1,132 @@
+sample_id,phi_prediction,phi_response,oracle_model_to_route
+mmlu-professional-law.val.1247,mistralai/mixtral-8x7b-chat,B) WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+mmlu-international-law.val.89,gpt-4-1106-preview,D) gpt-4-1106-preview,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.4617,mistralai/mistral-7b-chat,"C) Resist the urge to interrupt what they're saying. [substeps] Let them get their entire message across before giving your response.
+
+Reasoning:
+The prompt is about how to accept an apology from a",zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.5357,gpt-4-1106-preview,gpt-4-1106-preview,meta/llama-2-70b-chat
+hellaswag.val.2731,mistralai/mistral-7b-chat,"mistralai/mistral-7b-chat
+
+Reasoning:
+The prompt describes a situation where a man is searching for his missing dog, which he paid to cut the grass. The most relevant option among the given choices",WizardLM/WizardLM-13B-V1.2
+hellaswag.val.9797,mistralai/mistral-7b-chat,"D) Read as much as you can, and most importantly, trust your gut. Below are some examples of poly-specific abuse patterns.
+
+Reasoning:
+The prompt is asking for guidance on how to address abuse in",zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.570,gpt-4-1106-preview,"gpt-4-1106-preview
+
+Reasoning:
+The prompt describes a scenario where the nephew intentionally administers a lethal dose of medication to his aunt, which constitutes a",zero-one-ai/Yi-34B-Chat
+hellaswag.val.1836,mistralai/mistral-7b-chat,"mistralai/mistral-7b-chat
+
+Reasoning:
+The prompt describes a scene that is likely to be depicted in a simple, straightforward manner, without any complex or unusual actions that would require a highly special",WizardLM/WizardLM-13B-V1.2
+hellaswag.val.2769,mistralai/mistral-7b-chat,"mistralai/mistral-7b-chat
+
+Reasoning:
+The prompt describes a scene that is likely to be accurately depicted by a model with a focus on visual understanding and context. While all models listed are",mistralai/mistral-7b-chat
+mmlu-professional-law.val.485,meta/code-llama-instruct-34b-chat,"meta/code-llama-instruct-34b-chat
+
+Reasoning:
+The prompt involves understanding the separation of powers within the U.S. government, specifically the President's authority in relation to commerce and law",claude-instant-v1
+hellaswag.val.2850,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-business-ethics.val.54,meta/code-llama-instruct-34b-chat,"B) Ethics of duty, Ethics of rights and justice, Principle
+
+Reasoning:
+The correct answer is ""B"" because it is the only option that correctly identifies two ethical theories (Ethics of duty",WizardLM/WizardLM-13B-V1.2
+bias_detection.dev.265,mistralai/mistral-7b-chat,"mistralai/mistral-7b-chat
+
+Reasoning:
+The sentence provided is a direct quote from a person, Marat Gabidullin, expressing his doubt about the group's existence without the leadership",no_model_correct
+consensus_summary.dev.5,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,claude-v1
+hellaswag.val.3051,mistralai/mistral-7b-chat,"mistralai/mistral-7b-chat
+
+Reasoning:
+The prompt describes a woman playing an instrument with a bow, which is typically associated with string instruments like the violin. Among the available models, **m",meta/llama-2-70b-chat
+hellaswag.val.5313,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+mmlu-miscellaneous.val.737,gpt-4-1106-preview,"B) Balderdash
+
+Reasoning:
+Among the given options, Balderdash is a popular word game that relies on bluffing, as players try to guess the correct definition of obscure words that their opponents",WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.3702,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+hellaswag.val.6662,mistralai/mistral-7b-chat,A) Spray the solution all over your tub and scrub with a long handled bathtub cleaning tool which you can buy almost anywhere cleaning supplies are sold. Here are some other items you might want to help you clean.,mistralai/mistral-7b-chat
+grade-school-math.dev.5353,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat
+grade-school-math.dev.7313,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat
+mmlu-high-school-biology.val.90,gpt-4-1106-preview,"gpt-4-1106-preview
+
+Reasoning:
+The scenario described in the prompt is an example of natural selection, where environmental pressures (in this case, a thunderstorm) lead to differential surv",mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.73,mistralai/mistral-7b-chat,"mistralai/mistral-7b-chat
+
+Reasoning:
+The prompt involves a legal scenario where the pedestrian may sue the boy for injuries sustained due to the boy's actions. The correct answer",mistralai/mixtral-8x7b-chat
+mmlu-business-ethics.val.77,mistralai/mistral-7b-chat,"mistralai/mistral-7b-chat
+
+Reasoning:
+The UN Global Compact covers principles related to:
+- Labour (A)
+- Anti-corruption (C)
+- Human rights (D",WizardLM/WizardLM-13B-V1.2
+hellaswag.val.7889,mistralai/mistral-7b-chat,"C) [step] Take a clean saucepan and fill the saucepan with room temperature water to at least half of the pan. [title] Place the saucepan on the stove.
+
+Reasoning:
+The",zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.715,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,mistralai/mistral-7b-chat
+mmlu-jurisprudence.val.67,mistralai/mistral-7b-chat,"mistralai/mistral-7b-chat
+
+Reasoning:
+The argument against the 'fair play' argument in support of a duty to obey the law that is most persuasive is likely to be one that",mistralai/mistral-7b-chat
+hellaswag.val.2580,mistralai/mistral-7b-chat,"mistralai/mistral-7b-chat
+
+Reasoning:
+The prompt describes a person laying carpet over hardwood floors, which is a task that involves using carpet laying tools and adhesive",gpt-4-1106-preview
+grade-school-math.dev.5091,gpt-4-1106-preview,gpt-4-1106-preview,mistralai/mistral-7b-chat
+grade-school-math.dev.7398,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.8841,mistralai/mistral-7b-chat,"mistralai/mistral-7b-chat
+
+Reasoning:
+The prompt is about setting up a comfortable environment for a full body massage. The most relevant step from the given options is ensuring the room is comfortable",zero-one-ai/Yi-34B-Chat
+mmlu-college-mathematics.val.52,gpt-4-1106-preview,"gpt-4-1106-preview
+
+Reasoning:
+The correctness and cost values for each model are not provided in the prompt. However, based on the instruction to choose the model with the lowest cost among those",mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.1513,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,no_model_correct
+hellaswag.val.6403,mistralai/mistral-7b-chat,"D) Using a wooden fork, mix all the liquids together until you have a runny gravy that's like a broth; it should be thick but clean. [substeps] It's important to stir all the liquids",zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.1515,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.8810,mistralai/mistral-7b-chat,"A) [substeps] Some good sources can include wrapping paper, old magazines, old books, comics, and crossword puzzles. If you are unable to find anything you like in print, you can also find images you like",mistralai/mistral-7b-chat
+mmlu-professional-law.val.1365,gpt-4-1106-preview,"gpt-4-1106-preview
+
+Reasoning:
+The prompt requires knowledge of contract law and the determination of damages due to breach of contract. The correct model should have a high correctness score for",mistralai/mistral-7b-chat
+hellaswag.val.9743,mistralai/mistral-7b-chat,A) Begin by identifying the reason you don't have a job or why you don't make enough to pay child support : [substeps] Medical illness disability layoff imprisonment other reason [title] Get medical records.,mistralai/mistral-7b-chat
+hellaswag.val.4227,mistralai/mistral-7b-chat,"mistralai/mistral-7b-chat
+
+Reasoning:
+The prompt is asking for a method to improve as a history student by brainstorming and organizing thoughts, particularly focusing on difficult concepts. The",zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.3650,gpt-4-1106-preview,gpt-4-1106-preview,meta/llama-2-70b-chat
+grade-school-math.dev.7183,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.2573,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.1662,mistralai/mistral-7b-chat,"mistralai/mistral-7b-chat
+
+Reasoning:
+The prompt describes a scene where a man is likely to perform an action related to playing a violin in an airport setting. Among the given options,",WizardLM/WizardLM-13B-V1.2
+mmlu-miscellaneous.val.235,gpt-4-1106-preview,"D) through a human body
+
+Reasoning:
+The movie 'Fantastic Voyage' is well-known for its plot where the voyagers travel through a human body. None of the other options (A, B,",WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.2161,gpt-4-1106-preview,"gpt-4-1106-preview
+
+Reasoning:
+The prompt requires a simple arithmetic calculation to determine Renata's final amount of money. Among the available models, **gpt-4-110",claude-instant-v1
+hellaswag.val.5410,mistralai/mistral-7b-chat,"A) Bubble bars are luxurious, and not worth a quick, five minute bath. Save them for when you have time to take a longer bath and relax.
+
+Reasoning:
+The prompt is asking for advice on how",mistralai/mistral-7b-chat
+hellaswag.val.551,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,mistralai/mixtral-8x7b-chat
+mmlu-high-school-geography.val.58,mistralai/mistral-7b-chat,"mistralai/mistral-7b-chat
+
+Reasoning:
+The process of invasion and succession typically refers to the phenomenon where new residents move into areas occupied by older resident groups, which aligns with option B.",WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1203,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,zero-one-ai/Yi-34B-Chat
+hellaswag.val.867,mistralai/mistral-7b-chat,mistralai/mistral-7b-chat,zero-one-ai/Yi-34B-Chat

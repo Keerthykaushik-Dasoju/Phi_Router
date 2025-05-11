@@ -1,0 +1,10 @@
+mmlu-professional-law.val.834
+mistralai/mistral-7b-chat
+mmlu-professional-law.val.567
+WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.282
+mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.394
+gpt-4-1106-preview
+mmlu-professional-law.val.428
+mistralai/mistral-7b-chat

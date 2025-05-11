@@ -1,0 +1,10 @@
+hellaswag.val.361
+WizardLM/WizardLM-13B-V1.2
+hellaswag.val.389
+mistralai/mistral-7b-chat
+hellaswag.val.3390
+mistralai/mixtral-8x7b-chat
+hellaswag.val.2875
+gpt-4-1106-preview
+hellaswag.val.4436
+mistralai/mistral-7b-chat

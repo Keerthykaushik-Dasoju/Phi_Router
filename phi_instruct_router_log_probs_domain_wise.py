@@ -13,7 +13,6 @@ torch.cuda.empty_cache()
 gc.collect()
 
 CHECKPOINT_EVERY = 5
-output_file = "phi_routing_results_log_probs_5shot_pos4.csv"
 
 parser = argparse.ArgumentParser(description="LLM Router Configuration")
 
@@ -32,14 +31,39 @@ parser.add_argument(
     help="Number of few-shot examples to use (mandatory)"
 )
 
+parser.add_argument(
+    "--domain",
+    type=str,
+    required=True,
+    help="Domain name to evaluate the router on (e.g., 'hellaswag')"
+)
+
 args = parser.parse_args()
+
+# Use the parsed arguments
+pick_diverse_prompts = args.pick_diverse_prompts
+required_num_of_shots = args.required_num_of_shots
+domain = args.domain
+
+if required_num_of_shots == 0:
+    output_file = f"phi_routing_results_log_probs_0shot_{domain}.csv"
+elif pick_diverse_prompts:
+    output_file = f"phi_routing_results_log_probs_{required_num_of_shots}shot_{domain}_diverse.csv"
+else:
+    output_file = f"phi_routing_results_log_probs_{required_num_of_shots}shot_{domain}_random.csv"
+
+print("Output file: "+output_file)
 
 # Load datasets
 train_data = pd.read_csv("/work/pi_wenlongzhao_umass_edu/25/data/routerbench/routerbench_0shot_train.csv")
-test_data = pd.read_csv("/work/pi_wenlongzhao_umass_edu/25/data/routerbench/routerbench_0shot_test.csv")
+test_data = pd.read_csv(f"/work/pi_wenlongzhao_umass_edu/25/data/routerbench/routerbench_0shot_test_domainwise/{domain}.csv")
+online_data = pd.read_csv("/work/pi_wenlongzhao_umass_edu/25/data/routerbench/routerbench_0shot_online.csv")
 
-# Sample few-shot examples
-few_shot_data = train_data.sample(n=1000, random_state=42)
+# Combine train and online (order preserved: train first, then online)
+few_shot_data = pd.concat([train_data, online_data], ignore_index=True)
+
+# Filter only the current domain (also preserves order)
+few_shot_data = few_shot_data[few_shot_data['eval_name'] == domain]
 
 system_message_zero_shot = {
     "role": "system",
@@ -72,9 +96,6 @@ system_message_few_shot = {
         """
 }
 
-# Build few-shot message history
-messages = [system_message_few_shot]
-
 candidate_models = [
     "mistralai/mistral-7b-chat",
     "WizardLM/WizardLM-13B-V1.2",
@@ -83,17 +104,23 @@ candidate_models = [
     "gpt-4-1106-preview",
 ]
 
-candidate_models_set = list(candidate_models)
+candidate_models_set = set(candidate_models)
 
 curr_num_of_shots = 0
-# Use the parsed arguments
-pick_diverse_prompts = args.pick_diverse_prompts
-required_num_of_shots = args.required_num_of_shots
+
+
+if required_num_of_shots == 0:
+    messages = [system_message_zero_shot]
+else:
+    # Build few-shot message history
+    messages = [system_message_few_shot]
 
 print(f"Diverse prompt selection: {pick_diverse_prompts}")
 print(f"Number of shots: {required_num_of_shots}")
 
-def reasoning_for_phi_prediction(candidate_models, row):
+include_reasoning = False
+
+def reasoning_for_phi_prediction(row):
 
     # Step 1: Find the highest correctness
     max_correctness = max([row[model] for model in candidate_models])
@@ -113,12 +140,6 @@ def reasoning_for_phi_prediction(candidate_models, row):
 
     # Step 5: Construct reasoning
     reasoning = (
-        f"Reasoning: Models with the highest correctness ({max_correctness}):\n"
-        + "\n".join(model_stats)
-        + f"\n\nSelected **{best_model}** as it had the lowest cost ({best_cost:.6f}) among them."
-    )
-
-    reasoning = (
         f"Reasoning:\n"
         f"The following models achieved the highest correctness ({max_correctness}):\n"
         + "\n".join(model_stats) +
@@ -128,53 +149,94 @@ def reasoning_for_phi_prediction(candidate_models, row):
     return reasoning
 
 
+def create_few_shot_prompt_messages(row, prompt, few_shot_messages):
+    model_stats = [
+        f"{model} — correctness: {row[model]}, cost: {row[f'{model}|total_cost']}"
+        for model in candidate_models
+    ]
+    few_shot_messages.append({
+        "role": "user",
+        "content": (
+            f"Prompt: {prompt}\n\n"
+            f"Following are the correctness and cost values for each available model for the above prompt:\n"
+            + "\n".join(model_stats)
+            + "\n\nYou are an intelligent LLM router. You must understand the prompt and evaluate each model based on both correctness and cost.\n"
+            + "Always choose a model with correctness = 1 (i.e., one that answers the prompt correctly).\n"
+            + "If multiple models are correct, select the one with the lowest cost.\n"
+            + "What is the correct model to route this prompt to?\n"
+            + "Respond with only the model name."
+        )
+    })
+    few_shot_messages.append({"role": "assistant", "content": row['oracle_model_to_route_to']})
+    if include_reasoning:
+        few_shot_messages.append({"role": "assistant", "content": reasoning_for_phi_prediction(row)})
+
+print("include_reasoning: " + str(include_reasoning))
+if include_reasoning:
+    number_of_messages = 3
+else:
+    number_of_messages = 2
+    
 # Add few-shot examples
 temp_messages = []
-gpt_pos = 4
+model_to_message_block_map = {}
+sample_ids_used = set()
 for _, row in few_shot_data.iterrows():
     prompt = row['prompt']
     sample_id = row['sample_id']
+    eval_name = row['eval_name']
     oracle_model = row['oracle_model_to_route_to']
     if curr_num_of_shots == required_num_of_shots:
         break
-    if not pick_diverse_prompts or oracle_model == candidate_models_set[-1]:
-        model_stats = [
-            f"{model} — correctness: {row[model]}, cost: {row[f'{model}|total_cost']}"
-            for model in candidate_models
-        ]
-        temp_messages.append({
-            "role": "user",
-            "content": (
-                f"Prompt: {prompt}\n\n"
-                f"Following are the correctness and cost values for each available model for the above prompt:\n"
-                + "\n".join(model_stats)
-                + "\n\nYou are an intelligent LLM router. You must understand the prompt and evaluate each model based on both correctness and cost.\n"
-                + "Always choose a model with correctness = 1 (i.e., one that answers the prompt correctly).\n"
-                + "If multiple models are correct, select the one with the lowest cost.\n"
-                + "What is the correct model to route this prompt to?\n"
-                + "Respond with only the model name."
-            )
-        })
-        temp_messages.append({"role": "assistant", "content": row['oracle_model_to_route_to']})
-        # messages.append({"role": "assistant", "content": reasoning_for_phi_prediction(candidate_models, row)})
+    if oracle_model in candidate_models_set:
+        create_few_shot_prompt_messages(row, prompt, temp_messages)
         curr_num_of_shots += 1
         print(sample_id)
+        print(eval_name)
         print(oracle_model)
         if pick_diverse_prompts:
-            candidate_models_set.pop()
+            sample_ids_used.add(sample_id)
+            model_to_message_block_map[oracle_model] = temp_messages[-number_of_messages:]
+            candidate_models_set.remove(oracle_model)
+
+candidate_models_set = set(candidate_models)
+
+if curr_num_of_shots < required_num_of_shots:
+    for _, row in few_shot_data.iterrows():
+        prompt = row['prompt']
+        sample_id = row['sample_id']
+        eval_name = row['eval_name']
+        oracle_model = row['oracle_model_to_route_to']
+        if curr_num_of_shots == required_num_of_shots:
+            break
+        if oracle_model in candidate_models_set and sample_id not in sample_ids_used:
+            create_few_shot_prompt_messages(row, prompt, messages)
+            curr_num_of_shots += 1
+            print(sample_id)
+            print(eval_name)
+            print(oracle_model)
 
 
-for i in range(gpt_pos):
-    messages.append(temp_messages[2*(i+1)])
-    messages.append(temp_messages[2*(i+1)+1])
-    print(messages[-1])
-messages.append(temp_messages[0])
-messages.append(temp_messages[1])
-print(messages[-1])
-for i in range(gpt_pos+1, len(temp_messages)//2):
-    messages.append(temp_messages[2*(i)])
-    messages.append(temp_messages[2*(i)+1])
-    print(messages[-1])
+def extend_messages():
+    if pick_diverse_prompts and required_num_of_shots > 0:
+        messages_order_based_on_oracle_models = [
+            "meta/code-llama-instruct-34b-chat",
+            "mistralai/mixtral-8x7b-chat",
+            "WizardLM/WizardLM-13B-V1.2",
+            "mistralai/mistral-7b-chat",
+            "gpt-4-1106-preview",
+        ]
+        for model in messages_order_based_on_oracle_models:
+            if model in model_to_message_block_map:
+                messages.extend(model_to_message_block_map[model])
+    else:
+        for temp_message in temp_messages:
+            messages.append(temp_message)
+
+# Add temp_messages to the messages in proper order
+extend_messages()
+print(messages)
+
 # Load model
 model_path = "/work/pi_wenlongzhao_umass_edu/25/kdasoju/phi3_5_mini_instruct"
 model = AutoModelForCausalLM.from_pretrained(
@@ -270,7 +332,8 @@ all_outputs = []
 count = 0
 for _, row in test_data.iterrows():
     count += 1
-    print(count)
+    if count % 100 == 0:
+        print(count)
     prompt = row['prompt']
     sample_id = row['sample_id']
     if sample_id in processed_ids:

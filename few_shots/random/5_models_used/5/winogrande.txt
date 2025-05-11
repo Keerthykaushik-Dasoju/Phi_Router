@@ -1,0 +1,10 @@
+winogrande.dev.1265
+WizardLM/WizardLM-13B-V1.2
+winogrande.dev.1001
+mistralai/mistral-7b-chat
+winogrande.dev.672
+mistralai/mistral-7b-chat
+winogrande.dev.469
+WizardLM/WizardLM-13B-V1.2
+winogrande.dev.286
+mistralai/mistral-7b-chat

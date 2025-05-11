@@ -1,0 +1,5 @@
+mmlu-astronomy.val.107
+grade-school-math.dev.4644
+consensus_summary.dev.228
+arc-challenge.test.813
+hellaswag.val.2820

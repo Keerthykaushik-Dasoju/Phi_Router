@@ -1,0 +1,143 @@
+sample_id,phi_prediction,phi_response,oracle_model_to_route
+mmlu-professional-law.val.1247,mistralai/mixtral-8x7b-chat,B) WizardLM/WizardLM-13B-V1.2,WizardLM/WizardLM-13B-V1.2
+mmlu-international-law.val.89,gpt-4-1106-preview,"gpt-4-1106-preview
+
+Reasoning:
+The principle 'pacta sunt servanda' is a fundamental principle in international law which means that treaties and agreements are binding upon the parties and must",WizardLM/WizardLM-13B-V1.2
+hellaswag.val.4617,meta/code-llama-instruct-34b-chat,"C) Resist the urge to interrupt what they're saying. [substeps] Let them get their entire message across before giving your response.
+
+Reasoning:
+The prompt is about how to accept an apology from a",zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.5357,gpt-4-1106-preview,gpt-4-1106-preview,meta/llama-2-70b-chat
+hellaswag.val.2731,gpt-4-1106-preview,"gpt-4-1106-preview
+
+Reasoning:
+The prompt describes a situation where a man is searching for his dog, which he paid to cut the grass. The most relevant answer would be the one that directly",WizardLM/WizardLM-13B-V1.2
+hellaswag.val.9797,gpt-4-1106-preview,"D) Read as much as you can, and most importantly, trust your gut. Below are some examples of poly-specific abuse patterns.
+
+Reasoning:
+The prompt is asking for guidance on how to address abuse in",zero-one-ai/Yi-34B-Chat
+mmlu-professional-law.val.570,gpt-4-1106-preview,"gpt-4-1106-preview
+
+Reasoning:
+The prompt describes a scenario where the nephew intentionally administers a lethal dose of medication to his aunt, which would likely result",zero-one-ai/Yi-34B-Chat
+hellaswag.val.1836,gpt-4-1106-preview,"gpt-4-1106-preview
+
+Reasoning:
+The prompt describes a scene involving children playing around a Christmas tree, with one boy popping bubble wrap and another riding around on a toy. The",WizardLM/WizardLM-13B-V1.2
+hellaswag.val.2769,gpt-4-1106-preview,"gpt-4-1106-preview
+
+Reasoning:
+The prompt requires a model that can understand the context of a scene involving cartoon sumo wrestlers and select the most appropriate option from the given choices. Since",mistralai/mistral-7b-chat
+mmlu-professional-law.val.485,gpt-4-1106-preview,"gpt-4-1106-preview
+
+Reasoning:
+The prompt involves understanding the scope of presidential powers, particularly in relation to commerce and the enforcement of laws. The correctness and cost values for each model",claude-instant-v1
+hellaswag.val.2850,gpt-4-1106-preview,"gpt-4-1106-preview
+
+Reasoning:
+The prompt describes a scene where a woman is holding a violin and stick, and it is implied that she is about to play the violin. The",WizardLM/WizardLM-13B-V1.2
+mmlu-business-ethics.val.54,meta/code-llama-instruct-34b-chat,"B) Ethics of duty, Ethics of rights and justice, Principle",WizardLM/WizardLM-13B-V1.2
+bias_detection.dev.265,gpt-4-1106-preview,"gpt-4-1106-preview
+
+Reasoning:
+The sentence provided is an expression of a personal view or judgement about the group's ability to exist without a specific leader. It does not present raw",no_model_correct
+consensus_summary.dev.5,meta/code-llama-instruct-34b-chat,meta/code-llama-instruct-34b-chat,claude-v1
+hellaswag.val.3051,gpt-4-1106-preview,"gpt-4-1106-preview
+
+Reasoning:
+The prompt describes a woman playing an instrument with a bow, which is typically associated with string instruments like the violin. Among the given options, the one that",meta/llama-2-70b-chat
+hellaswag.val.5313,mistralai/mixtral-8x7b-chat,"C) [substeps] Look for one at local hardware stores, department stores, or online. [substeps] For instance, the jobsite boot scrubber brush mat, available online for approximately $17, is a door mat",WizardLM/WizardLM-13B-V1.2
+mmlu-miscellaneous.val.737,gpt-4-1106-preview,"gpt-4-1106-preview
+
+Reasoning:
+The game that relies on bluffing is Balderdash. Among the models provided, **gpt-4-1106-preview**",WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.3702,gpt-4-1106-preview,gpt-4-1106-preview,zero-one-ai/Yi-34B-Chat
+hellaswag.val.6662,mistralai/mistral-7b-chat,A) Spray the solution all over your tub and scrub with a long handled bathtub cleaning tool which you can buy almost anywhere cleaning supplies are sold. Here are some other items you might want to help you clean.,mistralai/mistral-7b-chat
+grade-school-math.dev.5353,gpt-4-1106-preview,gpt-4-1106-preview,meta/code-llama-instruct-34b-chat
+grade-school-math.dev.7313,gpt-4-1106-preview,gpt-4-1106-preview,meta/code-llama-instruct-34b-chat
+mmlu-high-school-biology.val.90,gpt-4-1106-preview,"gpt-4-1106-preview
+
+Reasoning:
+The prompt describes a scenario where a natural event (a thunderstorm) causes a change in the frequency of two types of fish in a pond due",mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.73,gpt-4-1106-preview,"gpt-4-1106-preview
+
+Reasoning:
+The prompt requires an understanding of legal principles, specifically the concept of transferred intent and negligence. The correct answer would likely involve legal reasoning rather than factual",mistralai/mixtral-8x7b-chat
+mmlu-business-ethics.val.77,meta/code-llama-instruct-34b-chat,"meta/code-llama-instruct-34b-chat
+
+Reasoning:
+The UN Global Compact covers principles related to:
+- Labour (A)
+- Anti-corruption (C)
+- Human",WizardLM/WizardLM-13B-V1.2
+hellaswag.val.7889,mistralai/mixtral-8x7b-chat,"C) [step] Take a clean saucepan and fill the saucepan with room temperature water to at least half of the pan. [title] Place the saucepan on the stove.
+
+Reasoning:
+The",zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.715,gpt-4-1106-preview,"gpt-4-1106-preview
+
+Reasoning:
+The prompt requires calculating the profit from selling charm bracelets. The profit per bracelet is the selling price minus the cost of materials (string",mistralai/mistral-7b-chat
+mmlu-jurisprudence.val.67,gpt-4-1106-preview,"gpt-4-1106-preview
+
+Reasoning:
+The prompt asks for the most persuasive argument against the 'fair play' argument in support of a duty to obey the law. The correctness of",mistralai/mistral-7b-chat
+hellaswag.val.2580,gpt-4-1106-preview,"gpt-4-1106-preview
+
+Reasoning:
+The prompt describes a scenario where a person is laying carpet over hardwood floors, which involves using tools and adhesive. The most relevant action",gpt-4-1106-preview
+grade-school-math.dev.5091,gpt-4-1106-preview,gpt-4-1106-preview,mistralai/mistral-7b-chat
+grade-school-math.dev.7398,gpt-4-1106-preview,gpt-4-1106-preview,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.8841,meta/code-llama-instruct-34b-chat,"B) Avoid placing uncomfortable or overly thick blankets on the floor or the table during the massage, however. If the person will be sitting for the entire massage, make sure a low table, such as a chair",zero-one-ai/Yi-34B-Chat
+mmlu-college-mathematics.val.52,gpt-4-1106-preview,"gpt-4-1106-preview
+
+Reasoning:
+The correctness and cost values for each model are not provided in the prompt. However, based on the nature of the question, which requires knowledge of topological spaces",mistralai/mixtral-8x7b-chat
+mmlu-professional-law.val.1513,meta/code-llama-instruct-34b-chat,"meta/code-llama-instruct-34b-chat
+
+Reasoning:
+The question pertains to a legal issue regarding the burden of proof in a criminal trial, which is a matter of constitutional law",no_model_correct
+hellaswag.val.6403,gpt-4-1106-preview,"D) Using a wooden fork, mix all the liquids together until you have a runny gravy that's like a broth; it should be thick but clean. [substeps] It's important to stir all the liquids",zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.1515,gpt-4-1106-preview,gpt-4-1106-preview,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.8810,mistralai/mistral-7b-chat,"A) [substeps] Some good sources can include wrapping paper, old magazines, old books, comics, and crossword puzzles. If you are unable to find anything you like in print, you can also find images you like",mistralai/mistral-7b-chat
+mmlu-professional-law.val.1365,gpt-4-1106-preview,"gpt-4-1106-preview
+
+Reasoning:
+The prompt requires knowledge of contract law and the determination of damages due to breach of contract. The correct answer would be based on the market price at",mistralai/mistral-7b-chat
+hellaswag.val.9743,mistralai/mistral-7b-chat,A) Begin by identifying the reason you don't have a job or why you don't make enough to pay child support : [substeps] Medical illness disability layoff imprisonment other reason [title] Get medical records.,mistralai/mistral-7b-chat
+hellaswag.val.4227,mistralai/mistral-7b-chat,"D) [substeps] Don't hesitate, scribble everything down. Even though in normal classes, you are told to write down the important facts, there is much more to history than meets the eye and those small facts may come",zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.3650,gpt-4-1106-preview,gpt-4-1106-preview,meta/llama-2-70b-chat
+grade-school-math.dev.7183,gpt-4-1106-preview,gpt-4-1106-preview,zero-one-ai/Yi-34B-Chat
+grade-school-math.dev.2573,gpt-4-1106-preview,gpt-4-1106-preview,WizardLM/WizardLM-13B-V1.2
+hellaswag.val.1662,gpt-4-1106-preview,"gpt-4-1106-preview
+
+Reasoning:
+The prompt describes a scene where a man is likely performing music in an airport setting. The most appropriate response would be one that involves the man playing an instrument",WizardLM/WizardLM-13B-V1.2
+mmlu-miscellaneous.val.235,gpt-4-1106-preview,"gpt-4-1106-preview
+
+Reasoning:
+The prompt asks for a factual piece of information about a specific detail from the movie ""Fantastic Voyage."" The correct answer is:",WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.2161,gpt-4-1106-preview,"gpt-4-1106-preview
+
+Reasoning:
+The prompt requires a simple arithmetic calculation to determine Renata's final amount of money. Among the available models, **gpt-4-110",claude-instant-v1
+hellaswag.val.5410,gpt-4-1106-preview,"A) Bubble bars are luxurious, and not worth a quick, five minute bath. Save them for when you have time to take a longer bath and relax.
+
+Reasoning:
+The prompt is about how to use a",mistralai/mistral-7b-chat
+hellaswag.val.551,gpt-4-1106-preview,"gpt-4-1106-preview
+
+Reasoning:
+The prompt describes a sequence of actions related to baking, specifically mixing and preparing cookie dough. The most suitable model would be the one that can understand",mistralai/mixtral-8x7b-chat
+mmlu-high-school-geography.val.58,gpt-4-1106-preview,"gpt-4-1106-preview
+
+Reasoning:
+The prompt is asking for the best description of the process of invasion and succession, which involves migration. The correct answer is:
+
+B) new residents move",WizardLM/WizardLM-13B-V1.2
+mmlu-professional-law.val.1203,gpt-4-1106-preview,gpt-4-1106-preview,zero-one-ai/Yi-34B-Chat
+hellaswag.val.867,gpt-4-1106-preview,"gpt-4-1106-preview
+
+Reasoning:
+The prompt describes a person mowing the lawn, which aligns with option D, where the person continues to mow the lawn, making turns",zero-one-ai/Yi-34B-Chat

@@ -1,0 +1,10 @@
+winogrande.dev.1265
+WizardLM/WizardLM-13B-V1.2
+winogrande.dev.1001
+mistralai/mistral-7b-chat
+winogrande.dev.259
+mistralai/mixtral-8x7b-chat
+winogrande.dev.70
+meta/code-llama-instruct-34b-chat
+winogrande.dev.532
+gpt-4-1106-preview

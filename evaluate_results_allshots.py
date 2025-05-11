@@ -4,11 +4,9 @@ from datetime import datetime
 
 # === STEP 1: Define all file paths and labels here ===
 file_paths = [
-    ("/work/pi_wenlongzhao_umass_edu/25/kdasoju/Phi3.5_Router/phi_routing_results_log_probs_with_scores_5shot_pos0.csv", "d5-shot_pos0"),
-    ("/work/pi_wenlongzhao_umass_edu/25/kdasoju/Phi3.5_Router/phi_routing_results_log_probs_with_scores_5shot_pos1.csv", "d5-shot_pos1"),
-    ("/work/pi_wenlongzhao_umass_edu/25/kdasoju/Phi3.5_Router/phi_routing_results_log_probs_with_scores_5shot_pos2.csv", "d5-shot_pos2"),
-    ("/work/pi_wenlongzhao_umass_edu/25/kdasoju/Phi3.5_Router/phi_routing_results_log_probs_with_scores_5shot_pos3.csv", "d5-shot_pos3"),
-    ("/work/pi_wenlongzhao_umass_edu/25/kdasoju/Phi3.5_Router/phi_routing_results_log_probs_with_scores_5shot_pos4.csv", "d5-shot_pos4"),
+    ("/work/pi_wenlongzhao_umass_edu/25/kdasoju/Phi3.5_Router/phi_routing_results_log_probs_with_scores_0shot_hellaswag.csv", "0-shot"),
+    ("/work/pi_wenlongzhao_umass_edu/25/kdasoju/Phi3.5_Router/phi_routing_results_log_probs_with_scores_5shot_hellaswag_random.csv", "r5-shot"),
+    ("/work/pi_wenlongzhao_umass_edu/25/kdasoju/Phi3.5_Router/phi_routing_results_log_probs_with_scores_5shot_hellaswag_diverse.csv", "d5-shot"),
 ]
 
 # === STEP 2: Load all dataframes dynamically ===

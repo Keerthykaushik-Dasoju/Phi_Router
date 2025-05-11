@@ -1,0 +1,10 @@
+grade-school-math.dev.4658
+mistralai/mixtral-8x7b-chat
+grade-school-math.dev.2288
+WizardLM/WizardLM-13B-V1.2
+grade-school-math.dev.5535
+mistralai/mistral-7b-chat
+grade-school-math.dev.2092
+mistralai/mistral-7b-chat
+grade-school-math.dev.5849
+WizardLM/WizardLM-13B-V1.2
