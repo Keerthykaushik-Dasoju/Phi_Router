@@ -1,12 +1,29 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 from datetime import datetime
+import argparse
+from matplotlib.font_manager import FontProperties
 
+bold_title_font = FontProperties(weight='bold', size=22)
+
+parser = argparse.ArgumentParser(description="Match Predictions Configuration")
+
+parser.add_argument(
+    "--domain",
+    type=str,
+    required=True,
+    help="Number of few-shot examples to use (mandatory)"
+)
+
+args = parser.parse_args()
+
+# Use the parsed arguments
+domain = args.domain
 # === STEP 1: Define all file paths and labels here ===
 file_paths = [
-    ("/work/pi_wenlongzhao_umass_edu/25/kdasoju/Phi3.5_Router/phi_routing_results_with_scores/5_models_used/log_probs/domain_wise/hellaswag/0shot.csv", "0-shot"),
-    ("/work/pi_wenlongzhao_umass_edu/25/kdasoju/Phi3.5_Router/phi_routing_results_with_scores/5_models_used/log_probs/domain_wise/hellaswag/5shot_random.csv", "r5-shot"),
-    ("/work/pi_wenlongzhao_umass_edu/25/kdasoju/Phi3.5_Router/phi_routing_results_with_scores/5_models_used/log_probs/domain_wise/hellaswag/5shot_diverse.csv", "d5-shot"),
+    (f"/work/pi_wenlongzhao_umass_edu/25/kdasoju/Phi3.5_Router/phi_routing_results_with_scores/5_models_used/log_probs/domain_wise/{domain}/0shot.csv", "0-shot"),
+    (f"/work/pi_wenlongzhao_umass_edu/25/kdasoju/Phi3.5_Router/phi_routing_results_with_scores/5_models_used/log_probs/domain_wise/{domain}/5shot_random.csv", "r5-shot"),
+    (f"/work/pi_wenlongzhao_umass_edu/25/kdasoju/Phi3.5_Router/phi_routing_results_with_scores/5_models_used/log_probs/domain_wise/{domain}/5shot_diverse.csv", "d5-shot"),
 ]
 
 # === STEP 2: Load all dataframes dynamically ===
@@ -29,10 +46,10 @@ avg_correctness = [base_df[f"{model}_correctness"].mean() for model in model_nam
 total_cost = [base_df[f"{model}_cost"].sum() for model in model_names]
 labels = model_names
 
-plt.figure(figsize=(12, 7))
+plt.figure(figsize=(12, 9))
 
 for i in range(len(labels)):
-    plt.scatter(total_cost[i], avg_correctness[i], label=labels[i], s=80)
+    plt.scatter(total_cost[i], avg_correctness[i], label=labels[i], s=120)
 
 # === STEP 5: Phi router progression ===
 phi_router_points = []
@@ -41,7 +58,7 @@ for df, label in dataframes:
     phi_cost = df["phi_cost"].sum()
     phi_router_points.append((phi_cost, phi_avg))
     plt.scatter(phi_cost, phi_avg, color='red', s=90)
-    plt.annotate(label, (phi_cost, phi_avg), xytext=(8, -10), textcoords="offset points", fontsize=12, color='red')
+    plt.annotate(label, (phi_cost, phi_avg), xytext=(8, -10), textcoords="offset points", fontsize=14, color='red')
 
 # === STEP 6: Oracle model calculation ===
 def get_oracle_model(row):
@@ -62,24 +79,32 @@ oracle_avg_correctness = base_df["oracle_correctness"].mean()
 oracle_total_cost = base_df["oracle_cost"].sum()
 
 # === STEP 7: Plot Oracle ===
-plt.scatter(oracle_total_cost, oracle_avg_correctness, color='gold', marker='*', s=200, label="Oracle (best per sample)")
-plt.annotate("Oracle", (oracle_total_cost, oracle_avg_correctness), xytext=(8, -10), textcoords="offset points", fontsize=12, color='gold')
+plt.scatter(oracle_total_cost, oracle_avg_correctness, color='deepskyblue', marker='*', s=200, label="Oracle (best per sample)")
+plt.annotate("", (oracle_total_cost, oracle_avg_correctness), xytext=(8, -10), textcoords="offset points", fontsize=12, color='gold')
 
 # === Final plot formatting ===
 phi_costs, phi_scores = zip(*phi_router_points)
 plt.plot(phi_costs, phi_scores, color='red', linestyle='--', linewidth=2, label="phi_router progression")
 
-plt.title("Cost vs Performance: Phi Router (Few-shot) vs All Models", fontsize=24)
-plt.xlabel("Total Cost", fontsize=24)
-plt.ylabel("Average Performance", fontsize=24)
-plt.xticks(fontsize=20)
-plt.yticks(fontsize=20)
+plt.title(f"Cost vs Performance: Phi Router ({domain})", fontsize=20, fontweight="bold")
+plt.xlabel("Total Cost", fontsize=20, fontweight="bold")
+plt.ylabel("Average Performance", fontsize=20, fontweight="bold")
+plt.xticks(fontsize=16)
+plt.yticks(fontsize=16)
 plt.grid(True)
-plt.tight_layout()
-plt.legend(loc="center left", bbox_to_anchor=(1, 0.5), fontsize=20, title="Models", title_fontsize=22)
+# plt.tight_layout()
+plt.legend(
+    loc="upper center",
+    bbox_to_anchor=(0.5, -0.15),
+    ncol=3,  # controls number of items per row; adjust based on how many you have
+    fontsize=20,
+    title="Models",
+    title_fontproperties=bold_title_font
+)
+plt.subplots_adjust(left=0.15, right=0.85, top=0.75, bottom=0.25)
 
 # Save
 timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-output_file = f"cost_vs_performance_allshots_logprobs_{timestamp}.png"
+output_file = f"cost_vs_performance_{domain}.png"
 plt.savefig(output_file, dpi=300, bbox_inches="tight")
 print(f"Plot saved as {output_file}")
